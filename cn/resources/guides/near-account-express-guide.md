@@ -13,7 +13,7 @@
 
 5. 您可以在NEAR浏览器（https://explorer.near.org/）以及NEAR的钱包中查看帐户信息。
 
-6. 除了可见的帐户（name.near类型），NEAR 生态系统还支持在 near-cli的帮助下建立隐形账户（它们看起来与比特币和以太坊地址相似）。 
+6. 除了可见的帐户（name.near类型），NEAR 生态系统还支持在 near-cli的帮助下建立不可见账户（它们看起来与比特币和以太坊地址相似）。 
    您可以在此处找到详细的[英文指南](https://learnnear.club/doc/roles/integrator/implicit-accounts/)
 
 7. 系统中的每个帐户只能拥有1个智能合约。 对于要求用户使用多个智能合约的应用程序，可以使用子帐户。 例如contract_1.maria.near, 
@@ -23,18 +23,18 @@
 
 ## NEAR账户 - Keys
 
-1. NEAR和其他大多数区块链基于密码学。 它依赖于一对keys，由与closed key（私钥）匹配的open key（公钥）组成。
+1. NEAR和其他大多数区块链基于密码学。 它依赖于由与private key（私钥）匹配的public key（公钥）的密钥对组成。
 
-2. NEAR 用户使用open key进行身份识别和closed key进行签名交易（在交易创建期间确认帐户所有权）。
+2. NEAR 用户使用公钥进行身份识别和私钥进行签名交易（在交易创建期间确认帐户所有权）。
 
 3. 在NEAR 有3种类型的keys。 访问密钥用于从帐户签名交易，验证器密钥允许与网络验证相关的操作，节点密钥（网络节点）允许网络上节点之间的低级通信。
 
-4. 密钥可以存储在3个不同的存储中。 INMEMORYKEYSTORE - 内存存储，用于临时方案。 BrowserLocalstorageKeyStore - 未加密的本地浏览器存储，
-   用于使用浏览器中的应用程序。 UNENCRYPTEDFILESYSTEMKEYSSTORE - 在使用near-cli工作时使用的文件系统中的未加密存储。
+4. 密钥可以存储在3个不同的存储中。 InMemoryKeyStore - 内存存储，用于临时方案。 BrowserLocalStorageKeyStore - 未加密的本地浏览器存储，
+   用于使用浏览器中的应用程序。 UnencryptedFileSystemKeyStore - 在使用near-cli工作时，使用的文件系统中的未加密存储。
    
-5. 帐户可以具有多个访问密钥或无。
+5. 帐户可以具有零个或多个访问密钥。
 
-6. 密钥可以具有不同的访问级别 - 完全访问（完全访问）或函数调用（只能调用合约方法的功能）。
+6. 密钥可以具有不同的访问级别 - FullAccess（完全访问）或FunctionCall（只能调用合约方法）。
 
 7. 所有密钥在一个帐户中是唯一的，但公钥可以分配给具有不同访问级别的不同帐户。 访问级别确定可以使用此密钥执行帐户中的操作。
 
