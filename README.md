@@ -1,2 +1,2 @@
-# learnnear-community
+# learn-near-community
 Learn NEAR Community
