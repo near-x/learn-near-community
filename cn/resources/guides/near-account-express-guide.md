@@ -36,7 +36,7 @@
 
 6. 密钥可以具有不同的访问级别 - FullAccess（完全访问）或FunctionCall（只能调用合约方法）。
 
-7. 所有密钥在一个帐户中是唯一的，但公钥可以分配给具有不同访问级别的不同帐户。 访问级别确定可以使用此密钥执行帐户中的操作。
+7. 所有密钥在一个帐户中是唯一的，但公钥可以分配给具有不同访问级别的不同帐户。 访问级别决定了可以使用此密钥执行帐户中的哪些操作。
 
 8. 对于 FullAccess 访问级别，所有8种类型的操作可用：CreateAccountAction（创建一个帐户），DeployContractAction（部署合约），FunctionCallAction（调用合约方法），
    TransferAction（将代币发送到另一个帐户），StakeAction（抵押tokens）， AddKeyAction（将一个秘钥添加到帐户），DeleteKeyAction（删除帐户密钥），
