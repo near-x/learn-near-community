@@ -13,7 +13,7 @@
 
 5. 您可以在NEAR浏览器（https://explorer.near.org/）以及NEAR的钱包中查看帐户信息。
 
-6. 除了可见的帐户（name.near类型），NEAR 生态系统还支持在 near-cli的帮助下建立不可见账户（它们看起来与比特币和以太坊地址相似）。 
+6. 除了可见的帐户（name.near类型），NEAR 生态系统还支持在 near-cli的帮助下建立隐性账户（它们看起来与比特币和以太坊地址相似）。 
    您可以在此处找到详细的[英文指南](https://learnnear.club/doc/roles/integrator/implicit-accounts/)
 
 7. 系统中的每个帐户只能拥有1个智能合约。 对于要求用户使用多个智能合约的应用程序，可以使用子帐户。 例如contract_1.maria.near, 
