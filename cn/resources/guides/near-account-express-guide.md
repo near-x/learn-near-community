@@ -12,7 +12,7 @@
 ## NEAR账户 - Keys
 1. NEAR和其他大多数区块链一样使用基于密码学的密钥。 它依赖于一对或多对由相互匹配的**公钥（public key**）和**私钥（private key）**组成的密钥对。
 2. NEAR 用户使用公钥进行身份识别，用私钥进行签名交易（在交易创建期间确认帐户所有权）。
-在NEAR 有3种类型的密钥：**Access Keys**用于帐户交易签名，**Validator Keys**允许与网络验证相关的操作，**Node Keys**（网络节点）允许网络上节点之间的底层通信。更多资料介绍可以参考[这里](https://docs.near.org/docs/develop/node/intro/types-of-node)
+3. NEAR 有3种类型的密钥：**Access Keys**用于帐户交易签名，**Validator Keys**允许与网络验证相关的操作，**Node Keys**（网络节点）允许网络上节点之间的底层通信。更多资料介绍可以参考[这里](https://docs.near.org/docs/develop/node/intro/types-of-node)
 4. 密钥可以存储在3种不同的存储中：**BrowserLocalStorageKeyStore** - 未加密的本地浏览器存储，用于使用浏览器中的应用程序；**InMemoryKeyStore** - 内存存储，用于临时方案或在本地程序指定特定的密钥； **UnencryptedFileSystemKeyStore** - 用于 near-cli或本地程序，是位于文件系统中的未加密存储。
 5. 帐户可以具有多个访问密钥或没有密钥。
 6. 密钥可以具有不同的访问级别 - FullAccess（完全访问）或FunctionCall（只能调用合约方法）。
