@@ -14,7 +14,7 @@
 2. NEAR 用户使用公钥进行身份识别和私钥进行签名交易（在交易创建期间确认帐户所有权）。
 3. 在NEAR 有3种类型的keys。**access keys**用于帐户交易签名，**validator keys**允许与网络验证相关的操作，**node keys**（网络节点）允许网络上节点之间的底层通信。
 4. 密钥可以存储在3种不同的存储中：**BrowserLocalStorageKeyStore** - 未加密的本地浏览器存储，用于使用浏览器中的应用程序；**InMemoryKeyStore** - 内存存储，用于临时方案或在本地程序指定特定的密钥； **UnencryptedFileSystemKeyStore** - 在使用near-cli或本地程序时，使用的文件系统中的未加密存储。
-5. 帐户可以具有零个或多个访问密钥。
+5. 帐户可以具有多个访问密钥或没有密钥。
 6. 密钥可以具有不同的访问级别 - FullAccess（完全访问）或FunctionCall（只能调用合约方法）。
 7. 所有密钥在一个帐户中是唯一的，但公钥可以分配给具有不同访问级别的不同帐户。 访问级别决定了可以使用此密钥执行帐户中的哪些操作。
 8. 对于 FullAccess 访问级别，所有8种类型的操作可用：CreateAccountAction（创建一个帐户），DeployContractAction（部署合约），FunctionCallAction（调用合约方法），TransferAction（将代币发送到另一个帐户），StakeAction（抵押tokens）， AddKeyAction（将一个秘钥添加到帐户），DeleteKeyAction（删除帐户密钥），DeleteAccountAction（删除帐户）。
