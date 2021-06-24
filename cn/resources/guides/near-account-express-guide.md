@@ -5,7 +5,7 @@
 3. NEAR钱包 (https://wallet.near.org/) 、NEAR水龙头(https://faucet.paras.id/)（Ethereum和Metamask用户可以使用）和 near-cli (https://github.com/near/near-cli) （为NEAR集成提供功能的命令行接口）都可以用来创建帐户。
 4. 通过 https://nearnames.com 服务，您可以创建一个 NEAR 帐户并的作为礼物发送给朋友或订阅者。
 5. 您可以在NEAR浏览器（https://explorer.near.org/）以及NEAR的钱包中查看帐户信息。
-6. 除了显式的帐户（name.near类型），NEAR 生态系统还支持在 near-cli的帮助下建立隐式账户（它们看起来与比特币和以太坊地址相似）。 您可以在此处找到详细的[英文指南](https://learnnear.club/doc/roles/integrator/implicit-accounts/)
+6. 除了显式帐户（name.near类型），NEAR 生态系统还支持通过 near-cli 创建隐式账户（它们看起来与比特币和以太坊地址相似）。 您可以在此处找到详细的[英文指南](https://docs.near.org/docs/roles/integrator/implicit-accounts)
 7. 系统中的每个帐户只能部署1个智能合约。 对于要求用户使用多个智能合约的应用程序，可以使用子帐户来部署。 例如 contract_1.maria.near、contract_2.maria.near等。
 8. 在NEAR生态系统中有开发者帐户（https://docs.norg/docs/concepts/accounts#dev-accounts）。 他们的专用于测试和调试智能合约。
 
