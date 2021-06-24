@@ -16,7 +16,7 @@
 4. 密钥可以存储在3种不同的存储中：**BrowserLocalStorageKeyStore** - 未加密的本地浏览器存储，用于使用浏览器中的应用程序；**InMemoryKeyStore** - 内存存储，用于临时方案或在本地程序指定特定的密钥； **UnencryptedFileSystemKeyStore** - 在使用near-cli或本地程序时，使用的文件系统中的未加密存储。
 5. 帐户可以具有多个访问密钥或没有密钥。
 6. 密钥可以具有不同的访问级别 - FullAccess（完全访问）或FunctionCall（只能调用合约方法）。
-7. 所有密钥在一个帐户中是唯一的，但公钥可以分配给具有不同访问级别的不同帐户。 访问级别决定了可以使用此密钥执行帐户中的哪些操作。
+7. 所有密钥在一个帐户中是唯一的，但同一个公钥可以以不同访问级别添加到不同帐户上。 访问级别决定了可以使用此密钥执行帐户中的哪些操作。
 8. 对于 FullAccess 访问级别，所有8种类型的操作可用：CreateAccountAction（创建一个帐户），DeployContractAction（部署合约），FunctionCallAction（调用合约方法），TransferAction（将代币发送到另一个帐户），StakeAction（抵押tokens）， AddKeyAction（将一个秘钥添加到帐户），DeleteKeyAction（删除帐户密钥），DeleteAccountAction（删除帐户）。
 9. 对于FunctionCall访问级别，只有FunctionCallAction可用（调用合约方法）。 此外，对于这样的密钥，您可以指定它可以调用的合约方法。
 
