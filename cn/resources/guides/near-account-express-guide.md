@@ -2,7 +2,7 @@
 ## NEAR账户介绍
 1. NEAR使用人类可读的账户标识符。例如，maria.near 或 jane.near。
 2. 从 NEAR 帐户可以根据需要创建多个子帐户的角度来看，NEAR 帐户系统类似于网站域名系统。 例如，maria.near 的帐户可以创建像 sub.maria.near 帐户，以及first.sub.masha.near, second.sub.maria.near等。
-3. NEAR钱包 (https://wallet.near.org/) （NEAR协议钱包），NEAR水龙头(https://faucet.paras.id/)（Ethereum и Metamask用户的水龙头）。near-cli (https://github.com/near/near-cli) （为NEAR集成提供功能的命令行接口）都可以使用来创建一个帐户。
+3. NEAR钱包 (https://wallet.near.org/) 、NEAR水龙头(https://faucet.paras.id/)（Ethereum和Metamask用户可以使用）和 near-cli (https://github.com/near/near-cli) （为NEAR集成提供功能的命令行接口）都可以用来创建帐户。
 4. 在NEAR您可以创建一个帐户并在 https://nearnames.com 服务的帮助下将其作为礼物发送给朋友或订阅者。
 5. 您可以在NEAR浏览器（https://explorer.near.org/）以及NEAR的钱包中查看帐户信息。
 6. 除了可见的帐户（name.near类型），NEAR 生态系统还支持在 near-cli的帮助下建立隐性账户（它们看起来与比特币和以太坊地址相似）。 您可以在此处找到详细的[英文指南](https://learnnear.club/doc/roles/integrator/implicit-accounts/)
