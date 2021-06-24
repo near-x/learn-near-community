@@ -10,7 +10,7 @@
 8. 在NEAR生态系统中有开发者帐户（https://docs.norg/docs/concepts/accounts#dev-accounts）。 他们的专用于测试和调试智能合约。
 
 ## NEAR账户 - Keys
-1. NEAR和其他大多数区块链一样基于密码学。 它依赖于由与private key（私钥）匹配的public key（公钥）的密钥对组成。
+1. NEAR和其他大多数区块链一样使用基于密码学的密钥。 它依赖于一对或多对由相互匹配的**公钥（public key**）和**私钥（private key）**组成的密钥对。
 2. NEAR 用户使用公钥进行身份识别和私钥进行签名交易（在交易创建期间确认帐户所有权）。
 3. 在NEAR 有3种类型的keys。**access keys**用于帐户交易签名，**validator keys**允许与网络验证相关的操作，**node keys**（网络节点）允许网络上节点之间的底层通信。
 4. 密钥可以存储在3个不同的存储中。 InMemoryKeyStore - 内存存储，用于临时方案。 BrowserLocalStorageKeyStore - 未加密的本地浏览器存储，用于使用浏览器中的应用程序。 UnencryptedFileSystemKeyStore - 在使用near-cli工作时，使用的文件系统中的未加密存储。
