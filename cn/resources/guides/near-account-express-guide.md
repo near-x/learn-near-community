@@ -1,7 +1,7 @@
 # NEAR账户 - 快速指南
 ## NEAR账户介绍
 1. NEAR使用人类可读的账户标识符。例如，maria.near 或 jane.near。
-2. NEAR 帐户系统类似于网站域名系统，因为帐户可以根据需要创建多个子帐户。 例如，maria.near的帐户可以创建像sub.maria.near帐户，以及first.sub.masha.near, second.sub.maria.near等。
+2. 从 NEAR 帐户可以根据需要创建多个子帐户的角度来看，NEAR 帐户系统类似于网站域名系统。 例如，maria.near 的帐户可以创建像 sub.maria.near 帐户，以及first.sub.masha.near, second.sub.maria.near等。
 3. NEAR钱包 (https://wallet.near.org/) （NEAR协议钱包），NEAR水龙头(https://faucet.paras.id/)（Ethereum и Metamask用户的水龙头）。near-cli (https://github.com/near/near-cli) （为NEAR集成提供功能的命令行接口）都可以使用来创建一个帐户。
 4. 在NEAR您可以创建一个帐户并在 https://nearnames.com 服务的帮助下将其作为礼物发送给朋友或订阅者。
 5. 您可以在NEAR浏览器（https://explorer.near.org/）以及NEAR的钱包中查看帐户信息。
@@ -21,4 +21,3 @@
 9. 对于FunctionCall访问级别，只有FunctionCallAction可用（调用合约方法）。 此外，对于这样的密钥，您可以指定它可以调用的合约方法。
 
 原文链接：https://learnnear.club/near-account-express-guide/
-
