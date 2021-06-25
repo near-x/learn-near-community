@@ -18,9 +18,24 @@ Web3以Web2不能的方式使这一愿景成为可能的，因为加密的保证
 DAOs是新世界此类共同协议的一部分。 自Vitalik 七年前撰写了这篇非常高水平的帖子，成千上万的成员在国内和其他网络上进行了实验，其中一些最着名的包括制造商，Moloch DAO，Metacartel，Lao和Flamingo Dao。 I’ve taken some key learnings from the first wave of DAO experimentation that informed the vision for DAOs on NEAR.
 
 * 一般而言，社区控制治理的方式不会随着所涉及的人数扩展。 如果没有规则，法律或层次结构，成千上万的人无法高效开发或控制。 我们在协议治理和基金治理的区块链世界中看到了许多实验。 其中许多人因各种原因而失败， from technical issues to lack of interest in voting from members or lack of a unifying, driving factor。
-
 * 不能指望每个成员永远都会很开心。 利益变化和人们的观念改变; 多数人和少数最终会出现一些问题。 即使在大多数情况下，每个人都将通过投票等基本治理达成共识，即社区的少数群体应该能够从原来团体中分叉，并遵循新的规则, at any time if they don’t agree with the majority and have enough of their own will。
-
 * 任何社区或组织都需要领导。  Even if it’s a highly dedicated group of people — if they are not working full-time on the shared cause, they are probably too busy to be active all the time and participate in every discussion or decision. Communities usually have dedicated members who are responsible for coordination, potentially moderation.
+* 如果一个社区是无许可和匿名， it’s still valuable to have members who are publicly known to be involved and create the “core” of the community。 社区将倾听这些成员的观点和意见，因为他们是已知最多投入和最了解情况的。
+* “产品”越是去中心化形式的社区，领导力的越是重要，因为产品开发通常需要更多的背景知识，而不是任何社区参与者都有。 例如，一个小组尝试在一起创建一个区块链或去中心化交易所。
+* 纯粹的基于抵押权重很多都失败可，要么是因为大多数利益相关者都无法或不想成为活动参与者，或者因为它开辟了攻击治理过程的简单方法。
 
-* 
+因此，DAO是一个具有统一共同目标的社区，需要一些协调和治理规则，with the flexibility to evolve over time as the interests and goals of the community shift, and the ability to transact and make money as a unit with minimal overhead。 考虑到学习这些东西，我们在NEAR创建一个DAO协议，即将授权各种社区 - 不仅仅是由技术人员组成 - 拥有灵活的，强大的框架，用于一起工作和发展。
+
+由此产生的协议Sputnik Dao为世界各地的新的和现有社区和组织提供了一种方式，organizations around the world to have on-chain representation of their group，管理他们的链上的活动，管理自己的决策，（重要的是！）互动 与其他daos。 目前，自2021年2月的初始发布以来，大约有100个Sputnik DAO，〜500万美元分配，~$500k contained in the collective treasuries （参见这里的[统计数据](https://stats.sputnik.fund/) ）。
+
+查看[sputnik.fund](https://www.sputnik.fund/) 并告诉我们你的想法。下周我们将分享的UX，新功能和另一篇文章分享V2测试版，其中详细信息是如何解决组织社区的关键挑战。 确保遵循我们的[Medium](https://medium.com/sputnikdao) 收到关于V2的通知。
+
+感谢Sputnik的早期社区组，了解V2的想法; NEAR团队，
+
+Tara Tan, Julia Lipton for comments and suggestions and 
+Mally Anderson  for heavy editing.
+Original article on Medium.
+P.S.
+Want to contribute to LearnNEAR.Club? Submit your proposal to Learn NEAR DAO
+
+原文链接：https://learnnear.club/near-sputnik-dao-empowering-communities/
