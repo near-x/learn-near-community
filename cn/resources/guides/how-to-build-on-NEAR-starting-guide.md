@@ -4,7 +4,7 @@
 JavaScript开发经验
 
 开发人员是区块链生态系统活力的源泉。 使用区块链主流技术，它可以降低开发人员的进入的障碍，并允许他们为普通人创造有趣和复杂的应用程序。
-因此，NEAR合约使用和JavaScript非常相似的AssemblyScript来编写。
+因此，NEAR合约建议使用和JavaScript非常相似的AssemblyScript来编写。
 
 所以，如果您在NEAR上开发构建，您可以使用以下工具
 * JavaScript SDK: 使用js 连接，签名，转账和部署到任何NEAR网络
@@ -334,5 +334,4 @@ yarn deploy
 
 
 原文链接：https://learnnear.club/how-to-build-on-near-starting-guide/
-
 
