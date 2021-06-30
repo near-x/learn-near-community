@@ -69,7 +69,7 @@ nearup betanet
 ```
 （如果您更喜欢使用TestNet，那么只需在上面的命令用TestNet替换betanet）
 
-然后，您将提示您输入帐户ID。 如果您希望运行节点，则可以将此空留下。 验证者应使用您想要抵押的帐户的帐户ID。 首先，您需要输入此代码：
+然后，将提示您输入帐户ID。 如果您不是要做验证人，则可以留空。 否则，验证人应在这里输入您想要抵押的帐户的ID：
 ```bash
 Enter your account ID (leave empty if not going to be a validator)
 ```
@@ -334,4 +334,3 @@ yarn deploy
 
 
 原文链接：https://learnnear.club/how-to-build-on-near-starting-guide/
-
