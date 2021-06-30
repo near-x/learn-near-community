@@ -290,7 +290,7 @@ window.nearInitPromise = initContract()
 ```
 
 分析
-这是前端部分，配置连接到NEAR网络。 You may configure contract interface by injecting wallet connection and wiring up both contract methods.
+这是前端部分，配置连接到NEAR网络。 通过注入wallet connection对象，指定合约的方法（methods），你就可以配置合约接口。
 
 ## 9.部署一个智能合约
 NEAR的每个智能合约都有自己的相关帐户。 运行yarn dev时，您的智能合约将部署到NEAR TestNet。 如果您现在想要使其持久化，以下是您要做的。
