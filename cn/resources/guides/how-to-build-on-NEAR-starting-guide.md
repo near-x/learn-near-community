@@ -327,7 +327,7 @@ yarn deploy
 ```
 此命令做两件事：
 * 构建和部署智能合约到 NEAR TestNet
-* 使用gh-pages构建并部署前端合约代码从Github。 如果项目已经在GitHub上设置了存储库，则可以工作。 可随时修改package.json中的部署脚本来在其他位置部署。
+* 可以通过使用gh-pages构建并部署前端合约代码到Github。 此方式适合已经在github上建立仓库的情况。 可随时修改package.json中的部署脚本更改部署的位置。
 
 ## 11.下一步
 好吧，现在你知道如何运行基本代码，你可能想要深入了解NEAR。 为此，请查看NEAR的怕[开发人员文档](https://docs.near.org/docs/develop/basics/getting-started)。
