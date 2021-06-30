@@ -1,69 +1,69 @@
 # NEAR彩虹桥是如何工作的
 原作者 Matt Henderson of [Aurora](https://aurora.dev/blog/2021-how-the-rainbow-bridge-works).
 
-The NEAR Rainbow Bridge is unique in crypto as the only permission-less, trustless bridge to Ethereum. In this article, we’re going to demystify how it works!
+作为唯一的无需许可、去信任的以太坊桥，NEAR彩虹桥在密码学领域是很独特的。本文将介绍它的工作机制！
 
-The NEAR Protocol created the [Rainbow Bridge](https://ethereum.bridgetonear.org/)—something that’s both unique and valuable in the crypto space, a fully “trustless” bridge for transferring tokens between Ethereum and NEAR—and ultimately, Aurora. While there are technical descriptions of the bridge out there, this article will explain how it works in a way hopefully understandable by anyone with a basic familiarity with crypto.
+NEAR协议构建了[彩虹桥](https://ethereum.bridgetonear.org/)—一个在密码学领域独特且高价值的全去中心化桥，可以在以太坊与NEAR之间，以及最终与极光(Aurora)之间转移通证。已有一些技术文档描述这个桥，而本文希望能让任何一个对密码学有基本认识的人能了解这个桥的工作机制。
 
-## The concept
-Let’s start by just imagining that I want to transfer 20 DAI from [Ethereum to NEAR](https://learnnear.club/near-ethereum/). Since physical transfer of tokens isn’t possible between networks, this means we need to take 20 DAI out of circulation on Ethereum, and put 20 DAI into circulation on NEAR, so that the global supply of DAI doesn’t change.
+## 概念
+假设我要从[以太坊转移20枚DAI到NEAR](https://learnnear.club/near-ethereum/)上。当然不可能在两个网络之间物理的转移通证，这意味着我们需要将20枚DAI移出以太坊上的流通，再投放20枚DAI到NEAR上流通，这样总的DAI流通量保持不变。
 
-Here’s how I could do that in a trustless, permissionless way:
+以下是通过无需许可且去信任的方式完成该需求的方法：
 
-1. I tell the Ethereum network that I want to transfer 20 DAI somewhere else.
-2. The Ethereum network locks my 20 DAI in a vault (a smart contract), so that they are taken out of circulation.
-3. Once I’m certain those 20 DAI have been locked on Ethereum, I then tell NEAR to create 20 new DAI for me there.
-4. NEAR doesn’t trust me, of course, and so it asks me to prove that I’ve locked 20 DAI on Ethereum.
-5. I provide NEAR with proof that I’ve locked those DAI on Ethereum.
-6. NEAR independently verifies my proof, and then creates 20 new DAI for me to use on NEAR.
-
-
-Later, if and when I wish to move my DAI from NEAR back to Ethereum, I simply reverse the above procedure. Neat, huh?
-
-## The actors
-So now let’s look at how all that happens in practice, using the Rainbow Bridge. The story is going to involve a number of technical components that make up the bridge:
-
-**The Rainbow Bridge UI** — this is [the website](https://ethereum.bridgetonear.org/) where you, as a user, interact with the bridge to transfer your assets between networks.
-
-**The LiteNode** — This is like a blockchain node, except that it only stores block headers, dramatically reducing the storage space needed. The LiteNode is implemented as a smart-contract, and we have two of them—one deployed on the Ethereum network, which stores NEAR block headers, and one deployed on NEAR which stores Ethereum block headers.
-
-(Just an FYI, the LiteNode is actually referred to as the “light client” in other articles, for historical reasons. If you ask me, “What stores blockchain data?”, my first thought is “a node”, and so in this article, to help with mental models, I’m calling it the LiteNode.)
-
-**Relayers** — Since LiteNodes are smart contracts, they can’t run and update themselves. Relayers are scripts running on traditional servers, that periodically read blocks from one blockchain, and communicate them to the LiteNode running on the other. So the relayers keep the LiteNodes up-to-date.
-
-Since there is a transaction cost—i.e. gas fees—each time a relayer updates a LiteNode, the one on NEAR (containing the Ethereum blocks) is updated on each Ethereum block (since NEAR gas fees are cheap), while the update frequency on Ethereum (containing the NEAR blocks) is configurable and determined by an economic budget (currently about 12 to 16 hours).
-
-**Connectors** — Connectors are smart contracts responsible for all of the logic associated with the cross-chain management of a given asset type. Like LiteNodes, they exist in pairs—one running on Ethereum, and one running on NEAR. For example, there is a pair of “ETH Connectors” responsible for transferring ETH between the two networks. And there’s an “ERC-20 Connector” pair responsible for transferring ERC-20 tokens. Someone could write an “NFT” Connector, “Prediction Market Outcomes” Connector or “DAO Vote Results” Connector if they wished. Any asset or data can be transferred across the Rainbow Bridge, if relevant Connectors exist!
-
-## Putting the pieces together
-To understand how all these elements work together to allow me to permissionlessly, and trustlessly, transfer tokens between Ethereum and NEAR, let’s walk through our original example again:
-
-1. Using the **Rainbow Bridge UI**, I start a transfer of 20 DAI from Ethereum to NEAR.
-2. When I confirm the first of two transactions in [MetaMask](https://metamask.io/), the Rainbow Bridge communicates with the **ERC-20 Connector** on Ethereum (since DAI is an ERC-20 token), which transfers and locks 20 DAI in its vault. These DAI are then no longer in circulation on the Ethereum network.
-3. Based on the header data in my transaction block, the **Rainbow Bridge UI** calculates a **cryptographic “proof”** that I really did lock 20 DAI.
-4. Since we’re next going to ask the NEAR network to create some DAI based on what just happened on Ethereum, we first wait for the **Relayer** to send about 20 Ethereum block headers to the **LiteNode** running on NEAR. This is for security, in the same way your crypto exchange makes you wait for some confirmations before using your deposited funds.
-5. After this wait, the **Rainbow Bridge UI** then allows us to take step two in the process—asking the **ERC-20 Connector** on NEAR to create 20 new DAI for us on the NEAR network.
-6. When we make this request of the ERC-20 Connector, we provide our **cryptographic proof** we received earlier, “proving” that we locked 20 DAI on Ethereum.
-7. The **ERC-20 Connector** on NEAR will then lookup our Ethereum block header in the **LiteNode** running on NEAR, and make its own independent calculation of the cryptographic proof.
-8. If the proof we provided **matches the proof** that the ERC-20 Connector calculates, then it knows those 20 DAI are safely locked away on Ethereum—and that it was me who locked it!—and proceeds to create (mint) 20 new DAI on NEAR and delivers them to my wallet.
+1. 告诉以太坊网络我要把20个DAI转移到其他地方；
+2. 以太坊锁定我的20个DAI到一个保管库（一个智能合约），这样它们就退出流通了；
+3. 一旦确认这20枚DAI已经被锁定在以太坊上了，我就告诉NEAR给我创建20个新的DAI；
+4. 然而空口无凭，NEAR要求我提供20枚DAI已经在以太坊上锁定的证明；
+5. 我向NEAR提交以太坊上的锁定证明；
+6. NEAR独立验证这个证明，通过后给我创建NEAR上流通的20枚DAI。
 
 
-When we want to transfer DAI from NEAR back to Ethereum, the process happens in reverse, i.e. rather than locking 20 DAI in NEAR, we destroy them—known as “burning”—and then we provide the “proof” of that burn to the Connector running on Ethereum. Having access to the NEAR blocks in the LiteNode running on Ethereum, it validates our proof, and releases 20 DAI from its vault and sends them to our wallet!
+之后，一旦我想把DAI转移回以太坊，只要简单逆转上述流程即可，很优雅，是吧？
 
-And that, in a nutshell, is how the Rainbow Bridge works! It’s the only Ethereum bridge in crypto that works this way, currently—allowing you to permissionlessly transfer assets between Ethereum, NEAR—and soon, Aurora—**without having to put any trust in third parties**. Very cool!
+## 参与方
+现在让我们看看在使用彩虹桥的过程中，实际上发生了些什么。这涉及到组成彩虹桥的一些技术组件：
 
-## Other bits and pieces
-Here’s some interesting notes to go along with that overview:
+**彩虹桥UI** — 这是[网址](https://ethereum.bridgetonear.org/)。作为用户，你使用它与彩虹桥交互，在网络之间转账。
 
-* Since the [NEAR-to-Ethereum](https://learnnear.club/near-ethereum/) Relayer only sends NEAR block headers to the Ethereum LiteNode every 16 hours, there’s a 16 hour delay between steps one and two when moving tokens in that direction. (Remember, this is because Ethereum gas fees make it prohibitively expensive for the Relayer to update the LiteNode on every block.) There are a number of approaches that would allow us to reduce this delay, and the team is actively working on that.
-* On NEAR, the LiteNode stores all past Ethereum block headers. In order that storage space doesn’t get out of hand, the LiteNode “prunes” (deletes) blocks older than about two weeks. This means if you start a transfer from Ethereum to NEAR, and go on vacation for three weeks between steps one and two, you won’t be able to complete your transfer, because the Ethereum data stored NEAR necessary to verify your “proof” would have been deleted!
-* An interesting property of the NEAR block header design, is that with a single block header, we can compute the history of past blocks for quite a long period. So in theory, the LiteNode on Ethereum only needs a single NEAR block; however, we keep them because the gas costs needed to perform pruning would basically be a waste of resources.
-* The team that created the Rainbow Bridge is the same that created Aurora—the NEAR EVM. Since that team has spun-out into its own entity, the Rainbow Bridge will come under its management for operations, maintenance and future evolution.
-* The Aurora team are working on “auto-finalization” for the Rainbow Bridge, so that you will no longer have to manually initiate step two of these transfers. This will be very convenient for users (and meaning that you could start your Ethereum to NEAR transfer and then go on vacation!)
-* Transfers between Ethereum and Aurora are performed by the Aurora Bridge, which uses the same core technology as the Rainbow Bridge, but augmented to handle the NEAR/Aurora hidden step in the transfers.
-* The user interface and experience of the Aurora Bridge is different than Rainbow Bridge, and at some point in the future, these will be harmonized.
+**轻节点(LiteNode)** — 它是一个区块链节点，不过仅仅存储区块头，因此极大的减少了存储占用。轻节点是以智能合约实现的，一个部署在以太坊网络上，存储NEAR区块头，另一个部署在NEAR网络上，存储以太坊区块头。
+
+(仅供参考，因为历史原因，轻节点在其他文档中也被叫做轻客户端(light client)。如果要问，“存储区块数据的实体应该叫什么？”，我的想法是“一个节点”，所以在这篇文档里，我用轻节点这个词，以便帮助建立思维模型。)
+
+**中继(Relayer)** — 轻节点是智能合约，它们不会自己运行和更新信息。中继是一些脚本，运行于传统服务器上，它们周期性地从一个区块链上读取块，传递给运行于另一个链上的轻节点。也就是说，中继保持轻节点的数据最新。
+
+每次更新轻节点都是一笔交易，因此会消耗gas费。NEAR上的轻节点（含有以太坊区块）逐个以太坊块进行更新（因为NEAR上的gas费便宜），而以太坊上的轻节点（含有NEAR区块）更新频率是可配置的，受限于经济性（目前是12到16小时更新一次）。
+
+**连接器(Connector)** — 连接器是种智能合约，负责特定资产类型的跨链管理逻辑。与轻节点类似，它们成对出现。一个运行于以太坊，另一个运行于NEAR。例如，有一对“ETH连接器”，负责在链之间转移ETH资产。还有一对“ERC-20连接器”， 负责转移ERC-20通证。其他人可以根据他们的需要，开发一个“NFT连接器”、“预测市场结果连接器”、“DAO投票结果连接器”等。只要有对应的连接器，任何资产或数据都可以通过彩虹桥移动!
+
+## 把组件合起来
+要理解这些组件是如何组织起来，使得我可以无需许可的，去信任的在以太坊和NEAR之间转移通证，让我们重新过一遍开头的例子：
+
+1. 使用 **彩虹桥UI**, 我发起了从以太坊到NEAR的20个DAI的转移。
+2. 当我在[MetaMask](https://metamask.io/)上确认了两笔交易中的第一笔，彩虹桥与以太坊上的**ERC-20 连接器**通信 (因为DAI是一个ERC-20通证)，连接器将这20枚DAI锁定在它的保管库中。至此，这笔DAI就不再在以太坊上流通了。
+3. 基于我这笔交易区块的区块头数据，**彩虹桥UI** 计算出一个**密码学“证明”** 表明我确实锁定了20枚DAI。
+4. 接下来我要请求NEAR网络基于刚才以太坊上活动而创建一些DAI，就先要等待**中继**发送大概20个以太坊区块头给运行在NEAR上的**轻节点**。这是为了安全的考虑，跟你充值给虚拟币交易所时需要等一些确认一样。
+5. 之后，**彩虹桥UI**就允许我们执行流程中的第二步 — 让NEAR上的**ERC-20 连接器**为你在NEAR链上创建20枚新的DAI。
+6. 当向**ERC-20 连接器**发起这个请求时，我们要提供那个早先收到的**密码学“证明”**，以证明我们确实在以太坊上锁定了20枚DAI。
+7. NEAR上的**ERC-20 连接器**接下来查找NEAR上**轻节点**的以太坊区块头，独立计算出密码学证明。
+8. 如果我们提供的证明**匹配**上连接器算出的那个，它就知道20枚DAI已经被安全的被我锁定在以太坊上了！ 接下来就在NEAR上创建20个新的DAI，并转账给我的钱包。
 
 
-Although some technical details have been simplified, you now have a fundamental understanding of how the Rainbow Bridge works!
+当我要把DAI转移回以太坊，流程反转。不过我们不是在NEAR上锁定那20枚DAI，而是销毁它，也叫做燃烧。然后我们提供燃烧的证明给运行于以太坊上的连接器。通过访问运行于以太坊上的轻节点里的NEAR区块数据，连接器验证那个证明，随后从保管库里释放20枚DAI并发送给我我的钱包!
 
-For a in-depth description of the Rainbow Bridge, you can [read this article](https://near.org/blog/eth-near-rainbow-bridge/), and to keep up with everything related to Aurora, be sure to [follow Aurora on Twitter!](https://twitter.com/auroraisnear)
+简而言之，这就是彩虹桥的工作机制！它是密码学领域唯一按这种方式工作的以太坊桥。目前支持无需许可的在以太坊和NEAR之间转移资产，不久之后，极光链（Aurora）也会加入。而这一切都**无需信任任何第三方**. 非常的酷！
+
+## 其他说明
+这里有些有关以上内容的有趣的说明：
+
+* 因为[NEAR到以太坊](https://learnnear.club/near-ethereum/)中继每16个小时才发送一次NEAR区块头信息给以太坊上的轻节点，造成了该方向跨链在第一步和第二步之间有16个小时的延迟。 （还记得吧，这是因为以太坊上的gas费太高，每个块都更新轻节点过于昂贵。）有一些致力于降低该延迟的方案，团队正在积极研究中。
+* NEAR上的轻节点本来是要存储以太坊的所有历史区块。但是为了让存储可控，轻节点会清除大概两周之前的区块。这意味着，如果你发起一笔从以太坊到NEAR的转账，然后在第一步和第二步之间出去度假了三个星期，你将无法完成这笔转账，因为用来检验你的“证明”的那些NEAR上的以太坊数据已经被移除了！
+* NEAR区块头设计上有个有趣的特性，就是仅靠一个区块头，就能计算过去一大段时间里的区块历史。所以理论上，以太坊上的轻节点只需要一个NEAR区块；然而，我们仍然保留多个区块，因为进行那种计算消耗的gas费是一种对资源的存粹浪费。
+* 彩虹桥的开发团队正是极光，NEAR上的EVM，的开发团队。因为这个团队已经独立出去形成自己的实体，彩虹桥会由该实体负责运维管理和未来发展。
+* 极光团队正致力于开发彩虹桥的“自动终结”特性。这样你就无需手动发起跨链转账的第二步了。这将给用户带来极大的便利（意味着你讲可以发起一笔以太坊到NEAR的转账，然后去度假！）
+* 以太坊和极光之间的跨链转账是由极光桥负责的，它使用与彩虹桥相同的核心技术，增加了NEAR/极光之间转账的隐藏步骤处理。
+* 彩虹桥和极光桥在用户界面和使用体验上有所不同。但是未来的某个时候，它们会趋于一致。
+
+
+尽管简化了一些技术细节，你现在也对彩虹桥的运行机制有了一个基础的认识!
+
+要深度了解彩虹桥，你可以[阅读该文档](https://near.org/blog/eth-near-rainbow-bridge/),。要跟进极光的所有相关信息，轻[关注极光的推特！](https://twitter.com/auroraisnear)
