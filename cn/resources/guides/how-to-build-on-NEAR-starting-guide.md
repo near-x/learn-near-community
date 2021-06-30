@@ -3,8 +3,8 @@
 [什么是NEAR](https://learnnear.club/what-is-near/)
 JavaScript开发经验
 
-开发人员是区块链生态系统活力的源泉。 使用区块链主流技术，它可以降低开发人员的进入的障碍，并允许他们为普通人创造有趣和复杂的应用程序。
-因此，NEAR合约建议使用和JavaScript非常相似的AssemblyScript来编写。
+开发人员是区块链生态系统活力的源泉。 使用区块链主流技术，它可以降低开发人员的进入的门槛，并允许他们为普通人创造有趣和复杂的应用程序。
+因此，NEAR合约支持使用和JavaScript非常相似的AssemblyScript来编写。
 
 所以，如果您在NEAR上开发构建，您可以使用以下工具
 * JavaScript SDK: 使用js 连接，签名，转账和部署到任何NEAR网络
@@ -37,13 +37,13 @@ NEAR当前支持
 
 ## 2.设置测试网
 
-在NEAR创建帐户的最简单方法是[NEAR Wallet](https://wallet.near.org/)。 NEAR有一些开发网络以他们的accountID独立运行。 
+在NEAR创建帐户的最简单方法是[NEAR Wallet](https://wallet.near.org/)。 NEAR有一些开发网络以他们的accountID作为网络名运行。 
 现在，按照步骤创建钱包。 并且确保您已遵循安全备份。
 
 >注意：在mainnet上创建帐户几乎与testnet相同，但需要为该帐户进行初始资金。 以下是mainnet帐户创建指南。
 
 在部署时，无论应用程序是否以Rust或AssemblyScript编写。 所有合约代码都被编译为WebAssembly并部署到网络以在WASM兼容的虚拟机内运行。 
-您将像大多数应用程序使用的yarn dev等命令，但您可以使用NEAR CLI命令dev-deploy轻松部署应用程序到TestNet（如果已创建一个帐户，则使用 near deploy 命令）。
+像大多数应用程序一样使用的yarn dev等命令，但您可以使用NEAR CLI命令dev-deploy轻松部署应用程序到TestNet（如果已创建一个帐户，则使用 near deploy 命令）。
 
 现在，执行以下操作：
 1. 在Near浏览器中查看。 在这里，您可以搜索NEAR生成的所有交易和块。 尝试搜索刚刚创建的帐户，并查看您已创建的交易。
@@ -60,7 +60,7 @@ NEAR当前支持
 * 在本地（独立和隔离）节点上开发和部署合约（有时称为“LocalNet”）。
 * 加入网络成为运行“验证节点”的验证者
 
-您可以通过安装NEAR betanet 和 testnet节点。 通过[https://github.com/near/nearup](https://github.com/near/nearup) 指导 
+您可以通过安装NEAR betanet 和 testnet节点。 通过[https://github.com/near/nearup](https://github.com/near/nearup) 获取指导 
 
 ## 4.使用Docker运行官方节点
 默认情况下，NEAR 使用Docker运行客户端。 所以，你所做的第一件事是安装Docker和nearup。 然后运行：
