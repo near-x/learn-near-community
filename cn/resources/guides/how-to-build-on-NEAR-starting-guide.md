@@ -28,7 +28,7 @@ NEAR应用分两个不同的部分 - 后端和前端。
 
 **如何构建和调用智能合约**
 NEAR当前支持
-* Rust – near-sdk-rs: 一个封装，为高价值合约提供了Rust编程语言的安全性。
+* **Rust – near-sdk-rs**: 一组封装，提升了用Rust编程语言编写合约的安全性，以实现高价值的合约
 * AssemblyScript near-sdk-as: 一组工具使您的SmartContracts看起来TypeScript，编译为WASM进行执行。
 
 > 注意: 由于语言和编译工具的新颖性，目前AssemblyScript不建议在金融应用中使用。
