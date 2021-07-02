@@ -15,10 +15,10 @@
 3. NEAR 有3种类型的密钥：**Access Keys**用于帐户交易签名，**Validator Keys**允许与网络验证相关的操作，**Node Keys**（网络节点）允许网络上节点之间的底层通信。更多资料介绍可以参考[这里](https://docs.near.org/docs/develop/node/intro/types-of-node)
 4. 密钥可以存储在3种不同的存储中：**BrowserLocalStorageKeyStore** - 未加密的本地浏览器存储，用于使用浏览器中的应用程序；**InMemoryKeyStore** - 内存存储，用于临时方案或在本地程序指定特定的密钥； **UnencryptedFileSystemKeyStore** - 用于 near-cli或本地程序，是位于文件系统中的未加密存储。
 5. 帐户可以具有多个访问密钥或没有密钥。
-6. 密钥可以具有不同的访问级别 - FullAccess（完全访问）或FunctionCall（只能调用合约方法）。
+6. 密钥可以具有不同的访问级别 - **FullAccess**（完全访问）或 **FunctionCall**（只能调用合约方法）。
 7. 所有密钥在一个帐户中是唯一的，但同一个公钥可以以不同访问级别添加到不同帐户上。 访问级别决定了可以使用此密钥执行帐户中的哪些操作。
-8. 对于 FullAccess 访问级别，所有8种类型的操作均可用：CreateAccountAction（创建帐户）、DeployContractAction（部署合约）、FunctionCallAction（调用合约方法）、TransferAction（将通证发送到另一个帐户）、StakeAction（质押通证）、AddKeyAction（给账户添加密钥）、DeleteKeyAction（删除帐户的某个密钥）、DeleteAccountAction（删除帐户）。
-9. 对于FunctionCall访问级别，只有FunctionCallAction可用（调用合约方法）。 此外，对于这样的密钥，您可以指定它可以调用的合约方法。
+8. 对于 **FullAccess** 访问级别，所有8种类型的操作均可用：CreateAccountAction（创建帐户）、DeployContractAction（部署合约）、FunctionCallAction（调用合约方法）、TransferAction（将通证发送到另一个帐户）、StakeAction（质押通证）、AddKeyAction（给账户添加密钥）、DeleteKeyAction（删除帐户的某个密钥）、DeleteAccountAction（删除帐户）。
+9. 对于 **FunctionCall** 访问级别，只有FunctionCallAction可用（调用合约方法）。 此外，对于这样的密钥，您可以指定它可以调用的合约方法。
 
 
 Source / 原文链接：https://learnnear.club/near-account-express-guide/
