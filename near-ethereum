@@ -17,3 +17,20 @@ Ethereum ensures decentralization by replacing central servers with thousands of
 Ethereum is now moving to Ethereum 2.0 or Serenity. The upgrade will significantly improve the blockchain’s scalability, efficiency, and speed of the Ethereum blockchain. In addition, the upgrade will allow Ethereum to reduce gas costs and process more transactions, improving the scalability of the blockchain without compromising on security. 
 
 The upgrade will also see Ethereum switch to a Proof-of-Stake consensus mechanism. PoS will see validators who have been chosen algorithmically provide security to the platform. The validators will secure the platform by locking up their ETH. Any validator that acts against the interest of the platform has their stake slashed, ensuring the platform’s security. 
+What Is the NEAR Protocol? 
+The NEAR Protocol came into existence in the summer of 2018. A decentralized development platform, the protocol was designed to create the perfect environment for decentralized applications, focusing on the shortcomings of other platforms in the smart contract and dApp space. These shortcomings are mainly issues with low speeds, low throughput, and poor compatibility with other chains. 
+
+NEAR operates on top of the NEAR Protocol, a Proof-of-Stake (PoS) blockchain, incorporating several features and innovations to reduce costs and improve scalability for both users and developers. In addition, NEAR takes a unique approach to “Sharding.”
+
+It also introduces a block generation mechanism called “Doomslug” that was proposed in 2019. Doomslug allows practical or “Doomslug” finality, ensuring that the blocks receive finality in seconds.
+
+The protocol is based on the same technology as Bitcoin, combining it with features such as database sharding. NEAR Protocol is built from scratch and is the most accessible network for end-users and developers while also ensuring scalability and security. 
+
+Most scalable blockchains centralize processing, limiting it to high-end hardware, which provides a temporary boost to their throughput, NEAR allows the platform to scale linearly, upto billions of transactions in a completely decentralized way. 
+
+NEAR is developed by the NEAR collective, a community of developers and researchers collaborating on building the project. Some important features of NEAR are 
+
+NEAR is a sharded system that allows for infinite scalability. 
+An easy-to-use protocol, NEAR allows developers to build apps easily and quickly. 
+NEAR is not a side chain but a Layer-1 protocol. 
+dApps created using NEAR run on top of the underlying NEAR layer. 
