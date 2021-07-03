@@ -43,7 +43,13 @@ Solana 中的智能合约是用 Rust 或 c 编写的，并编译成 BPF/字节�
 Solana 类似于Linuc操作系统有的文件有一个独特的帐户模型。它们可以保存任何任意数据，还包含关于如何访问它们的元数据。请记住，这些帐户有一个固定的大小，不能调整大小。
 
 Solana 当前的编程模型可能会迫使您将应用程序逻辑移出链或修改功能，使其效率低下并受到固定帐户大小的限制。
+以下哪项是Solana的组成部分？
 
+-Cluster
+
+-Collective
+
+-Parachain
 合约例子
 ```rust
 #![feature(proc_macro_hygiene)]
