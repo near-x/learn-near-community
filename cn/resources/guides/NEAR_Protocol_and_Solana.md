@@ -1,5 +1,5 @@
 # NEAR Protocol 和 Solana
-今天，让我们来看看世界上最有前途的两个智能合约平台—— Near Protocol 和 Solana。虽然 Ethereum 仍然主导着这个市场，
+今天，让我们来认识下世界上最有前途的两个智能合约平台- Near Protocol和Solana。尽管目前Ethereum依旧主导这个市场
 但事实是它缺乏可扩展性和高昂的费用迫使大多数开发者寻找可行的替代方案。Near 和 Solana已经成为前两名的领跑者。
 
 ## 1.什么是 Solana?
