@@ -345,7 +345,7 @@ impl ContentTracker {
 * 数据结构 LookupMap < String，ContentRecord > 处理键值查找，它访问存储，这等同于 soliity“ mapping”
 
 ## 3.总结
-Solana 和 NEAR 协议都是卓越的智能合约平台，已经建立了高度活跃的社区。他们都带来了特殊的功能，帮助解决去中心化最大的问题，速度。
+Solana 和 NEAR 协议都是卓越的智能合约平台，已经建立了高度活跃的社区。他们都带来了特殊的功能，帮助解决去中心化最大的问题-速度。
 这两个平台都在不断成长，并且前景看好。
 
 
