@@ -34,3 +34,16 @@ NEAR is a sharded system that allows for infinite scalability.
 An easy-to-use protocol, NEAR allows developers to build apps easily and quickly. 
 NEAR is not a side chain but a Layer-1 protocol. 
 dApps created using NEAR run on top of the underlying NEAR layer. 
+What Is The NEAR Collective? 
+NEAR Collective comprises individual organizations and other contributors that are continuously working on improving the NEAR Protocol. The Collective works on projects such as writing the initial code and implementation for the NEAR Network. NEAR is completely decentralized, operating independently and cannot be shut down or manipulated, even by those that built it.
+
+The NEAR Collective has members such as the NEAR Foundation. The NEAR Foundation is a non-profit organization that is focused on creating a vibrant ecosystem around the NEAR blockchain. It helps in the coordination of governance activities and development. The NEAR Collective has several projects, with the NEAR blockchain just one of several projects under the aegis of the collective. 
+
+Why Are Blockchains Like NEAR Necessary? 
+To understand this, we must first understand the evolution of blockchain technology. Blockchain can be divided into three stages or generations. First-generation blockchains were designed to be a simple payment mechanism. Bitcoin is an example of a first-generation blockchain that has firmly established itself in the crypto space as the number one platform. However, first-generation blockchains have limitations when it comes to complex transactions. 
+
+Second-generation blockchain platforms came to the fore with Ethereum and the concept of smart contracts, allowing developers to use them and program more sophisticated transactions and creating dApps. But second-generation blockchains suffer from severe scalability issues. For example, Ethereum can process only about 25 transactions per second, compare this number with mainstream platforms like Visa or PayPal, and you can see how far behind Ethereum is lagging. 
+
+Ethereum has tried to fix its scalability issues by implementing Layer-2 solutions like the plasma protocol, creating an additional layer that runs in tandem with the main chain. However, Layer-2 solutions still have not gained enough traction. 
+
+This brings us to NEAR, a third-generation blockchain. NEAR discards the idea that each node on the network has to run the entire code as the team believes that all it does is create bottlenecks. Instead, the blockchain fixes scalability issues by utilizing a sharding technique, allowing the blockchain to scale up the network’s capacity. And unlike second-generation blockchains that use a Layer-2 solution, sharding is a Layer-1 solution. 
