@@ -3,7 +3,6 @@
 但事实是它缺乏可扩展性和高昂的费用迫使大多数开发者寻找可行的替代方案。Near 和 Solana已经成为前两名的领跑者。
 
 ## 1.什么是 Solana?
-
 [Solana](https://solana.com/) 成立于2017年，创始人是曾在 DropBox 工作过的 Yakovenko, 以及 Eric Williams and CTO Greg Fritzgerald，
 解决比特币和以太网存在的问题。该项目吸引了来自 Multicoin Capital、 Foundation Capital、 SLOW Capital、 CMCC Global、 Abstract Ventures 等公司的投资。
 
