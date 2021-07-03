@@ -335,7 +335,7 @@ impl ContentTracker {
 
 ```
 
-合同解释
+合约解释
 * 该合约由 ContentTracker 中的 #[near_bindgen] 定义，它类似于 Solidity 中的构造函数，并在部署契约时调用
 * purchase函数 使用了  #[payable] 注解
 * 合约包括以 Promise: : new (...) . transfer (...) ; lines 的形式进行的异步调用
