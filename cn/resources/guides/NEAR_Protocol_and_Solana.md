@@ -11,7 +11,7 @@
 Solana区块链的特点
 * 每秒50,000次交易和0.4秒的阻塞时间
 * 该系统在40 gigabit 网络上每秒可提供2840万次交易
-* 使用历史证明（Proof-of-History consensus algorithm）共识算法
+* Solana使用历史证明（Proof-of-History consensus algorithm）共识算法
 
 
 ### 历史证明是如何运作的？
