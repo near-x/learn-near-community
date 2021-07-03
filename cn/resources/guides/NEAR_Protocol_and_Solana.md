@@ -226,7 +226,7 @@ pub enum ErrorCode {
 
 ##  2.什么是 NEAR 协议？
 该协议于2018年夏天发布，旨在通过提供更高的速度、更高的吞吐量以及更好的与其他链的兼容性，为分散式应用程序创建完美的环境。NEAR 有一个独特的分片技术，
-并引入了一个在2019年提出的块生成机制称为“Doomslug”。Doomslug allows practical or “Doomslug” finality,确保在秒内得到结局。
+并在2019年引入了名为“Doomlug”的块生成机制。Doomslug允许实际或 “Doomslug”终结，确保在秒内得到结局。
 
 NEAR 协议是由 NEAR Collective 开发的，这是一个由开发人员和研究人员合作构建项目的社区。NEAR 的一些关键特性如下:
 * NEAR 是一个分片系统，它支持无限的可伸缩性
