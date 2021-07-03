@@ -27,9 +27,9 @@ NEAR应用分两个不同的部分 - 后端和前端。
 * 与智能合约的交互（前端）：您可以与您自己或者其他人部署的合约互动。 您可以通过在应用程序中使用near-api-js源码中的快速开始和代码示例执行和验证此操作。
 
 NEAR应用程序分成两个不同的部分 - 后端和前端。 后端是______
-- Mainnet
-- Testnet
-- Smart contracts
+- 主网（Mainnet）
+- 测试网（Testnet）
+- 智能合约
 
 **如何构建和调用智能合约**
 NEAR当前支持
@@ -51,9 +51,9 @@ NEAR当前支持
 像大多数应用程序一样使用的yarn dev等命令，但您可以使用NEAR CLI命令dev-deploy轻松部署应用程序到TestNet（如果已创建一个帐户，则使用 near deploy 命令）。
 
 所有合约代码都被编译为webassembly并部署到网络是运行在____ 里面?
-- Sandbox
-- Wasm-compatible virtual machine
-- EVM
+- 沙盒（Sandbox）
+- wasm兼容虚拟机
+- 以太坊虚拟机（EVM）
 
 现在，执行以下操作：
 1. 在Near浏览器中查看。 在这里，您可以搜索NEAR生成的所有交易和块。 尝试搜索刚刚创建的帐户，并查看您已创建的交易。
@@ -73,9 +73,9 @@ NEAR当前支持
 您可以通过安装NEAR betanet 和 testnet节点。 通过[https://github.com/near/nearup](https://github.com/near/nearup) 获取指导 
 
 与任何区块链的生态系统一样，NEAR在一个名为____ 的公开的计算机集群上运行?
-- Nodes
-- Blockchain
-- Near Protocol
+- 节点（Nodes）
+- 区块链
+- NEAR 协议
 
 
 ## 4.使用Docker运行官方节点
