@@ -26,6 +26,11 @@ NEAR应用分两个不同的部分 - 后端和前端。
 * 智能合约（后端）：在链中存储和修改数据。 合约需要公开并有允许客户“查看”和“更改”状态的方法。
 * 与智能合约的交互（前端）：您可以与您自己或者其他人部署的合约互动。 您可以通过在应用程序中使用near-api-js Quickstart和Code Snippets来执行此操作。
 
+NEAR应用程序分成两个不同的部分 - 后端和前端。 后端是______
+- Mainnet
+- Testnet
+- Smart contracts
+
 **如何构建和调用智能合约**
 NEAR当前支持
 * **Rust – near-sdk-rs**: 一组封装，提升了用Rust编程语言编写合约的安全性，以实现高价值的合约
@@ -45,6 +50,11 @@ NEAR当前支持
 在部署时，无论应用程序是否以Rust或AssemblyScript编写。 所有合约代码都被编译为WebAssembly并部署到网络以在WASM兼容的虚拟机内运行。 
 像大多数应用程序一样使用的yarn dev等命令，但您可以使用NEAR CLI命令dev-deploy轻松部署应用程序到TestNet（如果已创建一个帐户，则使用 near deploy 命令）。
 
+所有合约代码都被编译为webassembly并部署到网络是运行在____ 里面?
+- Sandbox
+- Wasm-compatible virtual machine
+- EVM
+
 现在，执行以下操作：
 1. 在Near浏览器中查看。 在这里，您可以搜索NEAR生成的所有交易和块。 尝试搜索刚刚创建的帐户，并查看您已创建的交易。
 2. 现在安装[near-cli](https://docs.near.org/docs/tools/near-cli#docsNav)。 这是一个命令行界面，允许您与NEAR无缝交互。 此NEAR文档有所有near-cli示例。
@@ -61,6 +71,12 @@ NEAR当前支持
 * 加入网络成为运行“验证节点”的验证者
 
 您可以通过安装NEAR betanet 和 testnet节点。 通过[https://github.com/near/nearup](https://github.com/near/nearup) 获取指导 
+
+与任何区块链的生态系统一样，NEAR在一个名为____ 的公开的计算机集群上运行?
+- Nodes
+- Blockchain
+- Near Protocol
+
 
 ## 4.使用Docker运行官方节点
 默认情况下，NEAR 使用Docker运行客户端。 所以，你所做的第一件事是安装Docker和nearup。 然后运行：
@@ -328,6 +344,12 @@ yarn deploy
 此命令做两件事：
 * 构建和部署智能合约到 NEAR TestNet
 * 可以通过使用gh-pages构建并部署前端合约代码到Github。 此方式适合已经在github上建立仓库的情况。 可随时修改package.json中的部署脚本更改部署的位置。
+
+每个在NEAR上的智能合约，都有自己相关联的____?
+- 代币
+- 钱包
+- 账户
+- 以上所有
 
 ## 11.下一步
 好吧，现在你知道如何运行基本代码，你可能想要深入了解NEAR。 为此，请查看NEAR的怕[开发人员文档](https://docs.near.org/docs/develop/basics/getting-started)。
