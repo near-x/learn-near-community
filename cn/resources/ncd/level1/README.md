@@ -1,4 +1,4 @@
-### NEAR Certifeid Developer Level 1
+### NEAR Certified Developer Level 1
 
 #### Course Content
 
