@@ -24,7 +24,7 @@
      
      
     
-:see_no_evil: 学一些视频 (~10 小时 @ 1x speed)
+:see_no_evil: 学习一些视频 (~10 小时 @ 1x speed)
 
 - [40 分钟] [历史背景下的p2p货币 Context](https://www.youtube.com/watch?v=n-EpKQ6xIJs&list=PLFjTj8QScrlnl_iYZSLBmRxMmtjPhUbu9&index=1)
 - [60 分钟] [比特币和即将到来的翻转基础设施](https://www.youtube.com/watch?v=5ca70mCCf2M&list=PLFjTj8QScrlnl_iYZSLBmRxMmtjPhUbu9&index=2)
