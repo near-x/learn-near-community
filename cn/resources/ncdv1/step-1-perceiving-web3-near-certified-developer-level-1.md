@@ -21,7 +21,6 @@
      --[NEAR概述](https://docs.google.com/document/d/1fG3PNTKw727Z5SVyUbJ2nnxn5MZNSGYEZIU2Y7XtlYY/edit)
      
      --[NEAR学院](https://near.academy/)
-     
      --[虚构学习途径](https://learn.figment.io/network-documentation/near/near-pathway)
      
      
