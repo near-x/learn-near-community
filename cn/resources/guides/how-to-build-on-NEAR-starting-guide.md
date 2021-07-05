@@ -70,7 +70,7 @@ NEAR当前支持
 * 在本地（独立和隔离）节点上开发和部署合约（有时称为“LocalNet”）。
 * 加入网络成为运行“验证节点”的验证者
 
-您可以通过安装NEAR betanet 和 testnet节点。 通过[https://github.com/near/nearup](https://github.com/near/nearup) 获取指导 
+您可以通过安装NEAR betanet 和 testnet节点。通过[https://github.com/near/nearup](https://github.com/near/nearup) 获取指导 
 
 与任何区块链的生态系统一样，NEAR在一个名为____ 的公开的计算机集群上运行?
 - 节点（Nodes）
@@ -83,9 +83,9 @@ NEAR当前支持
 ```bash
 nearup betanet
 ```
-（如果您更喜欢使用TestNet，那么只需在上面的命令用TestNet替换betanet）
+（如果您更喜欢使用TestNet，那么只需在上面的命令用testnet替换betanet）
 
-然后，将提示您输入帐户ID。 如果您不是要做验证人，则可以留空。 否则，验证人应在这里输入您想要抵押的帐户的ID：
+接下来，提示您输入帐户ID。 如果您不是要做验证人，则可以留空。否则，验证人应在这里输入您想要抵押的帐户的ID：
 ```bash
 Enter your account ID (leave empty if not going to be a validator)
 ```
@@ -93,13 +93,12 @@ Enter your account ID (leave empty if not going to be a validator)
 现在，您的Docker节点开始运行在后台中。 要检查Docker内的日志，请运行 docker logs –follow nearcore 。
 
 ## 5.在 NEAR 上创建一个简单的代码
-NEAR有一个有用的程序或[示例代码](https://examples.near.org/)列表，可以很方便的checkout。 所以我们将checkout的代码是[Guest Book](https://examples.near.org/guest-book)。
-使用该程序允许您登录NEAR并向留言簿添加消息！ 使用AssemblyScript后端和React 前端构建的starter应用程序。
+NEAR有一个有用的程序或[示例代码](https://examples.near.org/)列表，可以很方便的checkout。 因此我们将checkout的代码是[Guest Book](https://examples.near.org/guest-book)。使用该程序允许您登录NEAR并向留言簿添加消息！ 使用AssemblyScript后端和React前端构建的starter应用程序。
 
 ## 6.学习Guest Book代码
 要在本地运行此项目，您需要确保以下内容。
 
-* 确保安装了Node.js≥12（https:/nodejs.org），然后使用它来安装yarn：npm install –global yarn（或npm i -g yarn）
+* 确保安装了Node.js≥12（https:/nodejs.org）， 然后使用它来安装yarn：npm install –global yarn（或npm i -g yarn）
 * 安装依赖：yarn install (或 just yarn)
 * 运行本地开发服务器：yarn dev（请参阅package.json获取您可以使用yarn运行的完整参数列表）
 
@@ -108,13 +107,13 @@ NEAR有一个有用的程序或[示例代码](https://examples.near.org/)列表�
 您可能会发现[此视频](https://www.youtube.com/embed/B6Gc_OQjX9E?feature=oembed)也很有用。
 
 ### 7.探索代码
-正如您所看到的代码分成前端和后端：
+正如您所看到的，代码分成前端和后端：
 
-* 后端代码在/assembly文件夹中。 运行yarn deploy:contract，将部署该合约到NEAR区块链。 这是一个NEAR智能合约。
-* 前端代码在/src文件夹中。/src/index.html是开始探索的好地方。 请注意，它在/src/index.js中加载，您可以在其中学习前端如何连接到NEAR区块链。
+* 后端代码在/assembly文件夹中。运行yarn deploy:contract，将部署该合约到NEAR区块链。 这是一个NEAR智能合约。
+* 前端代码在/src文件夹中。/src/index.html是开始探索的位置。请注意，它在/src/index.js中加载，您可以在其中学习前端如何连接到NEAR区块链。
 
 ## 8. 后端代码
-### #1 合约的数据模型 :  assembly/model.ts
+### #1 合约的数据模型： assembly/model.ts
 
 ```ts
 import { context, u128, PersistentVector } from "near-sdk-as";
@@ -140,7 +139,7 @@ export const messages = new PersistentVector<PostedMessage>("m");
 ```
 分析
 
-@nearBindgen将类标记为序列化。 Serializable 是一个用于“标记”类的接口，以使这些类的对象可能获得某个功能。
+@nearBindgen将类标记为序列化。Serializable 是一个用于“标记”类的接口，以使这些类的对象可能获得某个功能。
 
 “PostedMessage”类有三个成员:
 * 是否使用附加的NEAR tokens的标记
@@ -184,7 +183,7 @@ export function getMessages(): PostedMessage[] {
 分析
 MESSAGE_LIMIT用于避免无限的调用（即可能昂贵的）来检索来自存储的Guest Book消息
 
-我们还在本合约中使用两种不同的公共功能 - addMessage() 和getMessages()
+我们还在本合约中使用两个不同的公开方法 - addMessage() 和getMessages()
 
 ## 9.前端代码
 ### #1 网络配置:  src/config.js
@@ -250,7 +249,7 @@ function getConfig(env) {
 module.exports = getConfig;
 ```
 分析
-上面的代码定义了连接到NEAR网络所需的数据和端点。 这里定义的连接信息包括MainNet，TestNet和Betanet以及默认LocalNet配置
+上面的代码定义了连接到NEAR网络所需的数据和端点。这里定义的连接信息包括MainNet，TestNet和Betanet以及默认LocalNet配置
 
 ### #2 配置 :  src/index.js
 ```js
@@ -306,28 +305,28 @@ window.nearInitPromise = initContract()
 ```
 
 分析
-这是前端部分，配置连接到NEAR网络。 通过注入wallet connection对象，指定合约的方法（methods），你就可以配置合约接口。
+这是前端部分，配置连接到NEAR网络。 通过注入wallet connection对象，指定合约的方法（methods），你可以配置合约接口。
 
 ## 9.部署一个智能合约
-NEAR的每个智能合约都有自己的相关帐户。 运行yarn dev时，您的智能合约将使用一个自动生成的开发账户部署到NEAR TestNet上。 如果您现在想要使其持久化，以下是您要做的。
-### Step 0: 安装 near-cli
-以下是全局安装 near-cli的方法
+NEAR的每个智能合约都有自己的相关帐户。运行yarn dev时，您的智能合约将使用一个自动生成的开发账户部署到NEAR TestNet上。如果您现在想要使其持久化，以下是您要做的。
+### Step 0: 安装near-cli
+以下是全局安装near-cli的方法
 ```bash
 npm install --global near-cli
 ```
-这将为您提供near CLI工具。 检查是否安装成功：
+该命令会安装near CLI工具。 检查是否安装成功：
 ```bash
 near --version
 ```
 ### Step 1: 为合约创建一个账号
-访问NEAR 钱包并制作新帐户。 将这些智能合约部署到此新帐户。
+访问NEAR 钱包并制作新帐户。将这些智能合约部署到此新帐户。
 
-现在授权NEAR CLI使用此新帐户，按照它为您提供的说明：
+按照为您提供的提示说明，现在登录并授权NEAR CLI使用此新帐户：
 ```bash
 near login
 ```
 ### Step 2: 设置合约名字
-修改在src/config.js中设置合约帐户名称。 将其设置为您在上面使用的帐户ID。
+修改在src/config.js中设置合约帐户名称。将其设置为您在上面使用的帐户ID。
 ```js
 const CONTRACT_NAME = process.env.CONTRACT_NAME || 'your-account-here!'
 ```
@@ -337,7 +336,7 @@ const CONTRACT_NAME = process.env.CONTRACT_NAME || 'your-account-here!'
 $ `git remote set-url origin https://github.com/YOUR_USERNAME/YOUR_REPOSITORY.git`
 ```
 ### Step 4: 部署！
-您只需要以下命令部署智能合约：
+您只需要以下命令即可部署智能合约：
 ```bash
 yarn deploy
 ```
@@ -352,7 +351,7 @@ yarn deploy
 - 以上所有
 
 ## 11.下一步
-好吧，现在你知道如何运行基本代码，你可能想要深入了解NEAR。 为此，请查看NEAR的怕[开发人员文档](https://docs.near.org/docs/develop/basics/getting-started)。
+至此，您知道了如何运行基本代码，如果您想要深入了解NEAR，请查看NEAR的[开发者文档](https://docs.near.org/docs/develop/basics/getting-started)。
 
 
 原文链接：https://learnnear.club/how-to-build-on-near-starting-guide/
