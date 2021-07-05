@@ -1,4 +1,4 @@
-#步骤 1- 感知Web3 - NEAR L1级别开发者认证
+# 步骤 1- 感知Web3 - NEAR L1级别开发者认证
 
 *学会在大量历史背景下理解当下正在发生的事情*
 
@@ -17,9 +17,11 @@
 - [ 10 分钟] 阅读并通过测试 [什么是NEAR](https://learnnear.club/what-is-near-protocol/) 指导
 - [ 30 分钟] 回顾 [NEAR大学网页](https://near.org/learn/)
 
-     --[NEAR概述](https://docs.google.com/document/d/1fG3PNTKw727Z5SVyUbJ2nnxn5MZNSGYEZIU2Y7XtlYY/edit)
-     --[NEAR学院](https://near.academy/)
-     --[虚构学习途径](https://learn.figment.io/network-documentation/near/near-pathway)
+     -[NEAR概述](https://docs.google.com/document/d/1fG3PNTKw727Z5SVyUbJ2nnxn5MZNSGYEZIU2Y7XtlYY/edit)
+     
+     -[NEAR学院](https://near.academy/)
+     
+     -[虚构学习途径](https://learn.figment.io/network-documentation/near/near-pathway)
  
 :see_no_evil: 学习一些视频 (~10 小时 @ 1x speed)
 
@@ -30,6 +32,7 @@
 - [90 分钟] NEAR 101
     
   --[回顾PPT](https://bit.ly/near-101)
+  
   --[观看记录片](https://youtu.be/m6LJUpPPHoE)
  
 - [ 4.5 小时] [代币经济学系列](https://www.youtube.com/playlist?list=PLsJWgOB5mIMCMxQVvWAP4xi19EOkHcBNN)
