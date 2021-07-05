@@ -55,4 +55,7 @@
 - [比特币时代](https://dergigi.com/2021/01/14/bitcoin-is-time/)
 - [比特币:点对点电子现金系统](https://bitcoin.org/bitcoin.pdf)
 - [以太坊黄皮书](https://ethereum.github.io/yellowpaper/paper.pdf)
-- 任何关于[nakamotoinstitute.org Literature]()的资料
+- 任何关于[nakamotoinstitute.org Literature](https://nakamotoinstitute.org/literature/)的资料
+
+
+  原文翻译链接https://learnnear.club/lessons/step-1-perceiving-web3-near-certified-developer-level-1/
