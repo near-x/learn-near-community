@@ -47,10 +47,10 @@ Solana目前的编程模型受制于固定的帐户大小，可能会迫使你�
 以下哪项是Solana的组成部分？
 
 -Cluster
-
 -Collective
-
 -Parachain
+
+
 合约例子
 ```rust
 #![feature(proc_macro_hygiene)]
@@ -227,11 +227,11 @@ pub enum ErrorCode {
 
 ##  2.什么是 NEAR 协议？
 NEAR 协议诞生于 2018 年夏天。 该协议旨在为去中心化应用程序创造完美的环境，它可以提供更高速、更高吞吐量以及与其他链有更好的兼容性。NEAR 有一个独特的分片技术，
-并在2019年引入了名为“Doomlug”的块生成机制。Doomslug允许实践（practical）或 “Doomslug”最终性(Finality)，确保在秒内得到最终性(Finality)。
+它还引入了在 2019 年提出的名为"Doomslug"的区块生成机制。 Doomslug 允许实用确定性或"Doomslug"确定性，确保区块在几秒钟内获得确定性。
 
 NEAR 协议是由 NEAR Collective 开发的，这是一个由开发人员和研究人员合作构建项目的社区。以下是NEAR 的一些关键特性:
 * NEAR 是一个分片系统，它支持无限的可伸缩性
-* NEAR 是一种易于使用的协议，它允许开发人员轻松快速地构建应用程序
+* NEAR 是一种易于使用的协议，允许开发人员轻松快速地构建应用程序
 * NEAR 不是一个侧链，而是一个Layer-1协议
 * 使用 NEAR 创建的 dApps 运行在底层 NEAR 层之上
 
