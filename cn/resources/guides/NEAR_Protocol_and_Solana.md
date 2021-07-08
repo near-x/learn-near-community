@@ -35,7 +35,7 @@ cluster是一组独立拥有的计算机共同工作，可以被视为一个单�
 
 以下哪项使用了分片？
 - Solana
--  Near protocol
+- Near protocol
 - Both
 
 ### 在 Solana 中编程
