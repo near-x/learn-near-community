@@ -258,7 +258,7 @@ Doomslug”是哪个协议的块生成机制?
 -Near协议
 -Solana
 ### Aurora and NEAR 协议
-Aurora 也已经启动了 NEAR 协议，提供了一个以太坊 Layer-2体验，Aurora 改进 NEAR 的一些方法是:
+Aurora 也在NEAR 协议上推出，提供以太坊第 2 层体验，Aurora 改进 NEAR 的一些方法是:
 
 * 它有助于将吞吐量提高到每秒数千个交易
 * 区块的确定性时间为2秒
