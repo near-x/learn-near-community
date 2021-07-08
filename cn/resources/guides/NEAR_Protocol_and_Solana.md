@@ -236,7 +236,7 @@ NEAR 协议是由 NEAR Collective 开发的，这是一个由开发人员和研�
 * 使用 NEAR 创建的 dApps 运行在底层 NEAR 层之上
 
 ### 什么是 NEAR Collective
-NEAR Collective包括个人组织和其他贡献者，这些组织和贡献者不断致力于改进 NEAR 协议。该小组负责编写 NEAR 网络的初始代码和实现等项目。NEAR 完全去中心化，独立运行，不能被关闭或操纵，即使是那些构建它的人。
+NEAR Collective由不断致力于改进 NEAR 协议的个人组织和其他贡献者组成。 该Collective致力于为 NEAR 网络编写初始代码和進行实践等项目。 NEAR 是完全去中心化的，独立运行，不能被关闭或操纵，即使是那些构建它的人。
 
 这是一个专注于围绕 NEAR 区块链创建一个充满活力的生态系统的非营利组织。它有助于协调治理活动和开发。NEAR Collective有几个项目， NEAR 区块链只是几个项目之一。
 
