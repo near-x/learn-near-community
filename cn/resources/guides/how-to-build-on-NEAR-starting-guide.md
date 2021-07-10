@@ -8,7 +8,7 @@ JavaScript开发经验
 
 所以，如果您在NEAR上开发构建，您可以使用以下工具
 * JavaScript SDK: 使用JS 连接、签名、转账，以及部署到任何NEAR网络
-* Rust Contract SDK: 建立安全，安全的合约，管理高价值资产
+* Rust Contract SDK: 建立安全，稳定的合约以管理高价值的资产
 * AssemblyScript Contract SDK: 使用JS语法零成本学习
 * JSON RPC API: 所有与平台的通信都通过此API
 * Command Line Interface: 开发人员和验证者的全功能命令行工具包
