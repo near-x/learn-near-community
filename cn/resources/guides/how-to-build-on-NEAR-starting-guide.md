@@ -13,7 +13,7 @@ JavaScript开发经验
 * JSON RPC API: 所有与平台的通信都通过此API
 * Command Line Interface: 开发人员和验证者的全功能命令行工具包
 * NEAR Explorer（浏览器）: 一个区块链搜索工具，允许开发人员查看交易详细信息、帐户信息、区块详细信息等
-* NEAR Wallet: 提供对普通用户友好的UI来创建帐户、管理访问密钥等
+* NEAR Wallet: 提供对普通用户友好的界面来创建帐户、管理访问密钥等
 * nearup: 管理本地部署以及加入公共或专用网络
 * Rainbow Bridge （彩虹桥）: 快速的跨链操作、安全的互操作性
 * EVM: 以太坊兼容的虚拟机
