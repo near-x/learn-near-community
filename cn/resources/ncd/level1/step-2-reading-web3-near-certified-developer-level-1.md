@@ -9,7 +9,7 @@
 尝试弄清楚如何获得合约代码。 然后快速阅读代码。 希望您尽可能多的阅读合约代码。 探索这些合约的“目的”（why is it?）和“编码”（what is it?）
 
 * AssemblyScript合约 是以.ts结尾的文件，通常是main.ts或index.ts
-* Rust合约 始终位于名为lib.rs的文件中。
+* Rust合约 位于名为lib.rs的文件中。
 
 核心活动：
 1. 在下面的资源部分中，选择AssemblyScript或Rust
