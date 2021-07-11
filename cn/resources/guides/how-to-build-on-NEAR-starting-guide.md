@@ -57,7 +57,7 @@ NEAR当前支持
 
 现在，执行以下操作：
 1. 在NEAR浏览器中查看。 在这里，您可以搜索在NEAR产生的所有交易和区块。 尝试搜索刚刚创建的帐户，并查看您已创建的交易。
-2. 现在安装[near-cli](https://docs.near.org/docs/tools/near-cli#docsNav)。 这是一个命令行界面，允许您与NEAR无缝交互。 此NEAR文档有所有near-cli示例。
+2. 现在安装[near-cli](https://docs.near.org/docs/tools/near-cli#docsNav)。 这是一个命令行接口，允许您与NEAR无缝交互。 此文档包含了所有的near-cli命令及相关示例。
 3. 尝试运行您的第一个命令：[near login](https://docs.near.org/docs/tools/near-cli#near-login)。 您将重定向到您的NEAR钱包，并在本地保存您的testnet帐户秘钥。
 
 查看testnet后，您可以随时运行本地节点。 但是，如果您只想练习代码，那么我们建议您使用testnet。
