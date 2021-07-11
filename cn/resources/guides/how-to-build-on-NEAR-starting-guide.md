@@ -47,7 +47,7 @@ NEAR当前支持
 
 >注意：在mainnet上创建帐户几乎与testnet相同，但需要为该帐户进行初始资金。 以下是mainnet帐户创建指南。
 
-在部署时，无论应用程序是否以Rust或AssemblyScript编写。 所有合约代码都被编译为WebAssembly并部署到网络以在WASM兼容的虚拟机内运行。 
+在部署时，无论应用程序以Rust还是AssemblyScript编写，所有合约代码都被编译为WebAssembly并部署到网络，以在WASM兼容的虚拟机内运行。
 像大多数应用程序一样使用的yarn dev等命令，但您可以使用NEAR CLI命令dev-deploy轻松部署应用程序到TestNet（如果已创建一个帐户，则使用 near deploy 命令）。
 
 所有合约代码都被编译为webassembly并部署到网络是运行在____ 里面?
