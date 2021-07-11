@@ -60,7 +60,7 @@ NEAR当前支持
 2. 现在安装[near-cli](https://docs.near.org/docs/tools/near-cli#docsNav)。 这是一个命令行接口，允许您与NEAR无缝交互。 此文档包含了所有的near-cli命令及相关示例。
 3. 尝试运行您的第一个命令：[near login](https://docs.near.org/docs/tools/near-cli#near-login)。 您将重定向到您的NEAR钱包，并在本地保存您的testnet帐户秘钥。
 
-查看testnet后，您可以随时运行本地节点。 但是，如果您只想练习代码，那么我们建议您使用testnet。
+在了解了testnet后，您也可以随时运行本地节点。 但是，如果您只想练习代码，那么我们建议您使用testnet。
 
 ## 3.如何运行一个NEAR节点？
 与任何基于区块链的生态系统一样，NEAR协议在一群公开的计算机(或“节点”)上运行。
