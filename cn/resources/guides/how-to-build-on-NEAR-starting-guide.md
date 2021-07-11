@@ -143,7 +143,7 @@ export const messages = new PersistentVector<PostedMessage>("m");
 
 “PostedMessage”类有三个成员:
 * premium - 可以标记带有附加 NEAR 通证的讯息
-* 用于追踪留言簿的签名者发件人
+* sender - 可以追踪留言簿上讯息的签名者
 * 存储留言簿的message
 
 最后，“messages”是一个集合，存储在new PersistentVector<PostedMessage> 结构中。
