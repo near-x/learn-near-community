@@ -181,7 +181,7 @@ export function getMessages(): PostedMessage[] {
 ```
 
 分析
-MESSAGE_LIMIT用于避免无限的调用（即可能昂贵的）来检索来自存储的Guest Book消息
+MESSAGE_LIMIT用于避免无限的调用（例如: 可能昂贵的）来检索来自存储Guest Book的讯息
 
 我们还在本合约中使用两个不同的公开方法 - addMessage() 和getMessages()
 
