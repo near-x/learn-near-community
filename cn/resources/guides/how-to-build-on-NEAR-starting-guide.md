@@ -26,10 +26,12 @@ JavaScript开发经验
 * 智能合约（后端）：在链中存储和修改数据。 合约需要提供一些允许用户“查看”或“更改”状态的方法。
 * 与智能合约的互动（前端）：您可以与您自己或者其他人部署的合约互动。 对于相关的互动，您可以通过在应用程序中使用near-api-js源码中的快速开始和Code Snippets进行操作。
 
+<Question1> 
 NEAR上的应用程序分成两个不同的部分 - 后端和前端。 后端是______
 - 主网（Mainnet）
 - 测试网（Testnet）
 - 智能合约
+</Question1>
 
 **如何构建和调用智能合约**
 NEAR当前支持
@@ -50,10 +52,13 @@ NEAR当前支持
 在部署时，无论应用程序以Rust还是AssemblyScript编写，所有合约代码都被编译为WebAssembly并部署到网络，以在WASM兼容的虚拟机内运行。
 像大多数应用程序一样，在开发时您可以使用的 `yarn dev` 命令，然后您可以使用 NEAR CLI 命令 `near dev-deploy` 轻松部署应用程序到TestNet（如果已创建了自己的帐户，也可以使用 `near deploy` 命令）。
 
+<Question2> 
 所有合约代码都被编译为WebAssembly并部署到网络，从而运行在____ 里面？
 - 沙盒（Sandbox）
 - WASM兼容虚拟机
 - 以太坊虚拟机（EVM）
+</Question2> 
+
 
 现在，执行以下操作：
 1. 在NEAR浏览器中查看。 在这里，您可以搜索在NEAR产生的所有交易和区块。 尝试搜索刚刚创建的帐户，并查看您已创建的交易。
@@ -72,11 +77,12 @@ NEAR当前支持
 
 您可以通过安装NEAR betanet 和 testnet节点。通过[https://github.com/near/nearup](https://github.com/near/nearup) 获取指导 
 
+<Question3> 
 与任何区块链的生态系统一样，NEAR在一个名为____ 的公开的计算机集群上运行?
 - 节点（Nodes）
 - 区块链
 - NEAR 协议
-
+</Question3> 
 
 ## 4.使用Docker运行官方节点
 默认情况下，NEAR 使用Docker运行客户端。 所以，你所做的第一件事是安装Docker和nearup。 然后运行：
@@ -101,6 +107,8 @@ NEAR有一个有用的程序或[示例代码](https://examples.near.org/)列表�
 * 确保安装了Node.js≥12（https:/nodejs.org）， 然后使用它来安装yarn：npm install –global yarn（或npm i -g yarn）
 * 安装依赖：yarn install (或 just yarn)
 * 运行本地开发服务器：yarn dev（请参阅package.json获取您可以使用yarn运行的完整参数列表）
+
+现在您可以拥有一个由NEAR TestNet支持的本地开发环境! 统一运行`yarn dev`，它会返回相关的网址，您可以通过浏览器看到相关的应用程序。
 
 [GitHub页面](https://github.com/near-examples/guest-book)。
 
@@ -344,11 +352,13 @@ yarn deploy
 * 构建和部署智能合约到 NEAR TestNet
 * 可以通过使用gh-pages构建并部署前端合约代码到Github。 此方式适合已经在github上建立仓库的情况。 可随时修改package.json中的部署脚本更改部署的位置。
 
+<Question4> 
 每个在NEAR上的智能合约，都有自己相关联的____?
 - 代币
 - 钱包
 - 账户
 - 以上所有
+</Question4> 
 
 ## 11.下一步
 至此，您知道了如何运行基本代码，如果您想要深入了解NEAR，请查看NEAR的[开发者文档](https://docs.near.org/docs/develop/basics/getting-started)。
