@@ -36,7 +36,7 @@ NEAR当前支持
 * **Rust – near-sdk-rs**: 一组封装，提升了用Rust编程语言编写合约的安全性，以实现高价值的合约
 * **AssemblyScript near-sdk-as**: 一组工具，使用它编写的智能合约看起来像 TypeScript，并编译为WASM执行
 
-> 注意: 由于语言和编译工具的新颖性，目前AssemblyScript不建议在金融应用中使用。
+> 注意: 由于语言和编译工具的新颖性，目前AssemblyScript不建议在金融应用的生产环境中使用。
 
 现在，让我们开始吧。
 
