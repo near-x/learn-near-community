@@ -56,7 +56,7 @@ NEAR当前支持
 - 以太坊虚拟机（EVM）
 
 现在，执行以下操作：
-1. 在Near浏览器中查看。 在这里，您可以搜索NEAR生成的所有交易和块。 尝试搜索刚刚创建的帐户，并查看您已创建的交易。
+1. 在NEAR浏览器中查看。 在这里，您可以搜索在NEAR产生的所有交易和区块。 尝试搜索刚刚创建的帐户，并查看您已创建的交易。
 2. 现在安装[near-cli](https://docs.near.org/docs/tools/near-cli#docsNav)。 这是一个命令行界面，允许您与NEAR无缝交互。 此NEAR文档有所有near-cli示例。
 3. 尝试运行您的第一个命令：[near login](https://docs.near.org/docs/tools/near-cli#near-login)。 您将重定向到您的NEAR钱包，并在本地保存您的testnet帐户秘钥。
 
