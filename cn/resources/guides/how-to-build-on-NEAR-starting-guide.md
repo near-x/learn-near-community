@@ -24,7 +24,7 @@ JavaScript开发经验
 在NEAR上的应用分两个不同的部分 - 后端和前端。
 
 * 智能合约（后端）：在链中存储和修改数据。 合约需要提供一些允许用户“查看”或“更改”状态的方法。
-* 与智能合约的互动（前端）：您可以与您自己或者其他人部署的合约互动。 对于相关的互动，您可以通过在应用程序中使用near-api-js源码中的快速开始和Code Snippets进行操作。
+* 与智能合约的互动（前端）：您可以与您自己或者其他人部署的合约互动。 对于相关的互动，您可以通过在应用程序中使用near-api-js源码中的[快速开始](https://github.com/near/near-api-js/blob/master/examples/quick-reference.md) 和[Code Snippets](https://github.com/near/near-api-js/tree/master/examples/cookbook) 进行操作。
 
 <Question1> 
 NEAR上的应用程序分成两个不同的部分 - 后端和前端。 后端是______
