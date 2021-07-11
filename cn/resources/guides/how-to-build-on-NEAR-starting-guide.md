@@ -42,7 +42,7 @@ NEAR当前支持
 
 ## 2.设置测试网
 
-在NEAR创建帐户的最简单方法是[NEAR Wallet](https://wallet.near.org/)。 NEAR有一些开发网络以他们的accountID作为网络名运行。 
+在NEAR创建帐户的最简单方法是[NEAR Wallet](https://wallet.near.org/)。 需要注意的是，NEAR有几个独自运行的网络环境（如主网、测试网等），他们有各自独立的账户，例如，你在主网创建的账户，并不能在测试网上使用。 
 现在，按照步骤创建钱包。 并且确保您已遵循所需步骤来进行安全备份。
 
 >注意：在mainnet上创建帐户几乎与testnet相同，但需要为该帐户进行初始资金。 以下是mainnet帐户创建指南。
