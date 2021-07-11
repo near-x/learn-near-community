@@ -142,7 +142,7 @@ export const messages = new PersistentVector<PostedMessage>("m");
 @nearBindgen将类标记为序列化。Serializable 是一个用于“标记”类的接口，以使这些类的对象可能获得某个功能。
 
 “PostedMessage”类有三个成员:
-* 是否使用附加的NEAR tokens的标记
+* premium - 可以标记带有附加 NEAR 通证的讯息
 * 用于追踪留言簿的签名者发件人
 * 存储留言簿的message
 
