@@ -85,7 +85,7 @@ nearup betanet
 ```
 （如果您更喜欢使用TestNet，那么只需在上面的命令用testnet替换betanet）
 
-接下来，提示您输入帐户ID。 如果您不是要做验证人，则可以留空。否则，验证人应在这里输入您想要抵押的帐户的ID：
+接下来，提示您输入帐户ID。 如果您不是要做验证者，则可以留空。否则，验证者应在这里输入您想要抵押的帐户的ID：
 ```bash
 Enter your account ID (leave empty if not going to be a validator)
 ```
