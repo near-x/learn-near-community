@@ -64,7 +64,7 @@
 ### Rust
 如果您打算专注于Rust，请[打开Rust合约列表](https://airtable.com/shrckdZAMgjbP3uBC/tblwK6r2kVUfS7gDn)
 
-您应该至少阅读**3个**标记为**CORE Activity**的合约。
+您应该至少阅读**3份**标记为**CORE Activity**的合约。
 
 您可以阅读有关[Rust合约](https://hackmd.io/@nearly-learning/contract-basics-rust)基础的更多信息，也可以观看[视频](https://www.youtube.com/watch?v=AOvqsD-rBUw)。
 
