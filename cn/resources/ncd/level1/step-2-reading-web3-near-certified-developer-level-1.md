@@ -6,6 +6,8 @@
 
 有时人们不确定如何完成此活动。 如下技巧可能会有所帮助。
 
+可以考虑多次快速阅读而不是一次性的慢慢阅读。阅读[How to survey](https://hackmd.io/@nearly-learning/how-to-survey) ?可以让您明白为什么和怎样去做。
+
 尝试弄清楚如何获得合约代码。 然后快速阅读代码。 希望您尽可能多的阅读合约代码。 探索这些合约的“目的”（why is it?）和“编码”（what is it?）
 
 * AssemblyScript合约 是以.ts结尾的文件，通常是main.ts或index.ts
