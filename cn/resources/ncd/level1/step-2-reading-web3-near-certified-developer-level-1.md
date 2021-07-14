@@ -19,7 +19,7 @@
 
 奖励活动：
 如果您还有时间去探索，那么您可以进行以下活动。
-clone所选语言的 starter 库并按照说明进行操作
+复制（clone）所选语言的 starter 库并按照说明进行操作
 * [AssemblyScript](https://github.com/Learn-NEAR/starter--AssemblyScript)
 * Rust (仍在开发中)
 
