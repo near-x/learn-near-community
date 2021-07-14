@@ -25,7 +25,7 @@ clone所选语言的 starter 库并按照说明进行操作
 
 1. 阅读您所选择的语言的所有合约，而不仅仅是3种
 2. 还要阅读其他语言的所有合约。
-3. 查看这些小难题，它们可能对您很有趣
+3. 查看这些小难题，您可能会在它们中获得乐趣
 
 * [Scavenger Hunt Challenge #1](https://hackmd.io/@nearly-learning/hunt-01)
 * [Scavenger Hunt Challenge #2](https://hackmd.io/@nearly-learning/hunt-02)
