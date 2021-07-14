@@ -59,7 +59,7 @@
 ### AssemblyScript
 如果您打算专注于AssemblyScript，请[打开AssemblyScript合约列表](https://airtable.com/shrG4kGx80F55usI4/tblwK6r2kVUfS7gDn)
 
-您应该至少阅读**3个**标记为**CORE Activity**的合约。
+您应该至少阅读**3份**标记为**CORE Activity**的合约。
 
 ### Rust
 如果您打算专注于Rust，请[打开Rust合约列表](https://airtable.com/shrckdZAMgjbP3uBC/tblwK6r2kVUfS7gDn)
