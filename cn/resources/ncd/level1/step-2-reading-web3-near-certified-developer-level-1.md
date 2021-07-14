@@ -66,7 +66,7 @@
 
 您应该至少阅读**3份**标记为**CORE Activity**的合约。
 
-您可以阅读有关[Rust合约](https://hackmd.io/@nearly-learning/contract-basics-rust)基础的更多信息，也可以观看[视频](https://www.youtube.com/watch?v=AOvqsD-rBUw)。
+您可以阅读更多有关[Rust合约的基础知识](https://hackmd.io/@nearly-learning/contract-basics-rust)，也可以选择观看[视频](https://www.youtube.com/watch?v=AOvqsD-rBUw)以了解Rust合约。
 
 
 ## NCDL1阅读 web3 任务
