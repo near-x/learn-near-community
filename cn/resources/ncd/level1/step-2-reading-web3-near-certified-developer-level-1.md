@@ -35,7 +35,7 @@ clone所选语言的 starter 库并按照说明进行操作
 如果您感到无所畏惧，那么您可能会在一天中做完这些
 
 * 查看所有[核心合约](https://github.com/near/core-contracts) 和观看在线代码审计[视频](https://www.youtube.com/watch?v=BA7VeUS_RAA&list=PL9tzQn_TEuFXnYksuNJwrl1l_AuWzn6eF)
-* 审计[Illia的合约仓库](https://github.com/ilblackdragon/contracts)
+* 查看[Illia的合约仓库](https://github.com/ilblackdragon/contracts)
 * 审计所有的彩虹桥黑客马拉松合约
 
 >None of us is as smart as all of us
