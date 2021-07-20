@@ -86,7 +86,7 @@ NEAR正正是第三代区块链的一个例子，NEAR可以解决可扩展性问
 NEAR 允许开發人员只部署他们的应用程式，而无需过多考虑其周围的基础设施如何运作或扩展，这更像是 Amazon AWS、GCP 或 Azure 等现代的云平台，它们驱动着现时绝大部分的 Web 应用程式。
 
 ## NEAR的简史
-NEAR始于 2018 年夏天，当时 Alex Skidanov 和 Illia Polosukhin 决定放弃他们之前的创业冒险，如果您好奇，可以在[这裡阅读更多相关资料](https://medium.com/nearprotocol/near-ai-near-protocol-8785c9d32096)。很快，随着 Misha 退出 MemSQL，团队在 8 月份的 3 天内从几人扩大到 9 人。最初的团队由 7 名工程师组成，Erik 负责业务营运，Sasha 负责市场营运。
+NEAR始于 2018 年夏天，当时 Alex Skidanov 和 Illia Polosukhin 决定放弃他们之前的创业冒险（可以在[这裡阅读更多相关资料](https://medium.com/nearprotocol/near-ai-near-protocol-8785c9d32096)）。很快，随着 Misha 退出 MemSQL，团队在 8 月份的 3 天内从几人扩大到 9 人。最初的团队由 7 名工程师组成，Erik 负责业务营运，Sasha 负责市场营运。
 
 今天，NEAR Collective是分佈在全球的团队，由很多个体组织和贡献者组成，他们都是自發组织，目的是将NEAR这项技术实践出来。这不是一项商业业务或任何接近正式的事情。可以把它想像成为有一群人正在运行一个大型开源软件项目。
 
