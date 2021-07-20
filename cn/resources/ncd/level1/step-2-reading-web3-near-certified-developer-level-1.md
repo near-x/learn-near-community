@@ -88,7 +88,7 @@
 合约N:
 * 合约的名字
 * 你对它感到兴趣的地方是什么
-* 理解这个合约哪一部分对您来说是挑战
+* 在阅读这个合约过程中，哪一部分对您来说是最具挑战
 
 
 原文链接：https://learnnear.club/lessons/step-2-reading-web3-near-certified-developer-level-1/
