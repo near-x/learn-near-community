@@ -115,7 +115,7 @@ NEAR钱包已经把用户抵押接口直接集成进了web应用中。
 4. 确认你的选择并点击“Stake with Validator”
 5. 输入你想要抵押的NEAR数量并点击“Submit Stake”
 
-You will need to confirm two transactions, one to select the validator, and another to deposit and stake with the validator.
+你需要确认两次交易，第一是选择验证者，第二是向验证者存入权益的数量。
 
 解抵押:
 
