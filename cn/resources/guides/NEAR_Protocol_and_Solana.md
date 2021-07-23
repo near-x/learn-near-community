@@ -353,7 +353,7 @@ impl ContentTracker {
 * 该合约由 ContentTracker 中的 #[near_bindgen] 定义，它类似于 Solidity 中的构造函数，并在部署合约时调用
 * purchase函数 使用了  #[payable] 注解
 * 合约包括以 Promise: : new (...) . transfer (...) ; lines 的形式进行的异步调用
-* 数据结构 LookupMap < String，ContentRecord > 处理键值查找，它访问存储，这等同于 soliity“ mapping”
+* 数据结构 LookupMap < String，ContentRecord > 处理键值查找，这等同于solidity的“mapping”
 
 ## 3.总结
 Solana 和 NEAR 协议都是卓越的智能合约平台，已经建立了高度活跃的社区。他们都带来了特殊的功能，帮助解决去中心化最大的问题-速度。
