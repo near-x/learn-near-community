@@ -222,7 +222,7 @@ pub enum ErrorCode {
 * 对于每个调用，要访问的所有帐户都用 #[derive(Accounts)]在结构上加注释
 * 这些函数初始化所有者和 Purchase 的帐户数据。这使得任何人都可以购买更多的代币
 * 临时数据被传递到函数参数中。这些参数位于 initialize 和 purchase 函数内部。这也包括保存交易所需帐户的上下文
-* 合约的状态位于 ContentRecord 结构中。使用 #[account]  注解，以表明它代表的数据布局的帐户
+* 合约的状态位于 ContentRecord 结构中。使用 #[account]  注解，以表明它代表了账户的数据布局
 
 
 ##  2.什么是 NEAR 协议？
