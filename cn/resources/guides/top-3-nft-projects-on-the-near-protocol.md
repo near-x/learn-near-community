@@ -127,7 +127,7 @@ NEAR 钱包是非常高效，而且交易几乎可以即时完成。彩虹桥确
 Hip Hop Heads标誌着美国文化的支柱已进入加密领域。
 共同合作的艺术系列会以 The Source Magazine标誌性的 The Last Word 的创作者 Andre LeRoy Davis 的作品为特色，还有以 The Source Magazine的共同所有者之一 Ed Young 的背景动画为特色。
 
-Hip Hop Heads 诞生于 Universal Hip Hop 博物馆、The NEAR Protocol 和 Ed Young的其同合作。
+Hip Hop Heads 诞生于 Universal Hip Hop 博物馆、The NEAR Protocol 和 Ed Young的协同合作。
 他们共同决定创建一个 NFT 系列以 70 年代开始至今的艺术家为特色。这个名为 [NFT.HipHop Heads](https://nft.hiphop/) 的系列将展出 47 位最具份量的说唱艺术家，
 这样不但是向这些艺术家致敬，还将纪念嘻哈时代已经踏入第47年。该项目将最新的科技發展与说唱的起源重新联繫起来。
 
