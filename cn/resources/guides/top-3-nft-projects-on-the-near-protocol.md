@@ -83,7 +83,7 @@ Mintbase 专注于创造独特的 NFT 创建体验，这正是为什麽如之前
 由于成本变得如此之高，使到Mintbase也告诉其用户在部署数字商店之前需要等待 Gas费用下降。以太坊很快就在购买、出售或创建NFT等方面变得难以为继。
 
 Mintbase 认为 NEAR 是一个比以太坊更好的平台，由于有更高效的合约执行模型，使得其Gas费用明显降低。
-NEAR还使用 Nightshade，一种动态的分片方法。不过，Mintbase切换NEAR的原因还有以下其他几个。
+NEAR还使用 Nightshade，一种动态的分片方法。不过，Mintbase切换到NEAR的原因还有以下其他几个。
 * 在NEAR平台上使用Rust或AssemblyScript编写智能合约，使开發人员可以轻鬆地编写代码
 * NEAR在合约和账户上有具[人类可阅读的地址](https://learnnear.club/near-account-express-guide/)
 * 由于有NEAR Drops，开發人员可以快速地加入用户。他们可以为他们的NEAR账户付款及發送NEAR通证
