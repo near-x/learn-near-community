@@ -148,6 +148,6 @@ NEAR协议上的NFT版税会被写入NFT代码，这样的话，即使NFT转移�
 它解决了以太坊项目面临的几个问题，例如昂贵的Gas费用和缓慢的处理速度。另外，由于NEAR的分片解决方案，让它还具有几个优于以太坊区块链的优势。
 
 NEAR协议已经显示出明显的前景，利用分片来解决其他区块链面临的问题。由于这种方法，NEAR能够在不影响安全性下提高吞吐量。
-The NEAR Collective 确保工程师和开發人员一直在研究协议。
+The NEAR Collective 让工程师和开发人员可以持续的在NEAR协议上工作。
 
 原文链接：https://learnnear.club/top-3-nft-projects-on-the-near-protocol/
