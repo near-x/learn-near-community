@@ -26,7 +26,7 @@ NEAR 由一个名为 NEAR Collective 的开發人员和研究人员的小型社�
 
 ## The NEAR Collective
 正如之前提及的，NEAR是由开發人员和研究人员的社区[开發的](https://learnnear.club/near-certified-developer-program-ncd/)。
-这些是 The NEAR Collective的一部分。 The NEAR Collective是由不断努力确保 NEAR 协议的日常运作并不断改进它的组织和个人贡献者组成。
+他们是 The NEAR Collective的一部分。 The NEAR Collective是由不断努力确保 NEAR 协议的日常运作并不断改进它的组织和个人贡献者组成。
 
 The NEAR Collective编写 NEAR 网络的初始代码及把NEAR实现出来。
 虽然NEAR Collective确保协议的运作，但 NEAR 是完全去中心化的并独立运作。即使是开發它的团队也无法关闭它。
