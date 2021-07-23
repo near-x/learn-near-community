@@ -61,7 +61,7 @@ NFT 是数字资产的所有权的数字证书。 NFT 是一种用于保护数�
 * nDAI通证
 
 # NEAR协议上的NFT项目
-目前，NEAR 上有几个 NFT 平台，让我们来看看平台上一最流行的NFT项目。
+目前，NEAR 上有几个 NFT 平台，让我们来看看平台上一些最流行的NFT项目。
 
 # Mintbase
 [Mintbase](https://www.mintbase.io/) 于2018年开始，由 Nate Geier 和 Calorine Wend 创建。
