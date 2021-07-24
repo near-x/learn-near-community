@@ -41,7 +41,7 @@ DAOs是新世界此类共同协议的一部分。 自Vitalik 七年前撰写了�
 
 感谢Sputnik的早期社区组，了解V2的想法; NEAR团队，
 
-Tara Tan, Julia Lipton for comments and suggestions and 
+Tara Tan, Julia Lipton给予我们的意见和建议
 Mally Anderson  for heavy editing.
 Original article on Medium.
 P.S.
