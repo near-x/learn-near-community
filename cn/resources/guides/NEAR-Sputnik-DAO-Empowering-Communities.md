@@ -53,7 +53,7 @@ Sputnik DAO是专门为技术社区而创建的吗?
 
 感谢Sputnik的早期社区组，了解V2的想法; NEAR团队，
 
-Tara Tan, Julia Lipton给予我们的意见和建议
+ 感谢Tara Tan, Julia Lipton给予我们的意见和建议
 感谢 Mally Anderson 的大量编辑
 最初的文章在Medium[Medium](https://medium.com/sputnikdao/sputnik-dao-empowering-communities-e55ac65f4433)
 顺便提及
