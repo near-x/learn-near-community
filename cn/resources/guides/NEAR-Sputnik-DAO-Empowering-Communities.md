@@ -27,7 +27,7 @@ Web3以Web2不能的方式使这一愿景成为可能的，因为加密的保证
 DAOs是新世界此类共同协议的一部分。 自Vitalik 七年前撰写了这篇非常高水平的帖子，成千上万的成员在以太网和其他网络上进行实验，其中包括一些最着名的包括制造商：Moloch DAO，Metacartel，Lao和Flamingo Dao。我从第一波DAO试验中获得了一些关键的经验，这些试验为NEAR上的DAO的远景提供了信息 。
 
 *很明显，社区控制治理的简单方法不能随所涉及的人员数量而扩展  。 如果没有规则，法律或层次结构，成千上万的人无法高效开发或控制。 我们在协议治理和基金治理的区块链世界中看到了许多实验。 由于各种各样的原因，从技术问题到成员对投票缺乏兴趣，或者缺乏一个统一的驱动因素，很多都失败了。
-* 不能指望每个成员永远都会很开心。 利益变化和人们的观念改变; 多数人和少数最终会出现一些问题。 即使在大多数情况下，每个人都将通过投票等基本治理达成共识，即社区的少数群体应该能够从原来团体中分叉，并遵循新的规则, at any time if they don’t agree with the majority and have enough of their own will。
+* 不能指望每个成员永远都会很开心。 利益变化和人们的观念改变; 多数人和少数最终会出现一些问题。尽管在大多数情况下,每个人都会通过投票等基本治理达成共识,但是在任何时候,如果他们不同意多数,有足够的自己的意志  ，社区的少数群体能够从原来团体中分叉，并遵循新的规则。
 * 任何社区或组织都需要领导。  Even if it’s a highly dedicated group of people — if they are not working full-time on the shared cause, they are probably too busy to be active all the time and participate in every discussion or decision. Communities usually have dedicated members who are responsible for coordination, potentially moderation.
 * 如果一个社区是无许可和匿名， it’s still valuable to have members who are publicly known to be involved and create the “core” of the community。 社区将倾听这些成员的观点和意见，因为他们是已知最多投入和最了解情况的。
 * “产品”越是去中心化形式的社区，领导力的越是重要，因为产品开发通常需要更多的背景知识，而不是任何社区参与者都有。 例如，一个小组尝试在一起创建一个区块链或去中心化交易所。
