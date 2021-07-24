@@ -1,4 +1,4 @@
-# NEAR Sputnik DAO:赋权的社区
+# NEAR Sputnik DAO: 给社区赋能
 Open Web和Web3都源于“大众将自己构建和管理下一代互联网”的理念。 [NEAR](https://learnnear.club/what-is-near-protocol/) 以此作为使命：赋予所有人控制自己的钱，数据和治理权力。
 你认为DAO的核心目的是什么？
 
