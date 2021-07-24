@@ -12,7 +12,7 @@ Open Web和Web3都源于“大众将自己构建和管理下一代互联网”�
 
 以太坊创始人Vitalik Buterin在2014年发表的一篇非常古老的博客博客帖子](https://blog.ethereum.org/2014/05/06/daos-dacs-das-and-more-an-incomplete-terminology-guide/)文章中描绘了一种思考集体行动的新方式：不是一家有股东，高管和员工的公司，而是一个去中心化的自治组织，或者是成员就是组织的一部分，贡献他们的努力，并与他们的贡献成比例地奖励。 没有老板，没有层次结构，并且参与者通过共同的目的组织在一起。
 
-我记得当我第一次阅读Vitalik的文章时很有同感，想象一个未来真正自治的社区，任何人的地方，任何地方都可以是一个团体，它独立于边界，法律或银行的界限 - 就像Web3一样，DAOs可以作为社区。 Eventually companies would be replaced by DAOs, still having many company-like features, but with greater flexibility both at their founding and over time as the demands and priorities of the people involved change.
+我记得当我第一次阅读Vitalik的文章时很有同感，想象一个未来真正自治的社区，任何人的地方，任何地方都可以是一个团体，它独立于边界，法律或银行的界限 - 就像Web3一样，DAOs可以作为社区。最终公司会被DAOs替代，DAOs仍旧有很多像公司的特性，但在其成立之初以及随着相关大众的需求和优先事项的变化而具有的更大的灵活性。
 
 这种愿景甚至先于我对Web3和区块链感兴趣。 我离开了乌克兰，因为我从未从那里的公司感受到安全。 我不相信任何乌克兰银行可以安全可信的存钱。 政府在过去十年中多次改变了持有美国货币的规则（like the need to sell half of it on receival for local currency）。 在公司在乌克兰运营的情况下，还有很多腐败和僵化的流程。在许多国家，由于政府腐败，缺乏法治和可能消失的不靠谱的银行，造成了公司的额外开销。
 
