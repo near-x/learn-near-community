@@ -26,7 +26,7 @@ Web3以Web2不能的方式使这一愿景成为可能的，因为加密的保证
 
 DAOs是新世界此类共同协议的一部分。 自Vitalik 七年前撰写了这篇非常高水平的帖子，成千上万的成员在以太网和其他网络上进行实验，其中包括一些最着名的包括制造商：Moloch DAO，Metacartel，Lao和Flamingo Dao。我从第一波DAO试验中获得了一些关键的经验，这些试验为NEAR上的DAO的远景提供了信息 。
 
-* 一般而言，社区控制治理的方式不会随着所涉及的人数扩展。 如果没有规则，法律或层次结构，成千上万的人无法高效开发或控制。 我们在协议治理和基金治理的区块链世界中看到了许多实验。 其中许多人因各种原因而失败， from technical issues to lack of interest in voting from members or lack of a unifying, driving factor。
+*很明显，社区控制治理的简单方法不能随所涉及的人员数量而扩展  。 如果没有规则，法律或层次结构，成千上万的人无法高效开发或控制。 我们在协议治理和基金治理的区块链世界中看到了许多实验。 由于各种各样的原因，从技术问题到成员对投票缺乏兴趣，或者缺乏一个统一的驱动因素，很多都失败了。
 * 不能指望每个成员永远都会很开心。 利益变化和人们的观念改变; 多数人和少数最终会出现一些问题。 即使在大多数情况下，每个人都将通过投票等基本治理达成共识，即社区的少数群体应该能够从原来团体中分叉，并遵循新的规则, at any time if they don’t agree with the majority and have enough of their own will。
 * 任何社区或组织都需要领导。  Even if it’s a highly dedicated group of people — if they are not working full-time on the shared cause, they are probably too busy to be active all the time and participate in every discussion or decision. Communities usually have dedicated members who are responsible for coordination, potentially moderation.
 * 如果一个社区是无许可和匿名， it’s still valuable to have members who are publicly known to be involved and create the “core” of the community。 社区将倾听这些成员的观点和意见，因为他们是已知最多投入和最了解情况的。
