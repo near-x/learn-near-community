@@ -44,7 +44,7 @@ DAOs是新世界此类共同协议的一部分。 自Vitalik 七年前撰写了�
 Tara Tan, Julia Lipton给予我们的意见和建议
 感谢 Mally Anderson 的大量编辑
 最初的文章在Medium[Medium](https://medium.com/sputnikdao/sputnik-dao-empowering-communities-e55ac65f4433)
-P.S.
+顺便提及
 Want to contribute to LearnNEAR.Club? Submit your proposal to Learn NEAR DAO
 
 原文链接：https://learnnear.club/near-sputnik-dao-empowering-communities/
