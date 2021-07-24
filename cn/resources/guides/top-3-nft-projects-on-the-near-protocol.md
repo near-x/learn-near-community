@@ -69,6 +69,7 @@ NFT 是数字资产的所有权的数字证书。 NFT 是一种用于保护数�
 [Mintbase](https://www.mintbase.io/) 于2018年开始，由 Nate Geier 和 Calorine Wend 创建。
 Nate Geier 是公司的首席执行官，而 Caroline 是首席运营官，利用她在管理和业务發展上的专业知识。
 Mintbase 在 2020 年的种子轮融资中成功筹集了 100 万美元。 [Sino Global](https://www.sinoglobalcapital.com/) 领投了这轮融资，而其他跟投的风险投资公司还包括 Block Oracle Capital、D1 Ventures 和其他天使投资人。
+
 ![Fish Woman by From my Dream](https://learnnear.club/wp-content/uploads/2021/07/NEAR-Protocol-NFT-Minbase-201x300.jpg)
 
 一个数字区块链平台可以用于發行和交换非同质化通证，而Mintbase上的通证不同于其他常见的数字艺术品通证。
@@ -102,6 +103,7 @@ NEAR还使用 Nightshade，一种动态的分片方法。不过，Mintbase切换
 ## Paras 
 [Paras](https://paras.id/) 的创建愿景是为陈旧的传统收藏卡提供解决方案。
 该平台透过快速且廉价的交易通过区块链验证所有权。该平台专注于创建加密原生集合(collections)，这些集合可以进一步多元化为更突出的媒体。
+
 ![PunkyPoN#0006 by monztre.near](https://learnnear.club/wp-content/uploads/2021/07/NEAR-Protocol-NFT-Paras-216x300.jpg)
 
 Paras 是一个建立在NEAR上的一站式数字艺术卡片市场。该平台可以验证所有权并让用户可以提供购买和铸造通证。
@@ -134,6 +136,7 @@ Hip Hop Heads标誌着美国文化的支柱已进入加密领域。
 Hip Hop Heads 诞生于 Universal Hip Hop 博物馆、The NEAR Protocol 和 Ed Young的协同合作。
 他们共同决定创建一个 NFT 系列以 70 年代开始至今的艺术家为特色。这个名为 [NFT.HipHop Heads](https://nft.hiphop/) 的系列将展出 47 位最具份量的说唱艺术家，
 这样不但是向这些艺术家致敬，还将纪念嘻哈时代已经踏入第47年。该项目将最新的科技發展与说唱的起源重新联繫起来。
+
 ![HipHopHead 10.292.22166](https://learnnear.club/wp-content/uploads/2021/07/NEAR-Protocol-NFT-HipHopHeads-300x295.jpg)
 
 每个插图都将作为47系列而存在，以表示Hip Hop时代的47年。每个 Hip Hop Head 的第一个版本都是根据艺术家在 Hip Hop 历史上的位置来命名。
