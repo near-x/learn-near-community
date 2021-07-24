@@ -45,6 +45,6 @@ Tara Tan, Julia Lipton给予我们的意见和建议
 感谢 Mally Anderson 的大量编辑
 最初的文章在Medium[Medium](https://medium.com/sputnikdao/sputnik-dao-empowering-communities-e55ac65f4433)
 顺便提及
-Want to contribute to LearnNEAR.Club? Submit your proposal to Learn NEAR DAO
+想为LearnNEAR.Club做贡献吗?提交您的提案学习NEAR DAO[学习NEAR DAO](https://www.sputnik.fund/#/dao/learnnear.sputnikdao.near)
 
 原文链接：https://learnnear.club/near-sputnik-dao-empowering-communities/
