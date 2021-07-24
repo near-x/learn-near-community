@@ -1,4 +1,6 @@
 # NEAR 协议上排名前三的优秀NFT项目
+阅读时间：11分钟
+
 DeFi 的成长使NFT成为主流的焦点，而NFT的成长也使得一些问题成为焦点。
 以太坊垄断了这个NFT领域，在以太坊区块链上创建了许多NFT。所以在世界上最受欢迎的平台之一上创建NFT究竟有什麽问题呢？
 当然就是昂贵的gas费用问题。以太坊目前面对的一大问题就是在gas费用，每次交易的gas费用可能会高达数百美元，这样会使到以太坊的使用变得非常不切实际。
@@ -63,10 +65,11 @@ NFT 是数字资产的所有权的数字证书。 NFT 是一种用于保护数�
 # NEAR协议上的NFT项目
 目前，NEAR 上有几个 NFT 平台，让我们来看看平台上一些最流行的NFT项目。
 
-# Mintbase
+## Mintbase
 [Mintbase](https://www.mintbase.io/) 于2018年开始，由 Nate Geier 和 Calorine Wend 创建。
 Nate Geier 是公司的首席执行官，而 Caroline 是首席运营官，利用她在管理和业务發展上的专业知识。
 Mintbase 在 2020 年的种子轮融资中成功筹集了 100 万美元。 [Sino Global](https://www.sinoglobalcapital.com/) 领投了这轮融资，而其他跟投的风险投资公司还包括 Block Oracle Capital、D1 Ventures 和其他天使投资人。
+![Fish Woman by From my Dream](https://learnnear.club/wp-content/uploads/2021/07/NEAR-Protocol-NFT-Minbase-201x300.jpg)
 
 一个数字区块链平台可以用于發行和交换非同质化通证，而Mintbase上的通证不同于其他常见的数字艺术品通证。
 Mintbase平台允许用户创建和出售由 NFT代表的资产。用户可以将不同的数字资产铸造为NFT。这些资产的范围可以从活动门票到加密艺术以及在两者之间的一切东西。
@@ -75,7 +78,7 @@ Mintbase 差不多可以允许任何可以访问互联网的人製作 NFT，并�
 铸币者可以创建智能合约并限制所铸的通证的可转让性，这样有助于防止欺诈或非法转移独特物品。 
 Mintbase 专注于创造独特的 NFT 创建体验，这正是为什麽如之前所提及，它是支持不同的数字资产。这与只专注于一种特定NFT类别的竞争平台完全相反。
 
-## 为什麽 Mintbase切换到 NEAR？
+### 为什麽 Mintbase切换到 NEAR？
 所以究竟为什麽要从[以太坊切换到NEAR](https://learnnear.club/near-ethereum/)？
 答案是Gas费用。因为以太坊的Gas费用开始变得荒谬地贵。要在 Mintbase 上铸造 NFT，用户首先需要创建一个数字商店。
 在这过程用户必须创建智能合约及向以太坊支付Gas费用。最初，相关的费用是很低，用户能够快速地部署数字商店。
@@ -99,6 +102,7 @@ NEAR还使用 Nightshade，一种动态的分片方法。不过，Mintbase切换
 ## Paras 
 [Paras](https://paras.id/) 的创建愿景是为陈旧的传统收藏卡提供解决方案。
 该平台透过快速且廉价的交易通过区块链验证所有权。该平台专注于创建加密原生集合(collections)，这些集合可以进一步多元化为更突出的媒体。
+![PunkyPoN#0006 by monztre.near](https://learnnear.club/wp-content/uploads/2021/07/NEAR-Protocol-NFT-Paras-216x300.jpg)
 
 Paras 是一个建立在NEAR上的一站式数字艺术卡片市场。该平台可以验证所有权并让用户可以提供购买和铸造通证。
 它提供快速且廉价的交易，并且通过提供集合而不是单一的作品使自己区别于其他市场。该平台的特性还有：
@@ -118,7 +122,7 @@ Paras 能够使用专业的方法并创建NFT社区和体验。 Paras 通过选�
 自平台推出以来，Paras上的艺术家已经获得了超过 25,000 美元的收入，该平台能够从700多笔交易中促成价值超过 35,000 美元的交易量。
 平台拥有80多位活跃的收藏家和超过70位的艺术家。以便宜的铸造费用让数字艺术家的进入门槛非常低，而且艺术家可以在一个不必担心铸造成本的情况下铸造卡片。
 
-## 为什麽 NEAR 非常适合 Paras？
+### 为什麽 NEAR 非常适合 Paras？
 由于对以太坊空间的需求，推高了平台的成本，新的 NFT 创建者正在寻找其他替代平台和解决方案。
 NEAR 正在与以太坊合作开發平台之间可互操作的解决方案。 NEAR 上的交易成本仅仅为几美分，有时候甚至更低。
 NEAR 钱包是非常高效，而且交易几乎可以即时完成。彩虹桥确保 NEAR 将与基于以太坊上的资产的可互操作。
@@ -130,12 +134,13 @@ Hip Hop Heads标誌着美国文化的支柱已进入加密领域。
 Hip Hop Heads 诞生于 Universal Hip Hop 博物馆、The NEAR Protocol 和 Ed Young的协同合作。
 他们共同决定创建一个 NFT 系列以 70 年代开始至今的艺术家为特色。这个名为 [NFT.HipHop Heads](https://nft.hiphop/) 的系列将展出 47 位最具份量的说唱艺术家，
 这样不但是向这些艺术家致敬，还将纪念嘻哈时代已经踏入第47年。该项目将最新的科技發展与说唱的起源重新联繫起来。
+![HipHopHead 10.292.22166](https://learnnear.club/wp-content/uploads/2021/07/NEAR-Protocol-NFT-HipHopHeads-300x295.jpg)
 
 每个插图都将作为47系列而存在，以表示Hip Hop时代的47年。每个 Hip Hop Head 的第一个版本都是根据艺术家在 Hip Hop 历史上的位置来命名。
 安德烈·勒罗伊·戴维斯 (Andre LeRoy Davis) 透过创作插画展示了每位艺术家的重要性。
 背景动画的代码是Hip Hop历史上最重要的数字的结果，透过这些数字展示了 Hip Hop 时代在47年的进程中的不同时刻。 NFT 系列将会每天在其网站上进行拍卖直至 7 月 24 日。
 
-## 为什麽Hip Hop Heads会选择NEAR? 
+### 为什麽Hip Hop Heads会选择NEAR? 
 NEAR协议允许大众可以更容易获得 Hip Hop Heads的收藏品。如前所述，那些收藏品将会每天拍卖直至 7月 24 日，并可通过信用卡购买。
 这就使得NEAR 可以让项目更切实可行。拍卖市场还也聚焦于NEAR协议的特点，例如有一个与web-2相似的熟悉且友好的界面、简单而且相对便宜的NFT铸造成本以及对终端用户的可访问性。
 
