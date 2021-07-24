@@ -24,7 +24,7 @@ Open Web和Web3都源于“大众将自己构建和管理下一代互联网”�
 
 Web3以Web2不能的方式使这一愿景成为可能的，因为加密的保证。 想象一下，在云提供商之上或使用一组仅由一组20个人运行的银行，没有正式的联系，没有保证组织仍然在一年内运作 - 这有限制你可以建立在它上面 。 但在加密世界，基础设施和去中心化的应用程序是可靠的，因为它们是开源，开放的，并具有可靠的保证。 Apps built in this way provide common protocols to interact with each other, which other developers, businesses, and users can rely on.
 
-DAOs是新世界此类共同协议的一部分。 自Vitalik 七年前撰写了这篇非常高水平的帖子，成千上万的成员在国内和其他网络上进行了实验，其中一些最着名的包括制造商，Moloch DAO，Metacartel，Lao和Flamingo Dao。 I’ve taken some key learnings from the first wave of DAO experimentation that informed the vision for DAOs on NEAR.
+DAOs是新世界此类共同协议的一部分。 自Vitalik 七年前撰写了这篇非常高水平的帖子，成千上万的成员在以太网和其他网络上进行实验，其中包括一些最着名的包括制造商：Moloch DAO，Metacartel，Lao和Flamingo Dao。我从第一波DAO试验中获得了一些关键的经验，这些试验为NEAR上的DAO的远景提供了信息 。
 
 * 一般而言，社区控制治理的方式不会随着所涉及的人数扩展。 如果没有规则，法律或层次结构，成千上万的人无法高效开发或控制。 我们在协议治理和基金治理的区块链世界中看到了许多实验。 其中许多人因各种原因而失败， from technical issues to lack of interest in voting from members or lack of a unifying, driving factor。
 * 不能指望每个成员永远都会很开心。 利益变化和人们的观念改变; 多数人和少数最终会出现一些问题。 即使在大多数情况下，每个人都将通过投票等基本治理达成共识，即社区的少数群体应该能够从原来团体中分叉，并遵循新的规则, at any time if they don’t agree with the majority and have enough of their own will。
