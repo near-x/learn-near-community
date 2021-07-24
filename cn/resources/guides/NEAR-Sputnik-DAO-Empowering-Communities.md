@@ -28,14 +28,26 @@ DAOs是新世界此类共同协议的一部分。 自Vitalik 七年前撰写了�
 
 *很明显，社区控制治理的简单方法不能随所涉及的人员数量而扩展  。 如果没有规则，法律或层次结构，成千上万的人无法高效开发或控制。 我们在协议治理和基金治理的区块链世界中看到了许多实验。 由于各种各样的原因，从技术问题到成员对投票缺乏兴趣，或者缺乏一个统一的驱动因素，很多都失败了。
 * 不能指望每个成员永远都会很开心。 利益变化和人们的观念改变; 多数人和少数最终会出现一些问题。尽管在大多数情况下,每个人都会通过投票等基本治理达成共识,但是在任何时候,如果他们不同意多数,有足够的自己的意志  ，社区的少数群体能够从原来团体中分叉，并遵循新的规则。
-* 任何社区或组织都需要领导。  Even if it’s a highly dedicated group of people — if they are not working full-time on the shared cause, they are probably too busy to be active all the time and participate in every discussion or decision. Communities usually have dedicated members who are responsible for coordination, potentially moderation.
-* 如果一个社区是无许可和匿名， it’s still valuable to have members who are publicly known to be involved and create the “core” of the community。 社区将倾听这些成员的观点和意见，因为他们是已知最多投入和最了解情况的。
+* 任何社区或组织都需要领导。  即使这是一群高度专注的人——如果他们不是全职工作在共同的事业上，他们可能太忙了，无法一直积极参与每一个讨论或决定。 社区通常有专门的成员负责协调，潜在的缓和。
+* 如果一个社区是未经允许且匿名的，那么拥有公开参与并创建社区“核心”的成员仍然是有价值的。社区将优先听取这些成员的观点和意见，因为他们是最有投入和最有见识的人。
 * “产品”越是去中心化形式的社区，领导力的越是重要，因为产品开发通常需要更多的背景知识，而不是任何社区参与者都有。 例如，一个小组尝试在一起创建一个区块链或去中心化交易所。
 * 纯粹的基于抵押权重很多都失败可，要么是因为大多数利益相关者都无法或不想成为活动参与者，或者因为它开辟了攻击治理过程的简单方法。
+Sputnik DAO是专门为技术社区而创建的吗?
 
-因此，DAO是一个具有统一共同目标的社区，需要一些协调和治理规则，with the flexibility to evolve over time as the interests and goals of the community shift, and the ability to transact and make money as a unit with minimal overhead。 考虑到学习这些东西，我们在NEAR创建一个DAO协议，即将授权各种社区 - 不仅仅是由技术人员组成 - 拥有灵活的，强大的框架，用于一起工作和发展。
+- 是
+- 不是
 
-由此产生的协议Sputnik Dao为世界各地的新的和现有社区和组织提供了一种方式，organizations around the world to have on-chain representation of their group，管理他们的链上的活动，管理自己的决策，（重要的是！）互动 与其他daos。 目前，自2021年2月的初始发布以来，大约有100个Sputnik DAO，〜500万美元分配，~$500k contained in the collective treasuries （参见这里的[统计数据](https://stats.sputnik.fund/) ）。
+因此，DAO是围绕某种共同目的而团结起来的社区，需要一些协调和治理的规则，具有随着社区的利益和目标的变化而随时间发展的灵活性，以及以最小的开销作为一个单位进行交易和赚钱的能力。考虑到所有这些经验，我们开始在NEAR上创建一个DAO协议，它将赋予所有类型的社区——不仅仅是由工程师运行的技术社区——以一个灵活、健壮的框架来共同工作和发展。
+关于社区领导，下列哪项是正确的?
+
+-  真正的领导确保每个社区成员总是快乐的。
+
+- 社区领导人不需要为社区全职工作。
+
+- 即使在一个没有权限的社区中，拥有核心成员/领导者也是很重要的。
+
+- 社区的领导人通过制定规则来管理社区。
+由此产生的协议Sputnik Dao为世界各地的新的和现有社区和组织提供了一种方式，，可以在链上表示其组，管理其链上活动，管理其自己的决策，并(重要的是!)与其他DAO交互。自2021年2月首次发射以来，目前约有100个Sputnik dao，约50万美元已分配，约50万美元包含在国库中 （参见这里的[统计数据](https://stats.sputnik.fund/) ）。
 
 查看[sputnik.fund](https://www.sputnik.fund/) 并告诉我们你的想法。下周我们将分享的UX，新功能和另一篇文章分享V2测试版，其中详细信息是如何解决组织社区的关键挑战。 确保遵循我们的[Medium](https://medium.com/sputnikdao) 收到关于V2的通知。
 
