@@ -1,5 +1,5 @@
 # NEAR Sputnik DAO:赋权的社区
-Open Web和Web3都源于这样一种理念，即人们自己构建和管理的下一代互联网。 [NEAR](https://learnnear.club/what-is-near-protocol/) 以此作为使命：赋予所有人控制自己的钱，数据和治理权力。
+Open Web和Web3都源于“大众将自己构建和管理下一代互联网”的理念。 [NEAR](https://learnnear.club/what-is-near-protocol/) 以此作为使命：赋予所有人控制自己的钱，数据和治理权力。
 
 Ethereum创始人Vitalik Buterin的一篇非常老的（2014）[博客帖子](https://blog.ethereum.org/2014/05/06/daos-dacs-das-and-more-an-incomplete-terminology-guide/) 描述了一种新的集体活动的方式，不是一家有股东，高管和员工的公司，而是一个去中心化的自治组织，或者是成员就是组织的一部分，贡献他们的努力，并与他们的贡献成比例地奖励。 没有老板，没有层次结构，并且参与者通过共同的目的组织在一起。
 
