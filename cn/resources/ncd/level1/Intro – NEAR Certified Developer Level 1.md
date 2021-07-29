@@ -1,6 +1,6 @@
  <h1> 简介-NEAR认证开发者（一级）</h1>
 
- <font color=#F4A460 >NEAR认证开发者（一级）>介绍</font> – <font color=#F4A460 >NEAR 认证开发人员 1 级</font>
+ <font color=#F4A460 > NEAR认证开发者（一级）>介绍 </font> – <font color=#F4A460 > NEAR 认证开发人员 1 级 </font>
 
  <h1> 第一步</h1>
 **请尽快完成以下内容** 协调我们的活动对于该计划的成功至关重要，这将有助于我们做到这一点。
