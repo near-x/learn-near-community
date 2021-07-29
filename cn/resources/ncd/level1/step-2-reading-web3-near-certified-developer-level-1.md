@@ -13,11 +13,11 @@
 * AssemblyScript合约 是以.ts结尾的文件，通常是main.ts或index.ts
 * Rust合约 位于名为`lib.rs`的文件中。
 
-核心活动：
+### :green_book: 核心活动：
 1. 在下面的资源部分中，选择AssemblyScript或Rust
 * 查看您所选的语言中标记为“CORE Activity”的3份合约
 
-奖励活动：
+### :blue_book: 奖励活动：
 如果您还有时间去探索，那么您可以进行以下活动。
 复制（clone）所选语言的 starter 库并按照说明进行操作
 * [AssemblyScript](https://github.com/Learn-NEAR/starter--AssemblyScript)
@@ -33,7 +33,7 @@
 * [Scavenger Hunt Challenge #2](https://hackmd.io/@nearly-learning/hunt-02)
 
 
-更加深入的探索
+### :orange_book: 更加深入的探索
 如果您感到无所畏惧，那么您可能会在一天中做完这些
 
 * 查看所有[核心合约](https://github.com/near/core-contracts) 和观看相关的在线代码评论[视频](https://www.youtube.com/watch?v=BA7VeUS_RAA&list=PL9tzQn_TEuFXnYksuNJwrl1l_AuWzn6eF)
