@@ -11,7 +11,7 @@
 
 部署到MainNet超出了范围，因此我们将重点关注TestNet，以及作为奖励活动的LocalNet，您可以在其中私有构建。 在TestNet上运行的所有内容都应在MainNet上同样有效。 实际上，这是TestNet的唯一目的：在我们将其发布到MainNet上之前，提供我们工作的完整预览。
 
-核心活动：
+### :green_book: 核心活动：
 1. 填写下面的表格，以预定您的演示。 您必须（与团队或您自己）参与演示的开发以获得证书。
 	如果您的演示是单独的（仅您一个），请在下面的表格中填写您的信息。 如果您的演示是团队（您和其他人），则仅在下面填写表格，并包括团队中所有人员的姓名。
    [ REGISTER for your demo slot ](https://learnnear.club/lessons/step-5-deploying-web3-near-certified-developer-level-1/#Submit%20Demo)
@@ -29,7 +29,7 @@
    使用[NEAR Explorer](https://explorer.testnet.near.org/) 验证部署（查找与[您的帐户](https://explorer.testnet.near.org/accounts/sherif.testnet) 与部署合约的目标帐户相关的任何交易的记录）
 
 
-奖励活动
+### :blue_book: 奖励活动：
 如果您还有时间和精力，还有更多内容等待您
 
 1. 安装[nearup](https://github.com/near/nearup) 获得一个[本地节点运行](https://github.com/near/nearup#spawn-a-local-network) 。 这将包括：
@@ -67,8 +67,8 @@
         ├── node_key.json
         └── validator_key.json
     ```
-
-更加深入的探索
+		    
+### :orange_book: 更加深入的探索
 如果您感到无所畏惧，那么您可以在一天中做完这些
 
 现在该准备demo了！
