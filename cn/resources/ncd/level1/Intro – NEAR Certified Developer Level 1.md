@@ -143,7 +143,7 @@ Windows 可能证明具有挑战性，但如果您对此感到满意，请加入
 只是不要因为其他人的工作而受到赞扬，因为那是蹩脚的。
 
 7. 我还有一百个问题。
-8. 
+
 棒极了。[这里是一些常见问题解答](https://learnnear.club/ncd-frequently-asked-questions/)
 
 
