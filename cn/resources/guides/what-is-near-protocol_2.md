@@ -24,7 +24,7 @@ NEAR 浏览器让你可以实时查看区块的创建！这个有用的工具可
 通过使用面向以太坊用户的水龙头[https://faucet.paras.id](https://faucet.paras.id)，用户可以得到一个拥有少量免费NEAR的钱包账户。
 
 ## 赚取NEAR
-你可以通过参与[开发赏金任务](https://github.com/near/bounties)获得$NEAR, 运营一个帮助大家在NEAR上开发的[技术社区](https://near.org/guilds)，赢取NEAR骇客松比赛，或成为社区里的积极分子。如果你能吸引别人投NEAR给你抵押，你就可以成为一个验证人来赚取$NEAR。
+你可以通过参与[开发赏金任务](https://github.com/near/bounties)获得$NEAR, 运营一个帮助大家在NEAR上开发的[技术社区](https://near.org/guilds)，赢取NEAR黑客松比赛，或成为社区里的积极分子。如果你能吸引别人投NEAR给你抵押，你就可以成为一个验证人来赚取$NEAR。
 
 ## 购买NEAR
 在一些大交易所（详情见下文）上都有$NEAR。在那里你可以注册并用加密货币或法币购买NEAR通证。
@@ -45,7 +45,7 @@ https://www.binance.com/en/my/wallet/exchange/deposit/crypto/NEAR
 把它们作为礼物通过[红包](http://redpacket.near.org/)送出去。
 
 ## 试试NEAR空投 (邀请朋友)
-如果你的朋友向创建一个NEAR账户，可以给他们发送一个[NEAR空投](https://near.org/blog/send-near-to-anyone-with-near-drops/)。
+如果你的朋友想创建一个NEAR账户，可以给他们发送一个[NEAR空投](https://near.org/blog/send-near-to-anyone-with-near-drops/)。
 
 ## 使用NEAR应用
 要查看日益增长的NEAR上的应用列表，[点击这里](https://awesomenear.com/categories/dapps/)。
@@ -66,7 +66,7 @@ https://www.binance.com/en/my/wallet/exchange/deposit/crypto/NEAR
 1. Gas单位: 在内部，交易费不是直接用NEAR通证计算的，而是通过一个居中的gas单位。gas单位的好处是，他们是确定的，相同的交易总是消耗相同数量的gas单位。
 2. Gas价格: gas单位乘以gas价格得到具体的向用户收取的费用。这个价格会在每个区块时根据网络需求自动重新计算（如果前面块的gas数量超过半满，则价格上升，否则价格下降，每个区块的价格变动不会超过1%）。最低的价格由网络配置决定，当前是1亿个yoctoNEAR。
 
-注意：测试网和装的gas价格可能不同。在直接使用下面的数字之前，要检查一下gas价格。
+注意：测试网和主网的gas价格可能不同。在直接使用下面的数字之前，要检查一下gas价格。
 
 **从gas角度看**
 
@@ -85,8 +85,8 @@ NEAR的出块时间在一秒左右，这归功于对每个区块gas数量的限�
 1 TeraGas或TGas等于:  
 1 微秒的计算时间  
 10 秒的计算时间  
-1 毫秒的计算时  
-1 纳秒的计算时  
+1 毫秒的计算时间
+1 纳秒的计算时间
 
 ## 常见操作的费用
 为了让大家了解NEAR上的费用有个切入点，下面的表格展示一些常见操作，以及目前它们所消耗的TGas，以及对应的NEAR，分别以千分之一NEAR，NEAR为单位。使用的gas价格是1亿个yN。
