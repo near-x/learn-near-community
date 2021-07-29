@@ -9,3 +9,4 @@ NEAR Protocol and Solana |
 How the NEAR Rainbow Bridge works | 
 How to Build on NEAR? Starting Guide | @shepf | 
 NEAR Sputnik DAO: Empowering Communities | 
+Top 3 NFT Projects On The NEAR Protocol | 
