@@ -37,7 +37,7 @@
   
   - [观看记录片](https://youtu.be/m6LJUpPPHoE)
  
-- [ 4.5 小时] [代币经济学系列](https://www.youtube.com/playlist?list=PLsJWgOB5mIMCMxQVvWAP4xi19EOkHcBNN)
+- [ 4.5 小时] [通证经济学系列](https://www.youtube.com/playlist?list=PLsJWgOB5mIMCMxQVvWAP4xi19EOkHcBNN)
  
 :hear_no_evil: 听一些音频 (~4 小时 @ 1x speed)
 
