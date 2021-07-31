@@ -56,19 +56,17 @@
 - [以太坊黄皮书](https://ethereum.github.io/yellowpaper/paper.pdf)
 - 任何关于[nakamotoinstitute.org Literature](https://nakamotoinstitute.org/literature/)的资料
 
-----------
 
-洞察力等价于80点IQ  
 
--艾伦·凯(Alan Kay)
+  - >洞察力等价于80点IQ  
 
---------------------------------------------------
+  - >艾伦·凯(Alan Kay)
 
-热情等价于相当于25分的智商
+  - >热情等价于相当于25分的智商
 
--来自一名老师
+  - >-来自一名老师
 
-----------
+
 
 
   原文翻译链接https://learnnear.club/lessons/step-1-perceiving-web3-near-certified-developer-level-1/
