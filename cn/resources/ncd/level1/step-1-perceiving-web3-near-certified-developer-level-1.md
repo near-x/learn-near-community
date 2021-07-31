@@ -3,7 +3,9 @@
 *学会在大量历史背景下理解当下正在发生的事情*
 
 ----------
+
 :sparkles: 我们的目标是学会看清我们现在生活的这个新世界:sparkles: 
+
 ---------
 
 请在步骤1之前尽可能多地完成这些核心项目。你完成的越多，你越清楚我们接下来一起要做的事情。如果你准备得更充分，接下来的学习经验也会更有趣。
@@ -17,11 +19,11 @@
 - [ 10 分钟] 阅读并通过测试 [什么是NEAR](https://learnnear.club/what-is-near-protocol/) 指导
 - [ 30 分钟] 回顾 [NEAR大学网页](https://near.org/learn/)
 
-     -[NEAR概述](https://docs.google.com/document/d/1fG3PNTKw727Z5SVyUbJ2nnxn5MZNSGYEZIU2Y7XtlYY/edit)
+     - [NEAR概述](https://docs.google.com/document/d/1fG3PNTKw727Z5SVyUbJ2nnxn5MZNSGYEZIU2Y7XtlYY/edit)
      
-     -[NEAR学院](https://near.academy/)
+     - [NEAR学院](https://near.academy/)
      
-     -[虚构学习途径](https://learn.figment.io/network-documentation/near/near-pathway)
+     - [虚构学习途径](https://learn.figment.io/network-documentation/near/near-pathway)
  
 :see_no_evil: 学习一些视频 (~10 小时 @ 1x speed)
 
@@ -31,9 +33,9 @@
 - [50 分钟] [应用:今天和2025年](https://www.youtube.com/watch?v=3jPYk7ucrjo&list=PLFjTj8QScrlnl_iYZSLBmRxMmtjPhUbu9&index=4)
 - [90 分钟] NEAR 101
     
-  --[回顾PPT](https://bit.ly/near-101)
+  - [回顾PPT](https://bit.ly/near-101)
   
-  --[观看记录片](https://youtu.be/m6LJUpPPHoE)
+  - [观看记录片](https://youtu.be/m6LJUpPPHoE)
  
 - [ 4.5 小时] [代币经济学系列](https://www.youtube.com/playlist?list=PLsJWgOB5mIMCMxQVvWAP4xi19EOkHcBNN)
  
