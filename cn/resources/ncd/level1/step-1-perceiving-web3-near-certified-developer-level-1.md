@@ -1,10 +1,10 @@
-**步骤 1- 感知Web3 - NEAR L1级别开发者认证**
+#步骤 1- 感知Web3 - NEAR L1级别开发者认证
 
 *学会在大量历史背景下理解当下正在发生的事情*
 
 ----------
 
-:sparkles: 我们的目标是学会看清我们现在生活的这个新世界:sparkles:
+>:sparkles: 我们的目标是学会看清我们现在生活的这个新世界:sparkles:
 
 ---------
 
@@ -12,7 +12,7 @@
 
 祝你好运，享受学习的快乐!
 
-:green_book: 核心活动
+## :green_book: 核心活动
 
 :pick: 做一些事情 (~1 小时)
 
@@ -45,7 +45,7 @@
 - [90 分钟] [比特币历史](https://www.whatbitcoindid.com/podcast/the-beginners-guide-to-bitcoin-part-5-the-history-of-bitcoin-with-marty-bent)
 - [90 分钟] [Altcoins,失败的历史](https://www.whatbitcoindid.com/podcast/the-beginners-guide-to-bitcoin-part-9-altcoins-a-history-of-failure-with-nic-carter)
 
- :blue_book: **奖励活动**
+ ## :blue_book: 奖励活动
  
  *如果你有时间看看学习角，这里还会有一些奖励给你。*
 
@@ -58,13 +58,11 @@
 
 
 
-  - >洞察力等价于80点IQ  
+>洞察力等价于80点IQ  
+>-艾伦·凯(Alan Kay)
 
-  - >艾伦·凯(Alan Kay)
-
-  - >热情等价于相当于25分的智商
-
-  - >-来自一名老师
+>热情等价于相当于25分的智商  
+>-来自一名老师
 
 
 
