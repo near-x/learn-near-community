@@ -1,8 +1,8 @@
- <h1> 简介-NEAR认证开发者（一级）</h1>
+ # 简介-NEAR认证开发者（一级）
 
  <font color=#F4A460 > NEAR认证开发者（一级）>介绍 </font> – <font color=#F4A460 > NEAR 认证开发人员 1 级 </font>
 
- <h1> 第一步</h1>
+ ## 第一步
 **请尽快完成以下内容** 协调我们的活动对于该计划的成功至关重要，这将有助于我们做到这一点。
 
 **立即地：**
@@ -14,11 +14,11 @@
 
 3. 创建一个测试网账户 – YourName.testnet – https://wallet.testnet.near.org/
 
-**NEAR认证开发者**
+# NEAR认证开发者
 
 本课程是 Web 开发人员获得结业证书的机会，该证书代表了在 NEAR 平台上设计、开发、测试和部署智能合约的能力。
 
-**欢迎**
+## 欢迎 
 
 很高兴你能加入我们。我们将共同学习在智能合约平台NEAR 协议上构建分散的应用程序。
 
@@ -26,7 +26,7 @@
 
 这是一门 NEAR L2E（Learn-to-Earn）课程，意思是：我们付钱让您完成课程。
 
-**在第 1 步之前**
+## 在第 1 步之前
 
 请确保您在本周开始之前熟悉其中的一些基础知识。尽管您不需要成为这些技术的专家，但克隆 NodeJS 项目、下载其依赖项并运行一些脚本应该没有问题。
 
@@ -35,19 +35,19 @@
 * 基本的 git 命令（见这里和这里）。
 
 
-概述
+## 概述
 在本课程中，我们将练习：
 
-* 在人类历史背景下感知 Web 3
-* 在 Rust 和 AssemblyScript 中读取合约代码
-* 使用 Rust 和 AssemblyScript 编写合约
-* 使用单元和模拟测试测试合约
-* 部署合约和合理的用户界面
+* 在人类历史背景下**感知** Web 3
+* 在 Rust 和 AssemblyScript 中**读取**合约代码
+* 使用 Rust 和 AssemblyScript **编写**合约
+* 使用单元和模拟测试**测试**合约
+* **部署**合约和合理的用户界面
 
 该课程将包括大量的听力、观看、阅读和写作。
 建议每天至少使用 2 小时，但每天最多可能使用 4-6 小时，尤其是对于 Web 开发经验少于三年的开发人员。
 
-工作协议
+## 工作协议
 
 * 我们将在本月最后一个星期五东部时间上午 11 点举行 60 分钟的演示日现场会议
 * 我们鼓励您在演示项目中以小组形式工作
@@ -55,7 +55,7 @@
 * 我们同意尽我们最大的能力完成活动
 * 我们同意在月底前进行项目演示。
 
-问题
+## 问题
 所有问题都应发布到 2 个 Discord 频道之一：
 
 ＃帮助
@@ -69,8 +69,8 @@
 * 作业附加到 StepN 课程
 下一步
 
-* NEAR 认证开发人员 2 级测试网项目跟踪，目标是“将您的 web3 应用程序带到 NEAR 测试网上的 100 个用户”
-* NEAR 认证开发人员 2 级贡献者跟踪，目标是开始从事 NEAR 生态系统项目
+* [认证开发人员 2 级测试网项目跟踪](https://learnnear.club/courses/near-certified-developer-level-2-testnet-project-track/)NEAR ，目标是“将您的 web3 应用程序带到 NEAR 测试网上的 100 个用户”
+* [NEAR 认证开发人员 2 级贡献者跟踪](https://learnnear.club/courses/near-certified-developer-level-2-contributor-track/)，目标是开始从事 NEAR 生态系统项目
 * 作为我们社区的新成员，冒险仍在继续
 
 
@@ -79,31 +79,31 @@
 
 **第 1 期：2021 年 2 月 22 日至 2 月 26 日**
 
-* 第 1 天 - 欢迎和启动幻灯片和录音
-* 第 5 天 - 演示录音
+* 第 1 天 - 欢迎和启动[幻灯](https://docs.google.com/presentation/d/1UGAu8oHJoJ30o6YNq4b9igREG9p93XDSMLBN9-PzOnw/edit)片和[录音](https://www.youtube.com/watch?v=ZM7TCONx9BI&feature=youtu.be)
+* 第 5 天 - 演示[录音](https://www.youtube.com/watch?v=tOoCaafP2s0)
 
 **第 2 期：2021 年 3 月 8 日 - 3 月 12 日**
 
-* 第 1 天 - 欢迎和启动幻灯片和录音
-* 第 5 天 - 演示录音
+* 第 1 天 - 欢迎和启动[幻灯](https://docs.google.com/presentation/d/1FSQKvI8P9zHwbl9aPAMvh-CKysuY7xit4CP3MDbkTEc/edit)片和[录音](https://www.youtube.com/watch?v=ZM7TCONx9BI&feature=youtu.be)
+* 第 5 天 - 演示[录音](https://www.youtube.com/watch?v=sFSyXEmu4ek)
 
 **第 3 期：2021 年 3 月 22 日至 3 月 26 日**
 
-* 第 1 天 - 欢迎和启动幻灯片和录音
-* 第 5 天 - 演示录音
+* 第 1 天 - 欢迎和启动[幻灯片](https://docs.google.com/presentation/d/17sDZlKb0DdJRuK7gvvTaGMbBcmScR2RbRH57Rde_UQI/edit#slide=id.p)和[录音](https://www.youtube.com/watch?v=_1oieYAtmec)
+* 第 5 天 - 演示[录音](https://www.youtube.com/watch?v=RtVtA9Wd8UI)
 
 **第 4 期：2021 年 4 月 5 日至 4 月 9 日**
 
-* 第 1 天 - 欢迎和启动幻灯片和录音
-* 第 5 天 - 演示录音
+* 第 1 天 - 欢迎和启动[幻灯](https://docs.google.com/presentation/d/1XbFpV47P49w5ve_xCCmP5V8hsQf9ltRGRel5fQZnLA4/edit)片和[录音](https://www.youtube.com/watch?v=w2dZ65RJArs)
+* 第 5 天 - 演示[录音](https://www.youtube.com/watch?v=DUNYo2wYhrI)
 
 **第 5 期：2021 年 4 月 19 日至 4 月 23 日**
 
-* 演示录音
+* 演示[录音](https://www.youtube.com/watch?v=SE5ZF8iasYk)
  
 **第6期：**
 
-* 第 5 天 - 演示录音
+* 第 5 天 - 演示[录音](https://www.youtube.com/watch?v=RjFCXzTciuk)
 
 
 **常见问题**
@@ -146,7 +146,44 @@ Windows 可能证明具有挑战性，但如果您对此感到满意，请加入
 
 棒极了。[这里是一些常见问题解答](https://learnnear.club/ncd-frequently-asked-questions/)
 
+**NCDL1注册**
 
+**姓名***
+首先，你叫什么名字？
+
+**电子邮件***
+我们应该使用哪个电子邮件地址与您联系？
+
+**GitHub***
+您的 GitHub 个人资料网址
+
+**角色***
+酷，作为 NEAR 社区的一部分，您将扮演什么角色？
+
+ 我将成为应用程序开发人员
+ 
+ 我是机器人
+ 
+ 我将成为核心贡献者
+ 
+ 我将成为一名非技术型企业家
+ 
+ 其他
+ 
+ **科技**
+告诉我们您的技术经验
+
+ JavaScript 全栈
+ 
+ 前端
+ 
+ 后端
+ 
+ Rust 开发人员
+ 
+ **NEAR帐户***
+ **演示日 月***
+选择提供的演示日 - 本月的最后一个星期五 - 您必须使用 NEAR 交付简单的演示项目
 
 
 
