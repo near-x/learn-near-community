@@ -1,20 +1,20 @@
 # 如何构建NEAR - 开始指南
 ## 前置知识
-[什么是NEAR](https://learnnear.club/what-is-near/)
-JavaScript开发经验
+需要阅读 [什么是NEAR](https://learnnear.club/what-is-near/)
+具备JavaScript开发经验
 
-**开发者** 是区块链生态系统活力的源泉。 为了使区块链技术被主流采纳，它需要降低开发人员的进入的门槛，并允许他们为大众创造有趣而成熟的应用程序。
+**开发者** 是区块链生态系统中的命脉。 为了使区块链技术被主流采纳，它需要降低开发人员的进入的门槛，并允许他们为大众创造有趣而成熟的应用程序。
 因此，NEAR合约支持使用和JavaScript非常相似的 **AssemblyScript** 来编写。
 
 所以，如果您在NEAR上开发构建，您可以使用以下工具
-* JavaScript SDK: 使用JS 连接、签名、转账，以及部署到任何NEAR网络
+* JavaScript SDK: 处理任何由JS上下文到NEAR网络的连接、签名、交易，以及部署
 * Rust Contract SDK: 建立安全，稳定的合约以管理高价值的资产
 * AssemblyScript Contract SDK: 使用JS语法零成本学习
 * JSON RPC API: 所有与平台的通信都通过此API
 * Command Line Interface: 开发人员和验证者的全功能命令行工具包
 * NEAR Explorer（浏览器）: 一个区块链搜索工具，允许开发人员查看交易详细信息、帐户信息、区块详细信息等
 * NEAR Wallet: 提供对普通用户友好的界面来创建帐户、管理访问密钥等
-* nearup: 管理本地部署以及加入公共或专用网络
+* nearup: 在本地管理部署以及加入公共或私人网络
 * Rainbow Bridge （彩虹桥）: 快速的跨链操作、安全的互操作性
 * EVM: 以太坊兼容的虚拟机
 
@@ -78,7 +78,7 @@ NEAR当前支持
 您可以通过安装NEAR betanet 和 testnet节点。通过[https://github.com/near/nearup](https://github.com/near/nearup) 获取指导 
 
 <Question3> 
-与任何区块链的生态系统一样，NEAR在一个名为____ 的公开的计算机集群上运行?
+与任何区块链的生态系统一样，NEAR协议在一个名为____ 的一群公开的计算机上运行?
 - 节点（Nodes）
 - 区块链
 - NEAR 协议
@@ -339,7 +339,7 @@ near login
 const CONTRACT_NAME = process.env.CONTRACT_NAME || 'your-account-here!'
 ```
 ### Step 3: 修改URL
-如果您fork repository，则需要将远程URL更改为您具有“commit”权限的repo。 这将允许从命令行进行自动部署到GitHub页面。
+如果您选择"Fork"以建立仓库的分叉，则需要将远程URL更改为您具有“commit”权限的仓库(repo)。 这将允许从命令行进行自动部署到GitHub页面。
 ```bash
 $ `git remote set-url origin https://github.com/YOUR_USERNAME/YOUR_REPOSITORY.git`
 ```
@@ -354,7 +354,7 @@ yarn deploy
 
 <Question4> 
 每个在NEAR上的智能合约，都有自己相关联的____?
-- 代币
+- 通证
 - 钱包
 - 账户
 - 以上所有
