@@ -57,7 +57,7 @@ _感谢[Tara Tan](https://medium.com/u/2309592fe27c?source=post_page-----e55ac65
 
 _感谢 [Mally Anderson](https://medium.com/u/37f3b7ca9ac9?source=post_page-----e55ac65f4433--------------------------------) 的大量编辑_
 
-最初的文章在Medium[Medium](https://medium.com/sputnikdao/sputnik-dao-empowering-communities-e55ac65f4433)
+最初的文章在 [Medium](https://medium.com/sputnikdao/sputnik-dao-empowering-communities-e55ac65f4433)
 
 P.S. 想为LearnNEAR.Club做贡献吗? 提交您的提案到 [Learn NEAR DAO](https://www.sputnik.fund/#/dao/learnnear.sputnikdao.near)
 
