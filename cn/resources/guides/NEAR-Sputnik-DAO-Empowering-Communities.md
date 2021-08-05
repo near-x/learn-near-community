@@ -1,14 +1,12 @@
 # NEAR Sputnik DAO: 给社区赋能
+
 Open Web和Web3都源于“大众将自己构建和管理下一代互联网”的理念。 [NEAR](https://learnnear.club/what-is-near-protocol/) 以此作为使命：赋予所有人控制自己的钱，数据和治理权力。
 你认为DAO的核心目的是什么？
 
--  协调社区活动
-
--  促进管理机制
-
-复制企业架构
-
--  促进代币经济化
+- [ ] 协调社区活动
+- [ ] 促进管理机制
+- [ ] 复制企业架构
+- [ ] 促进代币经济化
 
 以太坊创始人Vitalik Buterin在2014年发表的一篇非常古老的[博客](https://blog.ethereum.org/2014/05/06/daos-dacs-das-and-more-an-incomplete-terminology-guide/)文章中描绘了一种思考集体行动的新方式：不是一家有股东，高管和员工的公司，而是一个去中心化的自治组织，简称为DAO。其成员就是组织的一部分，贡献他们的努力，并与他们的贡献成比例地获得奖励。DAO中没有老板，没有层次结构，并且参与者通过共同的目的组织在一起。
 
@@ -32,34 +30,35 @@ DAO 是新世界中此类通用协议的一部分。 自 Vitalik 撰写这篇非
 * 如果一个社区是无需许可且匿名的，那么让那些知名的成员参与并创建社区的“核心”仍然很有价值。 社区将首先听取这些成员的观点和意见，因为他们被认为是最投入和最了解情况的人。。
 * 这种去中心化的社区越是以“产品”为核心，就越是需要专注的领导层。因为产品开发通常需要比任何社区参与者都多得多的背景。 例如，一个社区试图共同构建区块链或去中心化交易所。
 * 纯粹基于权益的加权治理常常失败，要么是因为大多数利益相关者无法或不想成为积极的参与者，要么是因为它的治理过程容易招致攻击。
+
+
 Sputnik DAO是专门为技术社区而创建的吗?
 
-- 是
-- 不是
+- [ ] 是
+- [ ] 不是
 
 因此，DAO是围绕某种共同目的而团结起来的社区，需要一些协调和治理的规则，具有随着社区的利益和目标的变化而随时间发展的灵活性，以及以最小的开销作为一个单位进行交易和赚钱的能力。考虑到所有这些经验，我们开始在NEAR上创建一个DAO协议，它将赋予所有类型的社区——不仅仅是由工程师运行的技术社区——以一个灵活、健壮的框架来共同工作和发展。
 
 
 关于社区领导，下列哪项是正确的?
 
--  真正的领导确保每个社区成员总是快乐的。
-
-- 社区领导人不需要为社区全职工作。
-
-- 即使在一个没有权限的社区中，拥有核心成员/领导者也是很重要的。
-
-- 社区的领导人通过制定规则来管理社区。
+- [ ] 真正的领导确保每个社区成员总是快乐的。
+- [ ] 社区领导人不需要为社区全职工作。
+- [ ] 即使在一个没有权限的社区中，拥有核心成员/领导者也是很重要的。
+- [ ] 社区的领导人通过制定规则来管理社区。
 
 由此产生的协议 Sputnik DAO 为世界各地的新的和现有的社区和组织提供了一种方式，在链上代表他们的群体，管理其链上活动和决策，以及（重要的是！）与其他 DAO交互。 自 2021 年 2 月首次启动以来，目前约有 100 个 Sputnik DAO，分配了约 50 万美元，各个国库中总共包含约 50 万美元（参见这里的[统计数据](https://stats.sputnik.fund/) ）。
 
 查看[sputnik.fund](https://www.sputnik.fund/) 并告诉我们你的想法。下周我们将分享V2 beta测试版，含有新的UX和新功能。另一篇文章将详细介绍Sputnik 如何独特地解决组织社区的关键挑战。请务必关注我们的[Medium](https://medium.com/sputnikdao) 以获取关于V2的通知。
 
-感谢Sputnik的早期社区组提供V2的想法; 以及NEAR团队，
+_感谢Sputnik的早期社区组提供V2的想法; 以及NEAR团队。_
 
- 感谢Tara Tan, Julia Lipton给予我们的意见和建议
-感谢 Mally Anderson 的大量编辑
+_感谢[Tara Tan](https://medium.com/u/2309592fe27c?source=post_page-----e55ac65f4433--------------------------------), [Julia Lipton](https://medium.com/u/ea86745c13aa?source=post_page-----e55ac65f4433--------------------------------)给予我们的意见和建议_
+
+_感谢 [Mally Anderson](https://medium.com/u/37f3b7ca9ac9?source=post_page-----e55ac65f4433--------------------------------) 的大量编辑_
+
 最初的文章在Medium[Medium](https://medium.com/sputnikdao/sputnik-dao-empowering-communities-e55ac65f4433)
-顺便提及
-想为LearnNEAR.Club做贡献吗?提交您的提案学习NEAR DAO[学习NEAR DAO](https://www.sputnik.fund/#/dao/learnnear.sputnikdao.near)
+
+P.S. 想为LearnNEAR.Club做贡献吗? 提交您的提案到 [Learn NEAR DAO](https://www.sputnik.fund/#/dao/learnnear.sputnikdao.near)
 
 原文链接：https://learnnear.club/near-sputnik-dao-empowering-communities/
