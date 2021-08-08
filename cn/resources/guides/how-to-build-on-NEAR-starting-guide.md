@@ -1,9 +1,9 @@
 # 如何构建NEAR - 开始指南
 ## 前置知识
-需要阅读 [什么是NEAR](https://learnnear.club/what-is-near/)
-具备JavaScript开发经验
+* 阅读 [什么是NEAR](https://learnnear.club/what-is-near/)
+* 具备JavaScript开发经验
 
-**开发者** 是区块链生态系统中的命脉。 为了使区块链技术被主流采纳，它需要降低开发人员的进入的门槛，并允许他们为大众创造有趣而成熟的应用程序。
+开发者是区块链生态系统中的命脉。 为了使区块链技术被主流采纳，它需要降低开发人员的进入的门槛，并允许他们为大众创造有趣而成熟的应用程序。
 因此，NEAR合约支持使用和JavaScript非常相似的 **AssemblyScript** 来编写。
 
 所以，如果您在NEAR上开发构建，您可以使用以下工具
@@ -20,7 +20,7 @@
 
 现在，让我们开始第一步吧。
 
-## 1.简要概述
+## 简要概述
 在NEAR上的应用分两个不同的部分 - 后端和前端。
 
 * 智能合约（后端）：在链中存储和修改数据。 合约需要提供一些允许用户“查看”或“更改”状态的方法。
@@ -42,10 +42,10 @@ NEAR当前支持
 
 现在，让我们开始吧。
 
-## 2.设置测试网
+## 设置测试网
 
 在NEAR创建帐户的最简单方法是[NEAR Wallet](https://wallet.near.org/)。 需要注意的是，NEAR有几个独自运行的网络环境（如主网、测试网等），他们有各自独立的账户，例如，你在主网创建的账户，并不能在测试网上使用。 
-现在，按照步骤创建钱包。 并且确保您已遵循所需步骤来进行安全备份。
+现在，按照步骤创建钱包。 并且确保您已遵循所需步骤来进行了安全备份。
 
 >注意：在mainnet上创建帐户几乎与testnet相同，但需要为该帐户进行初始资金。 以下是mainnet帐户创建指南。
 
@@ -67,7 +67,7 @@ NEAR当前支持
 
 在了解了testnet后，您也可以随时运行本地节点。 但是，如果您只想练习代码，那么我们建议您使用testnet。
 
-## 3.如何运行一个NEAR节点？
+## 如何运行一个NEAR节点？
 与任何基于区块链的生态系统一样，NEAR协议在一群公开的计算机(或“节点”)上运行。
 
 您可出于以下几个原因决定是否运行您自己的节点：
@@ -75,7 +75,7 @@ NEAR当前支持
 * 在本地（独立和隔离）节点上开发和部署合约（有时称为“LocalNet”）。
 * 加入网络成为运行“验证节点”的验证者
 
-您可以通过安装NEAR betanet 和 testnet节点。通过[https://github.com/near/nearup](https://github.com/near/nearup) 获取指导 
+您可以通过安装NEAR betanet和testnet节点。通过[https://github.com/near/nearup](https://github.com/near/nearup) 获取指导 
 
 <Question3> 
 与任何区块链的生态系统一样，NEAR协议在一个名为____ 的一群公开的计算机上运行?
@@ -84,7 +84,7 @@ NEAR当前支持
 - NEAR 协议
 </Question3> 
 
-## 4.使用Docker运行官方节点
+## 使用Docker运行官方节点
 默认情况下，NEAR 使用Docker运行客户端。 所以，你所做的第一件事是安装Docker和nearup。 然后运行：
 ```bash
 nearup betanet
@@ -98,10 +98,10 @@ Enter your account ID (leave empty if not going to be a validator)
 
 现在，您的Docker节点开始运行在后台中。 要检查Docker内的日志，请运行 docker logs –follow nearcore 。
 
-## 5.在 NEAR 上创建一个简单的代码
+## 在 NEAR 上创建一个简单的代码
 NEAR有一个有用的程序或[示例代码](https://examples.near.org/)列表，可以很方便的checkout。 因此我们将checkout的代码是[Guest Book](https://examples.near.org/guest-book)。使用该程序允许您登录NEAR并向留言簿添加消息！ 使用AssemblyScript后端和React前端构建的starter应用程序。
 
-## 6.学习Guest Book代码
+## 学习Guest Book代码
 要在本地运行此项目，您需要确保以下内容。
 
 * 确保安装了Node.js≥12（https:/nodejs.org）， 然后使用它来安装yarn：npm install –global yarn（或npm i -g yarn）
@@ -114,13 +114,13 @@ NEAR有一个有用的程序或[示例代码](https://examples.near.org/)列表�
 
 您可能会发现[此视频](https://www.youtube.com/embed/B6Gc_OQjX9E?feature=oembed)也很有用。
 
-### 7.探索代码
+### 探索代码
 正如您所看到的，代码分成前端和后端：
 
 * 后端代码在/assembly文件夹中。运行yarn deploy:contract，将部署该合约到NEAR区块链。 这是一个NEAR智能合约。
 * 前端代码在/src文件夹中。/src/index.html是开始探索的位置。请注意，它在/src/index.js中加载，您可以在其中学习前端如何连接到NEAR区块链。
 
-## 8. 后端代码
+## 后端代码
 ### #1 合约的数据模型： assembly/model.ts
 
 ```ts
@@ -193,6 +193,7 @@ MESSAGE_LIMIT用于避免无限的调用（例如: 可能昂贵的）来检索�
 
 我们还在本合约中使用两个不同的公开方法 - addMessage() 和getMessages()
 
+                                 
 ## 9.前端代码
 ### #1 网络配置:  src/config.js
 ```js
@@ -359,6 +360,7 @@ yarn deploy
 - 账户
 - 以上所有
 </Question4> 
+
 
 ## 11.下一步
 至此，您知道了如何运行基本代码，如果您想要深入了解NEAR，请查看NEAR的[开发者文档](https://docs.near.org/docs/develop/basics/getting-started)。
