@@ -9,7 +9,7 @@
 所以，如果您在NEAR上开发构建，您可以使用以下工具
 * JavaScript SDK: 处理任何由JS上下文到NEAR网络的连接、签名、交易，以及部署
 * Rust Contract SDK: 建立安全，稳定的合约以管理高价值的资产
-* AssemblyScript Contract SDK: 使用JS语法零成本学习
+* AssemblyScript Contract SDK: 利用JS语法以零障碍的方式去学习及建立原型
 * JSON RPC API: 所有与平台的通信都通过此API
 * Command Line Interface: 开发人员和验证者的全功能命令行工具包
 * NEAR Explorer（浏览器）: 一个区块链搜索工具，允许开发人员查看交易详细信息、帐户信息、区块详细信息等
