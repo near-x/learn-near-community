@@ -69,7 +69,7 @@ Rust
 * 查看[berryclub合约](https://github.com/evgenykuzyakov/berryclub)
 
 
->To call methods, and methods, and methods, signing transactions in this petty pace from day to day, to the last token of recorded block height;
+>调用方法、方法和方法，每天以这种琐碎的速度签署事务，直到记录的块高度的最后一个标记;
 
 >And all our ledgers have hard forked on their way to a dusty death. Out, out, brief consensus!
 
