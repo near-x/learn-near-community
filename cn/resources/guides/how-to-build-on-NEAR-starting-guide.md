@@ -194,7 +194,7 @@ MESSAGE_LIMIT用于避免无限的调用（例如: 可能昂贵的）来检索�
 我们还在本合约中使用两个不同的公开方法 - addMessage() 和getMessages()
 
                                  
-## 9.前端代码
+## 前端代码
 ### #1 网络配置:  src/config.js
 ```js
 const CONTRACT_NAME = process.env.CONTRACT_NAME || 'guest-book.testnet';
@@ -316,7 +316,7 @@ window.nearInitPromise = initContract()
 分析
 这是前端部分，配置连接到NEAR网络。 需要通过注入钱包的连接及连接双方合约的方法（methods）来配置合约接口。
 
-## 9.部署一个智能合约
+## 部署一个智能合约
 NEAR的每个智能合约都有自己的相关帐户。运行yarn dev时，您的智能合约将使用一个自动生成的开发账户部署到NEAR TestNet上。如果您现在想要使其持久化，以下是您要做的。
 ### Step 0: 安装near-cli
 以下是全局安装near-cli的方法
@@ -362,7 +362,7 @@ yarn deploy
 </Question4> 
 
 
-## 11.下一步
+## 下一步
 至此，您知道了如何运行基本代码，如果您想要深入了解NEAR，请查看NEAR的[开发者文档](https://docs.near.org/docs/develop/basics/getting-started)。
 
 
