@@ -68,7 +68,7 @@ NEAR当前支持
 在了解了testnet后，您也可以随时运行本地节点。 但是，如果您只想练习代码，那么我们建议您使用testnet。
 
 ## 如何运行一个NEAR节点？
-与任何基于区块链的生态系统一样，NEAR协议在一群公开的计算机(或“节点”)上运行。
+与任何基于区块链的生态系统一样，[NEAR协议](https://learnnear.club/near-protocol-and-solana/)在一群公开的计算机(或“节点”)上运行。
 
 您可出于以下几个原因决定是否运行您自己的节点：
 * 在MainNet，TestNet或Betanet的节点上开发和部署合约
