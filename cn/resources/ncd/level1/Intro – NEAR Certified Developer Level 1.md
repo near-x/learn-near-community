@@ -31,7 +31,7 @@
 
 在本周开始之前,请先确保您熟悉其中的一些基础知识。尽管您不需要成为这些技术的专家，但克隆 NodeJS 项目、下载其依赖项并运行一些脚本应该没有问题。
 
-* 基本的 JavaScript 客户端和服务器端开发（见[这里](https://nodejs.dev/learn)和[这里]（https://javascript.info/））
+* 基本的 JavaScript 客户端和服务器端开发（见[这里](https://nodejs.dev/learn)和[这里](https://javascript.info/))
 * 基本终端控制（见[这里](https://mmuratarat.github.io/2020-04-01/bash_shell_tutorial)和[这里](https://mmuratarat.github.io/2020-04-01/bash_shell_tutorial)）
 * 基本的 git 命令（见[这里](https://www.git-tower.com/learn/git/videos/)和[这里](https://github.com/git-school/visualizing-git)）。
 
@@ -57,9 +57,11 @@
 * 我们同意在月底前进行项目演示。
 
 ## 问题
+
 所有问题都应发布到 2 个 Discord 频道之一：
 
 ＃帮助
+
 问题反馈：通常问题、一般时间表、帐户问题等
 
 #step-#（第 1 步、第 1 步等）
