@@ -1,6 +1,6 @@
 # 第 6 步 - 演示 web3 NEAR 认证开发者级别 1
-
-NEAR Certified Developer Level 1 Step > 6 – Demo web3 NEAR Certified Developer Level 1         完全的
+   
+NEAR开发者认证1级 > 第六步 - 演示web3 NEAR开发者认证1级                                     完全的
 
 学习演示智能合约项目。
 
