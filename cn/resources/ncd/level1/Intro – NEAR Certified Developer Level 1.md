@@ -69,7 +69,7 @@
 
 **作业**
 
-* 作业附加到 StepN 课程
+* 每个步骤的课程都有附加作业
 下一步
 
 * [NEAR认证开发者2级测试网项目跟踪](https://learnnear.club/courses/near-certified-developer-level-2-testnet-project-track/) ，目标是“让您的web3应用程序在NEAR 测试网上拥有100个用户”
