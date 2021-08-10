@@ -78,35 +78,36 @@
 
 
 **课程录像**
+
 所有公开可用的录像都将在活动结束后的 24-48 小时内发布在这里。
 
 **第 1 期：2021 年 2 月 22 日至 2 月 26 日**
 
-* 第 1 天 - 欢迎和启动[幻灯](https://docs.google.com/presentation/d/1UGAu8oHJoJ30o6YNq4b9igREG9p93XDSMLBN9-PzOnw/edit)片和[录音](https://www.youtube.com/watch?v=ZM7TCONx9BI&feature=youtu.be)
-* 第 5 天 - 演示[录音](https://www.youtube.com/watch?v=tOoCaafP2s0)
+* 第 1 天 - 欢迎和启动[幻灯](https://docs.google.com/presentation/d/1UGAu8oHJoJ30o6YNq4b9igREG9p93XDSMLBN9-PzOnw/edit)片和[录像](https://www.youtube.com/watch?v=ZM7TCONx9BI&feature=youtu.be)
+* 第 5 天 - 演示[录像](https://www.youtube.com/watch?v=tOoCaafP2s0)
 
 **第 2 期：2021 年 3 月 8 日 - 3 月 12 日**
 
-* 第 1 天 - 欢迎和启动[幻灯](https://docs.google.com/presentation/d/1FSQKvI8P9zHwbl9aPAMvh-CKysuY7xit4CP3MDbkTEc/edit)片和[录音](https://www.youtube.com/watch?v=ZM7TCONx9BI&feature=youtu.be)
-* 第 5 天 - 演示[录音](https://www.youtube.com/watch?v=sFSyXEmu4ek)
+* 第 1 天 - 欢迎和启动[幻灯](https://docs.google.com/presentation/d/1FSQKvI8P9zHwbl9aPAMvh-CKysuY7xit4CP3MDbkTEc/edit)片和[录像](https://www.youtube.com/watch?v=ZM7TCONx9BI&feature=youtu.be)
+* 第 5 天 - 演示[录像](https://www.youtube.com/watch?v=sFSyXEmu4ek)
 
 **第 3 期：2021 年 3 月 22 日至 3 月 26 日**
 
-* 第 1 天 - 欢迎和启动[幻灯片](https://docs.google.com/presentation/d/17sDZlKb0DdJRuK7gvvTaGMbBcmScR2RbRH57Rde_UQI/edit#slide=id.p)和[录音](https://www.youtube.com/watch?v=_1oieYAtmec)
-* 第 5 天 - 演示[录音](https://www.youtube.com/watch?v=RtVtA9Wd8UI)
+* 第 1 天 - 欢迎和启动[幻灯片](https://docs.google.com/presentation/d/17sDZlKb0DdJRuK7gvvTaGMbBcmScR2RbRH57Rde_UQI/edit#slide=id.p)和[录像](https://www.youtube.com/watch?v=_1oieYAtmec)
+* 第 5 天 - 演示[录像](https://www.youtube.com/watch?v=RtVtA9Wd8UI)
 
 **第 4 期：2021 年 4 月 5 日至 4 月 9 日**
 
-* 第 1 天 - 欢迎和启动[幻灯](https://docs.google.com/presentation/d/1XbFpV47P49w5ve_xCCmP5V8hsQf9ltRGRel5fQZnLA4/edit)片和[录音](https://www.youtube.com/watch?v=w2dZ65RJArs)
-* 第 5 天 - 演示[录音](https://www.youtube.com/watch?v=DUNYo2wYhrI)
+* 第 1 天 - 欢迎和启动[幻灯](https://docs.google.com/presentation/d/1XbFpV47P49w5ve_xCCmP5V8hsQf9ltRGRel5fQZnLA4/edit)片和[录像](https://www.youtube.com/watch?v=w2dZ65RJArs)
+* 第 5 天 - 演示[录像](https://www.youtube.com/watch?v=DUNYo2wYhrI)
 
 **第 5 期：2021 年 4 月 19 日至 4 月 23 日**
 
-* 演示[录音](https://www.youtube.com/watch?v=SE5ZF8iasYk)
+* 演示[录像](https://www.youtube.com/watch?v=SE5ZF8iasYk)
  
 **第6期：**
 
-* 第 5 天 - 演示[录音](https://www.youtube.com/watch?v=RjFCXzTciuk)
+* 第 5 天 - 演示[录像](https://www.youtube.com/watch?v=RjFCXzTciuk)
 
 
 **常见问题**
