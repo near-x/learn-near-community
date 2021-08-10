@@ -6,7 +6,7 @@
 **请尽快完成以下内容** 加入社区并协助我们的活动将帮助我们共同获得成功。
 
 **立即地：**
-1.请使用专用的Discord服务器加入我们。
+1.加入我们专属的Discord群组
 – 使用此邀请链接 https://discord.gg/kPVx2wHcX5
 – 在此服务器上使用您的 NEAR 帐户作为 Discord 名称 – YourName.NEAR。
 
