@@ -10,7 +10,7 @@
 – 使用此邀请链接 https://discord.gg/kPVx2wHcX5
 – 在此服务器上使用您的 NEAR 帐户作为 Discord 名称 – YourName.NEAR。
 
-2.关注Twitter上的Learn NEARhttps://twitter.com/LearnNear
+2.关注Twitter上的Learn NEAR：https://twitter.com/LearnNear
 
 3. 创建一个测试网账户 – YourName.testnet – https://wallet.testnet.near.org/
 
