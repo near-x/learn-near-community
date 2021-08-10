@@ -29,7 +29,7 @@
 
 ## 在开始第一步之前
 
-在本周开始之前,请先确保您熟悉其中的一些基础知识。尽管您不需要成为这些技术的专家，但克隆 NodeJS 项目、下载其依赖项并运行一些脚本应该没有问题。
+在本周开始之前,请先确保您熟悉一些基础知识。尽管您不需要成为这些技术的专家，但您需要会克隆 NodeJS 项目、下载其依赖项并运行一些脚本。
 
 * 基本的 JavaScript 客户端和服务器端开发（见[这里](https://nodejs.dev/learn)和[这里](https://javascript.info/))
 * 基本终端控制（见[这里](https://mmuratarat.github.io/2020-04-01/bash_shell_tutorial)和[这里](https://mmuratarat.github.io/2020-04-01/bash_shell_tutorial)）
