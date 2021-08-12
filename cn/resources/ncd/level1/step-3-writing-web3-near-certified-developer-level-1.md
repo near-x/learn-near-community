@@ -53,7 +53,7 @@ AssemblyScript
 -  collections in [near-sdk-as](https://github.com/near/near-sdk-as/tree/master/sdk-core/assembly/collections)
 -  collection [performance](https://github.com/near-examples/collection-examples-as)
 
-* 在AssemblyScript中查看可分割和不可分割的代币合约
+* 在AssemblyScript中查看同质化和非同质化代币合约
 -  [FT](https://github.com/near-examples/FT)
 -  [NFT](https://github.com/near-examples/NFT)
 
