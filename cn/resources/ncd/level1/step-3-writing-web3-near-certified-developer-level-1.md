@@ -47,7 +47,7 @@ AssemblyScript
     - #2. [debugging challenge](https://github.com/Learn-NEAR/workshop--exploring-assemblyscript-contracts#activitydebugging-challenge) to fix a few failing unit tests with broken contracts
 
 * 完成这些挑战，然后以一些有趣的方式修改合约
-    - #3. [开发周期挑战](https://github.com/Learn-NEAR/workshop--exploring-assemblyscript-contracts#activitydevelopment-lifecycle)通过引导您部署一个合约
+    - #3. [开发周期挑战](https://github.com/Learn-NEAR/workshop--exploring-assemblyscript-contracts#activitydevelopment-lifecycle)将引导您部署一个合约
 
 * 查看NEAR的一些数据“convenience”结构。 这些都是NEAR Storage的包装器，如docs所示 [Storage as seen in docs](https://docs.near.org/docs/concepts/data-storage#docsNav)
 -  collections in [near-sdk-as](https://github.com/near/near-sdk-as/tree/master/sdk-core/assembly/collections)
