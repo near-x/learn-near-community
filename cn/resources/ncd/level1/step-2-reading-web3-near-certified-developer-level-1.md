@@ -4,7 +4,7 @@
 
 > :sparkles: 今天的目标是阅读尽可能多的合约。:sparkles: 
 
-有时人们不确定如何完成此活动。 如下技巧可能会有所帮助。
+一开始可能会不知所措，如下技巧可能会帮助到你：
 
 可以考虑多次快速阅读而不是一次性的慢慢阅读。阅读[How to survey](https://hackmd.io/@nearly-learning/how-to-survey) ?可以让您明白为什么和怎样去做。
 
@@ -19,15 +19,15 @@
 
 ### :blue_book: 奖励活动：
 如果您还有时间去探索，那么您可以进行以下活动。
-复制（clone）所选语言的 starter 库并按照说明进行操作
+克隆（clone）所选语言的 starter 库并按照说明进行操作
 * [AssemblyScript](https://github.com/Learn-NEAR/starter--AssemblyScript)
 * Rust (仍在开发中)
 
-您阅读得越多越好，如果可以的话，继续阅读下去。记住要把注意力集中在阅读上，避免一些有关构建和运行上的问题的诱惑，因为这会分散您的注意力。明天，您就可以构建和运行所有东西。
+您阅读得越多越好，如果可以的话，继续阅读下去。记住要把注意力集中在阅读上，先不去考虑有关构建和运行上的问题，因为这会分散您的注意力。明天，您就可以构建和运行所有东西。
 
 1. 阅读您所选择的语言的所有合约，而不仅仅是3份
 2. 还要阅读其他语言的所有合约。
-3. 查看这些小难题，您可能会在它们中获得乐趣
+3. 看看下面这些小的挑战，您可能会在它们中获得乐趣
 
 * [Scavenger Hunt Challenge #1](https://hackmd.io/@nearly-learning/hunt-01)
 * [Scavenger Hunt Challenge #2](https://hackmd.io/@nearly-learning/hunt-02)
