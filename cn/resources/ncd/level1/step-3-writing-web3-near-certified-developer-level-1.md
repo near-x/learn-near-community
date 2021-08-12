@@ -106,7 +106,7 @@ Rust
 以下是这些示例：[无合约示例](https://airtable.com/shr5VqiNCEoPWl0JQ/tblm1quryzSbqBzCK)
 
 
-## NCDL1 写 web3 任务
+## NCDL1 本章作业
 现在，是时候提交任务了！
 问题1：您读了多少合约？
 * 0
