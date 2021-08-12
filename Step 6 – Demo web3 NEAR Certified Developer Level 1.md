@@ -14,6 +14,6 @@ NEAR开发者认证1级 > 第六步 - 演示web3应用  NEAR开发者认证1级
 
 2.周五用5-10分钟向小组展示你的工作
 
-3.庆祝一个项目做得好，欢迎来到这一方面！
+3.庆祝一下自己完成了课程的项目！
 
 原文链接：https://learnnear.club/lessons/step-6-demo-web3-near-certified-developer-level-1/
