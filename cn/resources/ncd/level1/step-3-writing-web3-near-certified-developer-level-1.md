@@ -49,7 +49,7 @@ AssemblyScript
 * 完成这些挑战，然后以一些有趣的方式修改合约
     - #3. [开发周期挑战](https://github.com/Learn-NEAR/workshop--exploring-assemblyscript-contracts#activitydevelopment-lifecycle)将引导您部署一个合约
 
-* 查看NEAR的一些数据“convenience”结构。 这些都是NEAR Storage的包装器，如docs所示 [Storage as seen in docs](https://docs.near.org/docs/concepts/data-storage#docsNav)
+* 查看NEAR提供的辅助数据结构。 这些都是NEAR Storage的封装，如docs所示 [Storage as seen in docs](https://docs.near.org/docs/concepts/data-storage#docsNav)
 -  collections in [near-sdk-as](https://github.com/near/near-sdk-as/tree/master/sdk-core/assembly/collections)
 -  collection [performance](https://github.com/near-examples/collection-examples-as)
 
