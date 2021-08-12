@@ -38,7 +38,7 @@ MainNet的部署超出了课程的范围，因此我们将重点关注TestNet，
 * 运行nearup（使用刚刚编译的nearcore二进制文件）
 
 2. 确保您通过阅读nearup文档（git仓库的README）以了解设置的详细信息。
-3. 您最终将使用4节点LocalNet。 要创建帐户，您必须在验证节点之一的主目录中找到的验证节点keys（下面是来自MacOS）
+3. 您最终将使用4节点LocalNet。 要创建帐户，您必须在验证节点之一的机器上找到的验证节点keys（下面是MacOS的目录形式）
    这是LocalNet keystore文件系统中的位置
     ```bash
     /Users/sherif/.near/localnet
