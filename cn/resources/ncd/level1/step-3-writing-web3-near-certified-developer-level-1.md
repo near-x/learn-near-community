@@ -103,7 +103,7 @@ Rust
 
 ### 无合约
 可以使用NEAR构建不使用合约的应用程序。
-以下是这些示例：[ OPEN the list of apps using NO CONTRACT ](https://airtable.com/shr5VqiNCEoPWl0JQ/tblm1quryzSbqBzCK)
+以下是这些示例：[无合约示例](https://airtable.com/shr5VqiNCEoPWl0JQ/tblm1quryzSbqBzCK)
 
 
 ## NCDL1 写 web3 任务
