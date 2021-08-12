@@ -14,7 +14,7 @@ MainNet的部署超出了课程的范围，因此我们将重点关注TestNet，
 ### :green_book: 核心活动：
 1. 填写下面的表格，以预约您的演示。 您必须（与团队或您自己）参与演示的开发以获得证书。
 	如果只有您一个人参加演示，那么在下面的表格中填写您个人的信息即可。 如果您有一个团队，在下面的表格中请填入团队所有人员的信息（仅需提交一份表格）。
-   [ REGISTER for your demo slot ](https://learnnear.club/lessons/step-5-deploying-web3-near-certified-developer-level-1/#Submit%20Demo)
+   [预约您的演示时间](https://learnnear.club/lessons/step-5-deploying-web3-near-certified-developer-level-1/#Submit%20Demo)
    > 为了获得证书，您必须在课程的最后发表您的演示。 如果您现在还没有准备好演示，那么欢迎您在**下个月的最后一个周五**发表演示
 
 2. 将至少一个应用程序部署到TestNet
