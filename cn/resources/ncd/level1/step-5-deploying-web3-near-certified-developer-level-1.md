@@ -32,7 +32,7 @@ MainNet的部署超出了课程的范围，因此我们将重点关注TestNet，
 ### :blue_book: 奖励活动：
 如果您还有时间和精力，还有更多内容等待您
 
-1. 安装[nearup](https://github.com/near/nearup) 获得一个[本地节点运行](https://github.com/near/nearup#spawn-a-local-network) 。 这将包括：
+1. 安装[nearup](https://github.com/near/nearup) 获得一个[本地节点运行](https://github.com/near/nearup#spawn-a-local-network) 。 具体步骤为：
 * 安装nearup和nearcore依赖
 * 编译nearcore（这可能需要很长时间）
 * 运行nearup使用签名编译的nearcore二进制文件
