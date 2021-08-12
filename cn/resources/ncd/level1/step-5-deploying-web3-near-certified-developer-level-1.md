@@ -25,7 +25,7 @@ MainNet的部署超出了课程的范围，因此我们将重点关注TestNet，
    使用[NEAR Explorer](https://explorer.testnet.near.org/)验证部署（将部署的证据找到合约已部署到的目标帐户）
    使用NEAR CLI 的命令[near state <contract-account>](https://docs.near.org/docs/tools/near-cli#near-state) ，成功部署后的code_hash返回值将不是空值（全1）
 
-5. 对应用程序的使用验证
+5. 验证合约是否被正常使用
    使用[NEAR Explorer](https://explorer.testnet.near.org/) 验证部署（查找与[您的帐户](https://explorer.testnet.near.org/accounts/sherif.testnet) 与部署合约的目标帐户相关的任何交易的记录）
 
 
