@@ -9,7 +9,7 @@
 
 ### :green_book: 核心活动：
 在下面的资源部分中，选择AssemblyScript或Rust
-* 审查您所选语言标记为“CORE Activity”的3个应用程序
+* 阅读您所选的语言中标记为“CORE Activity”的3个应用程序
 
 如果您喜欢逐步进行，则可以执行以下操作来仔细研究每个合约或dApp：
 
