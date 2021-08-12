@@ -43,8 +43,8 @@
 
 AssemblyScript
 * 在AssemblyScript workshop中完成这些挑战
-    - #1. [scavenger hunt](https://github.com/Learn-NEAR/workshop--exploring-assemblyscript-contracts#activityscavenger-hunt) through several AssemblyScript projects
-    - #2. [debugging challenge](https://github.com/Learn-NEAR/workshop--exploring-assemblyscript-contracts#activitydebugging-challenge) to fix a few failing unit tests with broken contracts
+    - #1. [scavenger hunt](https://github.com/Learn-NEAR/workshop--exploring-assemblyscript-contracts#activityscavenger-hunt)是一个AssemblyScript的例子
+    - #2. [debugging challenge](https://github.com/Learn-NEAR/workshop--exploring-assemblyscript-contracts#activitydebugging-challenge) 有一些未通过的测试用例需要修复
 
 * 完成这些挑战，然后以一些有趣的方式修改合约
     - #3. [开发周期挑战](https://github.com/Learn-NEAR/workshop--exploring-assemblyscript-contracts#activitydevelopment-lifecycle)将引导您部署一个合约
