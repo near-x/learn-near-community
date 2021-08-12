@@ -1,10 +1,10 @@
-## 步骤4 – 测试 web3（NEAR开发者L1认证）
+## 步骤4 – 测试web3合约（NEAR开发者L1认证）
 学习编写智能合约的单元测试和模拟测试。
 
-> :sparkles: 今天的目标是编写可以合约的单元测试和模拟测试。:sparkles: 
+> :sparkles: 今天的目标是为你的合约编写一些测试。:sparkles: 
 
-### :green_book: 核心活动：
-在下面的资源章节中，选择AssemblyScript或Rust
+### :green_book: 关键活动：
+在下面的资源部分中，选择AssemblyScript或Rust
 * 为标记为“CORE Activity”的3个合约写上3~5个单元测试
 
 ### :blue_book: 奖励活动：
