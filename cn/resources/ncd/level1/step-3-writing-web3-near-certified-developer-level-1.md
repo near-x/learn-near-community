@@ -99,7 +99,7 @@ Rust
 
 您应该至少阅读3个标记为**CORE Activity**合约。
 
-您可以阅读有关[Rust合约](https://hackmd.io/@nearly-learning/contract-basics-rust)基础的更多信息
+您可以阅读有关[Rust合约](https://hackmd.io/@nearly-learning/contract-basics-rust)的更多信息
 
 ### 非合约
 可以使用NEAR构建不使用合约的应用程序。
