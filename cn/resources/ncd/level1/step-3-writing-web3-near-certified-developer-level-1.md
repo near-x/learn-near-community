@@ -101,7 +101,7 @@ Rust
 
 您可以阅读有关[Rust合约](https://hackmd.io/@nearly-learning/contract-basics-rust)的更多信息
 
-### 非合约
+### 无合约
 可以使用NEAR构建不使用合约的应用程序。
 以下是这些示例：[ OPEN the list of apps using NO CONTRACT ](https://airtable.com/shr5VqiNCEoPWl0JQ/tblm1quryzSbqBzCK)
 
