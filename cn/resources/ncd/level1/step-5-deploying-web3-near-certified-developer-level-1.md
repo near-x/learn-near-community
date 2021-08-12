@@ -19,7 +19,7 @@ MainNet的部署超出了课程的范围，因此我们将重点关注TestNet，
 
 2. 将至少一个应用程序部署到TestNet
 	* 选择您在第1天和第2天看到的合约和应用程序中的任何一个（或多个）。部署时，应用程序是用Rust还是AssemblyScript编写都没有关系。 所有合约代码都编译为WebAssembly，并部署到链上以在Wasm兼容虚拟机中运行。
-   对于大多数应用程序，您将使用诸如yarn dev之类的命令，但是您也可以使用NEAR CLI[near dev-deploy](https://docs.near.org/docs/tools/near-cli#near-dev-deploy) 轻松部署应用程序，并使用[near dev-deploy](https://docs.near.org/docs/tools/near-cli#near-dev-deploy) 部署到TestNet（或者如果您已经有了帐户，则[near deploy](https://docs.near.org/docs/tools/near-cli#near-deploy) ）。
+   对于大多数应用程序，您将使用诸如yarn dev之类的命令，但是您也可以使用NEAR CLI[near dev-deploy](https://docs.near.org/docs/tools/near-cli#near-dev-deploy) 轻松部署应用程序到Testnet（或者如果您已经有了Mainnet帐户，则使用[near deploy](https://docs.near.org/docs/tools/near-cli#near-deploy) ）。
 	  
 3. 验证已经部署的应用程序
    使用[NEAR Explorer](https://explorer.testnet.near.org/)验证部署（将部署的证据找到合约已部署到的目标帐户）
