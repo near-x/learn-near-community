@@ -42,7 +42,7 @@
 - [ 90 分钟 ] [比特币的历史](https://www.whatbitcoindid.com/podcast/the-beginners-guide-to-bitcoin-part-5-the-history-of-bitcoin-with-marty-bent)
 - [ 90 分钟 ] [Altcoins, 一段失败的历史](https://www.whatbitcoindid.com/podcast/the-beginners-guide-to-bitcoin-part-9-altcoins-a-history-of-failure-with-nic-carter)
 
- ## :blue_book: 奖励活动
+## :blue_book: 奖励活动
 
  *如果你有时间四处转转，这里还有一些小玩意给你。*
 
