@@ -15,7 +15,7 @@ _学习阅读能够控制资金，身份和所有权的合约_
 * AssemblyScript合约 是以`.ts`结尾的文件，通常是`main.ts`或`index.ts`
 * Rust合约 位于名为`lib.rs`的文件中。
 
-### :green_book: 核心活动：
+### :green_book: 核心活动
 
 1. 在下面的资源部分中，选择AssemblyScript或Rust
     * **查看**您所选的语言中标记为**CORE Activity**的3份合约

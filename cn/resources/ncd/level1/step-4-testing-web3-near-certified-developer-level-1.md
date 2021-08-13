@@ -6,11 +6,11 @@ _学习编写智能合约的单元测试和模拟测试。_
 > :sparkles: 今天的目标是为你的合约编写一些测试。:sparkles: 
 --------
 
-### :green_book: 核心活动：
+### :green_book: 核心活动
 1. 在下面的[资源部分](https://learnnear.club/lessons/step-4-testing-web3-near-certified-developer-level-1/#-Resources)中，选择AssemblyScript或Rust
    * 为CORE Activity中的**每个**合约**编写**3-5个单元测试
 
-### :blue_book: 奖励活动：
+### :blue_book: 奖励活动
 _如果您还有时间和精力，还有更多内容等待您_
 
 如果您需要更多的挑战，请考虑以下事项：

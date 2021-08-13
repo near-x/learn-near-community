@@ -14,7 +14,7 @@ _学习将智能合约部署到TestNet。_
 
 MainNet的部署超出了课程的范围，因此我们将重点关注TestNet，以及作为额外活动，您可以在私下构建的LocalNet上部署。 在TestNet上运行的所有内容都应在MainNet上同样有效。 实际上，这是TestNet的唯一目的：在我们将合约发布到MainNet上之前，为我们提供工作的完整预览。
 
-### :green_book: 核心活动：
+### :green_book: 核心活动
 
 1. 填写下面的表格，**以预约您的演示时间**。您**必须**（与团队一起或独自一人）参与演示项目的开发从而获得**证书**。如果只有您一个人参加演示，那么在下面的表格中填写您个人的信息即可。 如果您有一个团队，在下面的表格中请填入团队所有人员的信息（仅需提交一份表格）。[**预约您的演示时间**](https://learnnear.club/lessons/step-5-deploying-web3-near-certified-developer-level-1/#Submit%20Demo)
 
@@ -35,7 +35,7 @@ MainNet的部署超出了课程的范围，因此我们将重点关注TestNet，
    - 使用[NEAR Explorer](https://explorer.testnet.near.org/) 验证部署（在[您的帐户](https://explorer.testnet.near.org/accounts/sherif.testnet) 上查找与已部署合约的目标账户相关联的交易记录）
 
 
-### :blue_book: 奖励活动：
+### :blue_book: 奖励活动
 
 _如果您还有时间和精力，还有更多内容等待您_
 

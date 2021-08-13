@@ -10,7 +10,7 @@ _学习如何在合约中对资金，身份和所有权进行控制。_
 
 如果由于某种原因而卡在一个应用程序上，只需在微信群或者Discord中寻求帮助并立即继续。如果可能的话，请不要等到其他人答复后再继续，否则您会浪费时间。
 
-### :green_book: 核心活动：
+### :green_book: 核心活动
 
 在下面的[资源部分](https://learnnear.club/lessons/step-3-writing-web3-near-certified-developer-level-1/#-Resources)中，选择AssemblyScript或Rust
 
@@ -32,7 +32,7 @@ _学习如何在合约中对资金，身份和所有权进行控制。_
 10. **删除合约代码并重写它**，您可以参考你笔记（您做笔记了吧？）。当然，您也可以只重写合约的一小部分。
 
 
-### :blue_book: 奖励活动：
+### :blue_book: 奖励活动
 
 _如果您还有时间去探索，那么您可以进行以下活动。_
 
