@@ -10,20 +10,21 @@ _学习阅读能够控制资金，身份和所有权的合约_
 
 尝试弄清楚如何获得合约代码。 然后快速阅读代码。 希望您尽可能多的阅读合约代码。 探索这些合约的“目的”（why is it?）和“编码”（what is it?）
 
-* AssemblyScript合约 是以.ts结尾的文件，通常是`main.ts`或`index.ts`
+* AssemblyScript合约 是以`.ts`结尾的文件，通常是`main.ts`或`index.ts`
 * Rust合约 位于名为`lib.rs`的文件中。
 
 ### :green_book: 核心活动：
 
 1. 在下面的资源部分中，选择AssemblyScript或Rust
-* **查看**您所选的语言中标记为**CORE Activity**的3份合约
+    * **查看**您所选的语言中标记为**CORE Activity**的3份合约
 
 ### :blue_book: 奖励活动：
 
 _如果您还有时间去探索，那么您可以进行以下活动。_
-克隆（clone）所选语言的 starter 库并按照说明进行操作
-* [AssemblyScript](https://github.com/Learn-NEAR/starter--AssemblyScript)
-* Rust (仍在开发中)
+
+0. 克隆（clone）所选语言的 starter 库并按照说明进行操作
+    * [AssemblyScript](https://github.com/Learn-NEAR/starter--AssemblyScript)
+    * Rust (仍在开发中)
 
 您阅读得越多越好，所以如果可以的话，继续阅读下去。记住要把注意力集中在阅读上，先不去考虑有关编译和运行相关的问题，因为这会分散您的注意力。明天，您就可以编译和运行所有东西。
 
@@ -31,8 +32,8 @@ _如果您还有时间去探索，那么您可以进行以下活动。_
 2. 还要阅读其他语言的所有合约。
 3. 看看下面这些小的挑战，您可能会在它们中获得乐趣
 
-* [Scavenger Hunt Challenge #1](https://hackmd.io/@nearly-learning/hunt-01)
-* [Scavenger Hunt Challenge #2](https://hackmd.io/@nearly-learning/hunt-02)
+    * [Scavenger Hunt Challenge #1](https://hackmd.io/@nearly-learning/hunt-01)
+    * [Scavenger Hunt Challenge #2](https://hackmd.io/@nearly-learning/hunt-02)
 
 
 ### :orange_book: 更加深入的探索
@@ -45,15 +46,15 @@ _如果您感到无所畏惧，那么您可能会在一天中做完这些_
 
 ---
 
-> _None of us is as smart as all of us_
+> _没人人比我们所有人加到一起更聪明。_
 >
-> _– Ken Blanchard_
+> – _肯尼斯·布兰查德_
 > 
 > ---
 > 
 > _并不是我很聪明，我只是和问题相处得比较久一点。_
 >
-> _– 爱因斯坦_
+> – _爱因斯坦_
 
 ---
 
@@ -80,14 +81,14 @@ _如果您感到无所畏惧，那么您可能会在一天中做完这些_
 您可以阅读更多有关[Rust合约的基础知识](https://hackmd.io/@nearly-learning/contract-basics-rust)，也可以选择观看[视频](https://www.youtube.com/watch?v=AOvqsD-rBUw)以了解Rust合约。
 
 
-## NCDL1阅读 web3 任务
+## NCDL1阅读 web3 作业
 
-现在，是时候提交任务了！
+现在，是时候交作业了！
 问题1：您阅读了多少合约？
 * 0
 * \>1
 
-现在，是时候提交任务了！  
+现在，是时候交作业了！  
 问题2:  请提交评论：
 
 合约1：
