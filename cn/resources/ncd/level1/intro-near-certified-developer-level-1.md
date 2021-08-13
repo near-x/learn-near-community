@@ -26,58 +26,61 @@
 
 很高兴你能加入我们。我们将共同学习在智能合约平台NEAR上构建去中心化的应用程序。
 
-以下是截至 2020 年 12 月，这些所谓的“第 1 层”平台在行业中发生的情况的报告。研究表明：NEAR 就在这里。
+这个[报告](https://medium.com/electric-capital/electric-capital-developer-report-2020-9417165c6444)介绍了截至2020年12月，这些所谓的“一层”平台在行业中的情况。研究清楚地表明：_NEAR在开发者心目中占有一席之地_。
 
-这是一门 NEAR L2E（Learn-to-Earn）课程，也就是说：我们付钱让您完成课程。
+这是一门 **NEAR L2E**（Learn-to-Earn）课程，也就是说：**我们付钱**让您完成课程。
 
 ## 在开始第一步之前
 
-在本周开始之前,请先确保您熟悉一些基础知识。尽管您不需要成为这些技术的专家，但您需要会克隆 NodeJS 项目、下载其依赖项并运行一些脚本。
+在本周开始之前,请先确保您熟悉一些基础知识。尽管您不需要成为这些技术的专家，但您需要会克隆 NodeJS 项目、下载其依赖的库，并运行一些脚本。
 
 * 基本的 JavaScript 客户端和服务器端开发（见[这里](https://nodejs.dev/learn)和[这里](https://javascript.info/))
 * 基本终端控制（见[这里](https://mmuratarat.github.io/2020-04-01/bash_shell_tutorial)和[这里](https://mmuratarat.github.io/2020-04-01/bash_shell_tutorial)）
-* 基本的 git 命令（见[这里](https://www.git-tower.com/learn/git/videos/)和[这里](https://github.com/git-school/visualizing-git)）。
+* 基本的 `git` 命令（见[这里](https://www.git-tower.com/learn/git/videos/)和[这里](https://github.com/git-school/visualizing-git)）。
 
 
 ## 概述
 在本课程中，我们将练习：
 
-* 在人类历史背景下**感知** Web 3
-* 在 Rust 和 AssemblyScript 中**读取**合约代码
-* 使用 Rust 和 AssemblyScript **编写**合约
-* 使用单元和模拟测试**测试**合约
+* 在人类历史背景下**理解** Web 3
+* **阅读**用 Rust 和 AssemblyScript 写的合约代码
+* 用 Rust 和 AssemblyScript **编写**合约
+* 用单元测试和模拟测试**测试**合约
 * **部署**合约和用户界面
 
-该课程将包括大量的观看、阅读和写作内容。
-建议每天至少使用 2 小时，但每天最多可能使用 4-6 小时，尤其是对于 Web 开发经验少于三年的开发者。
+本课程将包括大量的听、看、读和写的内容。
+建议每天至少投入2小时，最多可能需要4-6小时，尤其是对于Web开发经验少于三年的开发者。
 
 ## 工作协议
 
-* 我们将在每月最后一个星期五上午 11 点（东部时间）举行 60 分钟的视频演示
-* 我们鼓励您在演示项目中以小组形式工作
-* 我们每天都会和我们的小团体见面，共同进步，分享困惑，一起提高！
-* 我们同意尽我们最大的能力完成活动
-* 我们同意在月底前进行项目演示。
+* 我们将在 **每月最后一个星期五上午11点（美国东部时间）** 举行 **60分钟的在线Demo Day**
+* 我们鼓励您在演示项目中以**小组形式**工作
+* 我们**每天都会和我们的小团体见面**，共同进步，分享困惑，一起提高！
+* 我们同意**尽我们最大的能力完成活动**
+* 我们同意为在月底前**完成演示项目（demo）**而努力
 
 ## 问题
 
-所有问题都应发布到 2 个 Discord 频道之一：
+有任何问题，欢迎随时在课程的微信群中提问。
 
-#help
+或者如果你更喜欢使用Discord，所有问题可以发布到2个Discord 频道之一：
 
-问题反馈：一般问题、日程安排、帐户问题等
-
-#step-#（如step-1, step-2等）
-课后作业支持，疑难解答，每个步骤的一些相关主题等
+- `#help`
+   _问题反馈：一般问题、日程安排、帐户问题等_
+- `#step-#（如step-1, step-2等）`
+   _课后作业支持，疑难解答，每个步骤的一些相关主题等_
 
 **作业**
 
 * 每个步骤的课程都有附加作业
-下一步
 
-* [NEAR认证开发者2级测试网项目跟踪](https://learnnear.club/courses/near-certified-developer-level-2-testnet-project-track/) ，目标是“让您的web3应用程序在NEAR 测试网上拥有100个用户”
-* [NEAR 认证开发者2级贡献者跟踪](https://learnnear.club/courses/near-certified-developer-level-2-contributor-track/)，目标是开始从事 NEAR 生态系统项目
-* 作为我们社区的新成员，冒险仍在继续
+---
+
+完成一级课程后，你还可以参与：
+
+* [NEAR认证开发者（二级）：测试网项目](https://learnnear.club/courses/near-certified-developer-level-2-testnet-project-track/) ，目标是“让您的web3应用程序在NEAR 测试网上拥有100个用户”
+* [NEAR认证开发者（二级）：贡献者](https://learnnear.club/courses/near-certified-developer-level-2-contributor-track/)，目标是开始参与 NEAR 生态项目开发
+* _作为我们社区的新成员，冒险仍将继续_
 
 
 **课程录像**
@@ -86,31 +89,31 @@
 
 **第 1 期：2021 年 2 月 22 日至 2 月 26 日**
 
-* 第 1 天 - 欢迎和启动[幻灯](https://docs.google.com/presentation/d/1UGAu8oHJoJ30o6YNq4b9igREG9p93XDSMLBN9-PzOnw/edit)片和[录像](https://www.youtube.com/watch?v=ZM7TCONx9BI&feature=youtu.be)
-* 第 5 天 - 演示[录像](https://www.youtube.com/watch?v=tOoCaafP2s0)
+* 第 1 天 - 欢迎和启动[幻灯片](https://docs.google.com/presentation/d/1UGAu8oHJoJ30o6YNq4b9igREG9p93XDSMLBN9-PzOnw/edit)和[录像](https://www.youtube.com/watch?v=ZM7TCONx9BI&feature=youtu.be)
+* 第 5 天 - 项目演示[录像](https://www.youtube.com/watch?v=tOoCaafP2s0)
 
 **第 2 期：2021 年 3 月 8 日 - 3 月 12 日**
 
-* 第 1 天 - 欢迎和启动[幻灯](https://docs.google.com/presentation/d/1FSQKvI8P9zHwbl9aPAMvh-CKysuY7xit4CP3MDbkTEc/edit)片和[录像](https://www.youtube.com/watch?v=ZM7TCONx9BI&feature=youtu.be)
-* 第 5 天 - 演示[录像](https://www.youtube.com/watch?v=sFSyXEmu4ek)
+* 第 1 天 - 欢迎和启动[幻灯片](https://docs.google.com/presentation/d/1FSQKvI8P9zHwbl9aPAMvh-CKysuY7xit4CP3MDbkTEc/edit)和[录像](https://www.youtube.com/watch?v=ZM7TCONx9BI&feature=youtu.be)
+* 第 5 天 - 项目演示[录像](https://www.youtube.com/watch?v=sFSyXEmu4ek)
 
 **第 3 期：2021 年 3 月 22 日至 3 月 26 日**
 
 * 第 1 天 - 欢迎和启动[幻灯片](https://docs.google.com/presentation/d/17sDZlKb0DdJRuK7gvvTaGMbBcmScR2RbRH57Rde_UQI/edit#slide=id.p)和[录像](https://www.youtube.com/watch?v=_1oieYAtmec)
-* 第 5 天 - 演示[录像](https://www.youtube.com/watch?v=RtVtA9Wd8UI)
+* 第 5 天 - 项目演示[录像](https://www.youtube.com/watch?v=RtVtA9Wd8UI)
 
 **第 4 期：2021 年 4 月 5 日至 4 月 9 日**
 
-* 第 1 天 - 欢迎和启动[幻灯](https://docs.google.com/presentation/d/1XbFpV47P49w5ve_xCCmP5V8hsQf9ltRGRel5fQZnLA4/edit)片和[录像](https://www.youtube.com/watch?v=w2dZ65RJArs)
-* 第 5 天 - 演示[录像](https://www.youtube.com/watch?v=DUNYo2wYhrI)
+* 第 1 天 - 欢迎和启动[幻灯片](https://docs.google.com/presentation/d/1XbFpV47P49w5ve_xCCmP5V8hsQf9ltRGRel5fQZnLA4/edit)和[录像](https://www.youtube.com/watch?v=w2dZ65RJArs)
+* 第 5 天 - 项目演示[录像](https://www.youtube.com/watch?v=DUNYo2wYhrI)
 
 **第 5 期：2021 年 4 月 19 日至 4 月 23 日**
 
-* 演示[录像](https://www.youtube.com/watch?v=SE5ZF8iasYk)
+* 第 5 天 - 项目演示[录像](https://www.youtube.com/watch?v=SE5ZF8iasYk)
  
 **第6期：**
 
-* 第 5 天 - 演示[录像](https://www.youtube.com/watch?v=RjFCXzTciuk)
+* 第 5 天 - 项目演示[录像](https://www.youtube.com/watch?v=RjFCXzTciuk)
 
 
 **常见问题**
