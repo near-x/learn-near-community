@@ -1,17 +1,22 @@
 ## 步骤3 – 编写 web3 - NEAR 认证开发者（一级）
-学习如何在合约中对资金，身份和所有权进行控制。
+
+_学习如何在合约中对资金，身份和所有权进行控制。_
 
 > :sparkles: 今天的目标是编写可编译的合约。:sparkles: 
 
-确保克隆（clone）每个仓库(repository)并在本地构建。 使每个应用程序运行与阅读代码一样重要，因为今天您将专注于理解所有组件的工作方式
+确保克隆（clone）每个代码仓库（repository）并在本地编译。让每个应用程序运行起来，与阅读代码一样重要，因为今天您将专注于理解所有组件的工作方式。
 
-如果由于某种原因而卡在一个应用程序上，只需在Discord中寻求帮助并立即继续。 如果可能的话，请不要等到其他人答复后再继续，否则您会浪费时间。
+如果由于某种原因而卡在一个应用程序上，只需在微信群或者Discord中寻求帮助并立即继续。如果可能的话，请不要等到其他人答复后再继续，否则您会浪费时间。
 
 ### :green_book: 核心活动：
-在下面的资源部分中，选择AssemblyScript或Rust
-* 阅读您所选的语言中标记为“CORE Activity”的3个应用程序
 
-如果您喜欢逐步进行，则可以执行以下操作来仔细研究每个合约或dApp：
+在下面的[资源部分](https://learnnear.club/lessons/step-3-writing-web3-near-certified-developer-level-1/#-Resources)中，选择AssemblyScript或Rust
+
+* **阅读**您所选的语言中标记为“CORE Activity”的3个应用程序
+
+---
+
+如果您想要明确的步骤，则可以按以下方式来仔细研究每个合约或dApp：
 
 1. 从 **[步骤2](https://learnnear.club/lessons/step-2-reading-web3-near-certified-developer-level-1/)的合约** 或**步骤3的dApp**（见下文）中选择任何合约
 2. 在本地**克隆代码仓库**（如果使用Windows，则可使用Gitpod）
@@ -51,30 +56,32 @@ _如果您感到无所畏惧，那么您可能会在一天中做完这些_
 **AssemblyScript**
 
 * 在AssemblyScript workshop中完成这些挑战
-    - #1. [scavenger hunt](https://github.com/Learn-NEAR/workshop--exploring-assemblyscript-contracts#activityscavenger-hunt)是一个AssemblyScript的例子
-    - #2. [debugging challenge](https://github.com/Learn-NEAR/workshop--exploring-assemblyscript-contracts#activitydebugging-challenge) 有一些未通过的测试用例需要修复
+    - #1. [寻物游戏](https://github.com/Learn-NEAR/workshop--exploring-assemblyscript-contracts#activityscavenger-hunt)是一个AssemblyScript的例子
+    - #2. [调试挑战](https://github.com/Learn-NEAR/workshop--exploring-assemblyscript-contracts#activitydebugging-challenge) 有一些未通过的测试用例需要修复
 
 * 完成这些挑战，然后以一些有趣的方式修改合约
-    - #3. [开发周期挑战](https://github.com/Learn-NEAR/workshop--exploring-assemblyscript-contracts#activitydevelopment-lifecycle)将引导您部署一个合约
+    - #3. [开发生命周期挑战](https://github.com/Learn-NEAR/workshop--exploring-assemblyscript-contracts#activitydevelopment-lifecycle)将引导您部署一个合约
 
-* 查看NEAR提供的辅助数据结构。 这些都是NEAR Storage的封装，如docs所示 [Storage as seen in docs](https://docs.near.org/docs/concepts/data-storage#docsNav)
-   -  collections in [near-sdk-as](https://github.com/near/near-sdk-as/tree/master/sdk-core/assembly/collections)
-   -  collection [performance](https://github.com/near-examples/collection-examples-as)
+* 查看NEAR提供的便利的数据结构。这些都是NEAR Storage的封装，[如文档所示](https://docs.near.org/docs/concepts/data-storage#docsNav)
+   -  [`near-sdk-as` 中的 collections](https://github.com/near/near-sdk-as/tree/master/sdk-core/assembly/collections)
+   -  collection [性能](https://github.com/near-examples/collection-examples-as)
 
-* 在AssemblyScript中查看同质化和非同质化代币合约
-   -  [FT](https://github.com/near-examples/FT)
-   -  [NFT](https://github.com/near-examples/NFT)
+* 查看AssemblyScript实现的同质化和非同质化通证合约
+   -  [FT：同质化通证](https://github.com/near-examples/FT)
+   -  [NFT：非同质化通证](https://github.com/near-examples/NFT)
 
 **Rust**
 
-* 完成[workshop on Rust contracts](https://github.com/Learn-NEAR/workshop--berry-club-bot) （基于 [berryclub](https://berryclub.io/)） ，尝试修复失败的测试并参与绘制一些有意思的去中心化图片
-* 查看一些NEAR提供的辅助数据结构。 这些都是对NEAR Storage的封装, [相关文档](https://docs.near.org/docs/concepts/data-storage#docsNav)
-    - 集合[near-sdk-rs](https://github.com/near/near-sdk-rs/tree/master/near-sdk/src/collections)
-    - 集合[performance](https://github.com/near-examples/collection-examples-rs)
+* 完成[Rust合约工作坊](https://github.com/Learn-NEAR/workshop--berry-club-bot) （基于 [berryclub](https://berryclub.io/)） ，尝试修复失败的测试并参与绘制一些有意思的去中心化图片
 
-* 查看同质和非同质代币Rust合约
-    *- [FT](https://github.com/near-examples/FT)
-    - [NFT](https://github.com/near-examples/NFT)
+* 查看一些NEAR提供的辅助数据结构。 这些都是对NEAR Storage的封装, [相关文档](https://docs.near.org/docs/concepts/data-storage#docsNav)
+    - [`near-sdk-rs` 中的 collections](https://github.com/near/near-sdk-rs/tree/master/near-sdk/src/collections)
+    - collection [性能](https://github.com/near-examples/collection-examples-rs)
+
+* 查看Rust实现的同质和非同质通证合约
+    - [FT：同质化通证](https://github.com/near-examples/FT)
+    - [NFT：非同质化通证](https://github.com/near-examples/NFT)
+
 * 查看[berryclub合约](https://github.com/evgenykuzyakov/berryclub)
 
 
@@ -94,10 +101,10 @@ _如果您感到无所畏惧，那么您可能会在一天中做完这些_
 
 ## :dart: 资源
 
-注意：
+请记住：
 
 * 您**需要**构建（并运行测试）每个dApp（“去中心化应用”）
-* 您应该**尝试**了解合约中的每一行代码
+* 您应该**尝试**理解合约中的**每一行**代码
 
 ### AssemblyScript
 
@@ -118,8 +125,8 @@ _如果您感到无所畏惧，那么您可能会在一天中做完这些_
 
 ### 无合约
 
-可以使用NEAR构建不使用合约的应用程序。
-以下是这些示例：[无合约示例](https://airtable.com/shr5VqiNCEoPWl0JQ/tblm1quryzSbqBzCK)
+即使不使用合约，也可以使用NEAR构建的应用程序。
+以下是一些示例：[无合约的应用的示例](https://airtable.com/shr5VqiNCEoPWl0JQ/tblm1quryzSbqBzCK)
 
 
 ## 编写 web3 作业 - NCDL1
