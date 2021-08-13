@@ -74,7 +74,7 @@ _如果您感到无所畏惧，那么您可能会在一天中做完这些_
 
 * 完成[Rust合约工作坊](https://github.com/Learn-NEAR/workshop--berry-club-bot) （基于 [berryclub](https://berryclub.io/)） ，尝试修复失败的测试并参与绘制一些有意思的去中心化图片
 
-* 查看一些NEAR提供的辅助数据结构。 这些都是对NEAR Storage的封装, [相关文档](https://docs.near.org/docs/concepts/data-storage#docsNav)
+* 查看NEAR提供的便利的数据结构。这些都是NEAR Storage的封装，[[如文档所示](https://docs.near.org/docs/concepts/data-storage#docsNav)
     - [`near-sdk-rs` 中的 collections](https://github.com/near/near-sdk-rs/tree/master/near-sdk/src/collections)
     - collection [性能](https://github.com/near-examples/collection-examples-rs)
 
