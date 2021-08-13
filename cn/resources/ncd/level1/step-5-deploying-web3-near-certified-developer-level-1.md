@@ -1,7 +1,12 @@
-## 步骤5 – 部署 web3（NEAR开发者L1认证）
-学习将智能合约部署到TestNet。
+# 第 5 步 - 部署 web3 - NEAR 认证开发者（一级）
 
->今天的目标是部署合同并验证其是否有效。
+_学习将智能合约部署到TestNet。_
+
+--------
+
+> :sparkles: 今天的目标是部署合约并验证其是否有效。
+
+--------
 
 当我们在NEAR上说“application”时，通常是指有以下行为的软件：
 * （a）控制的链上数据和行为的智能合约（如NFT合约）
@@ -12,6 +17,7 @@
 MainNet的部署超出了课程的范围，因此我们将重点关注TestNet，以及作为额外活动，您可以在LocalNet中私下构建合约。 在TestNet上运行的所有内容都应在MainNet上同样有效。 实际上，这是TestNet的唯一目的：在我们将合约发布到MainNet上之前，为我们提供工作的完整预览。
 
 ### :green_book: 核心活动：
+
 1. 填写下面的表格，以预约您的演示。 您必须（与团队或您自己）参与演示的开发以获得证书。
 	如果只有您一个人参加演示，那么在下面的表格中填写您个人的信息即可。 如果您有一个团队，在下面的表格中请填入团队所有人员的信息（仅需提交一份表格）。
    [预约您的演示时间](https://learnnear.club/lessons/step-5-deploying-web3-near-certified-developer-level-1/#Submit%20Demo)
@@ -30,6 +36,7 @@ MainNet的部署超出了课程的范围，因此我们将重点关注TestNet，
 
 
 ### :blue_book: 奖励活动：
+
 如果您还有时间和精力，还有更多内容等待您
 
 1. 安装[nearup](https://github.com/near/nearup) 获得一个[本地节点运行](https://github.com/near/nearup#spawn-a-local-network) 。 具体步骤为：
@@ -68,7 +75,8 @@ MainNet的部署超出了课程的范围，因此我们将重点关注TestNet，
         └── validator_key.json
     ```
 		    
-### :orange_book: 更加深入的探索
+### :orange_book: 深入探索
+
 如果您感到无所畏惧，那么您可以在一天中做完这些
 
 现在该准备demo了！

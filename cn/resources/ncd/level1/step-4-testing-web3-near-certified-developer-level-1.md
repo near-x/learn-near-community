@@ -1,7 +1,12 @@
-## 步骤4 – 测试web3合约 - NEAR认证开发者（一级）
-学习编写智能合约的单元测试和模拟测试。
+# 第 4 步 - 测试 web3 - NEAR 认证开发者（一级）
+
+_学习编写智能合约的单元测试和模拟测试。_
+
+--------
 
 > :sparkles: 今天的目标是为你的合约编写一些测试。:sparkles: 
+
+--------
 
 ### :green_book: 核心活动：
 1. 在下面的[资源部分](https://learnnear.club/lessons/step-4-testing-web3-near-certified-developer-level-1/#-Resources)中，选择AssemblyScript或Rust
