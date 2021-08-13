@@ -81,7 +81,7 @@ _如果您感到无所畏惧，那么您可能会在一天中做完这些_
 您可以阅读更多有关[Rust合约的基础知识](https://hackmd.io/@nearly-learning/contract-basics-rust)，也可以选择观看[视频](https://www.youtube.com/watch?v=AOvqsD-rBUw)以了解Rust合约。
 
 
-## NCDL1阅读 web3 作业
+## 阅读 web3 作业 - NCDL1
 
 现在，是时候交作业了！
 问题1：您阅读了多少合约？
