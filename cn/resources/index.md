@@ -1,21 +1,21 @@
-Welcome to Learn NEAR
+## 欢迎来到 Learn NEAR
 
-## Learn NEAR Club banner
+<!-- Learn NEAR Club banner -->
 
-- Learn to build for Open Economy today
-- NEAR Protocol intends to educate the world on the Web3 stack
-- Earn NEAR while you Learn NEAR
-- Exclusive Offers from  NEAR
+- 学习为今天的开放经济构建应用
+- NEAR Protocol将帮助全球的开发者学习 Web3 技术栈
+- 边学习 NEAR，边挣到 NEAR
+- 来自 NEAR 的独家优惠
 
-## NEAR Certified Developer Program
+## NEAR 认证开发者课程
 
-This course is an opportunity for web developers to earn a Certificate of Completion that represents the ability to design, develop, test and deploy smart contracts on the NEAR platform – NEAR Certified Developer (NCD).
-
-
-## Onboarding Guides
+本课程是 Web 开发者获得证书的机会，该证书代表了在 NEAR 平台上设计、开发、测试和部署智能合约的能力——NEAR 认证开发者 (NCD)。
 
 
-## New Guides
+## 入门指南
 
 
-## Learn and Earn NEAR
+## 最新指南
+
+
+## 学习并挣到NEAR
