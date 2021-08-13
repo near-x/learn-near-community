@@ -1,4 +1,4 @@
-## 步骤4 – 测试web3合约（NEAR开发者L1认证）
+## 步骤4 – 测试web3合约 - NEAR认证开发者（一级）
 学习编写智能合约的单元测试和模拟测试。
 
 > :sparkles: 今天的目标是为你的合约编写一些测试。:sparkles: 
@@ -53,7 +53,7 @@ _如果您感到无所畏惧，那么您可以在一天中做完这些_
 
 ### AssemblyScript
 
-如果你想专注于AssemblyScript，[查看AssemblyScript的合约列表](https://airtable.com/shrG4kGx80F55usI4)
+如果你想专注于AssemblyScript，[打开AssemblyScript的合约列表](https://airtable.com/shrG4kGx80F55usI4)
 
 对于**至少3份**被标记为**CORE Activity**的合约
 
