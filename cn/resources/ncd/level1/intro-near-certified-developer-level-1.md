@@ -151,7 +151,7 @@ MacOS 和 Linux 的开发体验最佳。
 
 但是不要把他人的工作占为己有，因为那是蹩脚的。
 
-7. 我还有一百个问题。
+**7. 我还有一百个问题**
 
 太棒了。这里有一份[真正的常见问题](https://learnnear.club/ncd-frequently-asked-questions/)
 
