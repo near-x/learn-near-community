@@ -123,10 +123,10 @@ _如果您感到无所畏惧，那么您可能会在一天中做完这些_
 
 您可以阅读有关[Rust合约](https://hackmd.io/@nearly-learning/contract-basics-rust)的更多信息
 
-### 无合约
+### 没有合约
 
 即使不使用合约，也可以使用NEAR构建的应用程序。
-以下是一些示例：[无合约的应用的示例](https://airtable.com/shr5VqiNCEoPWl0JQ/tblm1quryzSbqBzCK)
+以下是一些示例：[不使用合约的应用示例](https://airtable.com/shr5VqiNCEoPWl0JQ/tblm1quryzSbqBzCK)
 
 
 ## 编写 web3 作业 - NCDL1
