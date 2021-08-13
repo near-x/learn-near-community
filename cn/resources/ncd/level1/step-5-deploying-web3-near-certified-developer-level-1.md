@@ -32,7 +32,7 @@ MainNet的部署超出了课程的范围，因此我们将重点关注TestNet，
 
 4. 验证使用你的应用
 
-   使用[NEAR Explorer](https://explorer.testnet.near.org/) 验证部署（在[您的帐户](https://explorer.testnet.near.org/accounts/sherif.testnet) 上查找与已部署合约的目标账户相关联的交易记录）
+   - 使用[NEAR Explorer](https://explorer.testnet.near.org/) 验证部署（在[您的帐户](https://explorer.testnet.near.org/accounts/sherif.testnet) 上查找与已部署合约的目标账户相关联的交易记录）
 
 
 ### :blue_book: 奖励活动：
