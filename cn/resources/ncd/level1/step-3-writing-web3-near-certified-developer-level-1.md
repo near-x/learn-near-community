@@ -55,7 +55,7 @@ _如果您感到无所畏惧，那么您可能会在一天中做完这些_
 
 **AssemblyScript**
 
-* 在AssemblyScript workshop中完成这些挑战
+* 在AssemblyScript工作坊中完成这些挑战
     - #1. [寻物游戏](https://github.com/Learn-NEAR/workshop--exploring-assemblyscript-contracts#activityscavenger-hunt)是一个AssemblyScript的例子
     - #2. [调试挑战](https://github.com/Learn-NEAR/workshop--exploring-assemblyscript-contracts#activitydebugging-challenge) 有一些未通过的测试用例需要修复
 
@@ -125,7 +125,7 @@ _如果您感到无所畏惧，那么您可能会在一天中做完这些_
 
 ### 没有合约
 
-即使不使用合约，也可以使用NEAR构建的应用程序。
+即使不使用合约，也可以使用NEAR构建应用程序。
 以下是一些示例：[不使用合约的应用示例](https://airtable.com/shr5VqiNCEoPWl0JQ/tblm1quryzSbqBzCK)
 
 
