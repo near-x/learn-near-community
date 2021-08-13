@@ -36,7 +36,7 @@ _如果您还有时间去探索，那么您可以进行以下活动。_
     * [Scavenger Hunt Challenge #2](https://hackmd.io/@nearly-learning/hunt-02)
 
 
-### :orange_book: 更加深入的探索
+### :orange_book: 深入探索
 
 _如果您感到无所畏惧，那么您可能会在一天中做完这些_
 
