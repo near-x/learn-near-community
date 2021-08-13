@@ -111,7 +111,7 @@
 
 * 第 5 天 - 项目演示[录像](https://www.youtube.com/watch?v=SE5ZF8iasYk)
  
-**第6期：**
+**第 6 期：**
 
 * 第 5 天 - 项目演示[录像](https://www.youtube.com/watch?v=RjFCXzTciuk)
 
