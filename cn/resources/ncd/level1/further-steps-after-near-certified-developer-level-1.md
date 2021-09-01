@@ -1,7 +1,7 @@
 
 # NEAR 认证开发者（一级）之后的更多步骤
 
-如果您已经完成了演示项目，你可以注册：
+如果您已经完成了演示项目，您可以注册：
 
 [NEAR 认证开发者 (二级) 测试网应用开发](https://learnnear.club/courses/near-certified-developer-level-2-testnet-project-track/)课程，如果你想要进一步完善你的项目并且在 Learn NEAR Club 的帮助下来获取你的项目的最初的100位用户，
 
