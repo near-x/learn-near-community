@@ -1,7 +1,16 @@
 
 # NEAR 认证开发者（一级）之后的更多步骤
 
-如果您参与了演示项目，请注册[NEAR 认证开发者 (一级/核实)](https://learnnear.club/courses/near-certified-developer-verified-ncdl1v/)课程以安排面试并获得卓越证书。还可将您的名字包含在[NEAR 认证开发者名录](https://learnnear.club/near-certified-developers-level1/)中 
+如果您已经完成了演示项目，你可以注册：
+
+[NEAR 认证开发者 (二级) 测试网应用开发](https://learnnear.club/courses/near-certified-developer-level-2-testnet-project-track/)课程，如果你想要进一步完善你的项目并且在 Learn NEAR Club 的帮助下来获取你的项目的最初的100位用户，
+
+或者
+
+[NEAR 认证开发者 (二级) 贡献者](https://learnnear.club/courses/near-certified-developer-level-2-contributor-track/) 课程，如果你想要加入 NEAR 生态的现有项目。
+
+祝你愉快得边学边挣！
+
 
 ### 现在，是时候提交最终作业了！
 
