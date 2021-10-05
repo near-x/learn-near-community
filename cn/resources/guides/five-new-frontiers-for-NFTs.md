@@ -174,3 +174,5 @@ NFT 是一种通用机制，可以表达对任何事物的所有权。目前，�
 开发者和创作者将为 NFT 创造出一些我们从未想像过的全新案例。
 
 如果您正在研究使用 NFT 的全新方式，我很乐意去听取您的意见并参与您正在构建的东西！
+
+原文链接：https://medium.com/electric-capital/5-new-frontiers-for-nfts-c77de367631d
