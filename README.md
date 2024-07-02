@@ -11,7 +11,7 @@ NEAR是一个基于区块链的开放网络基础设施，是发布下一代去�
 
 NEAR 认证开发者课程目前已有数百位开发者积极报名、组队学习和开发项目，并且有很多同学已经成功完成课程学习并提交了高质量的作品。
 
-**2024年7月1日~7月31日**我们将推出新一期的课程。完成课程学习并且成功进行项目演示的开发者，将赢得至多价值 **500 USD** 的 **$NEAR** 奖励并且被授予「NEAR 认证开发者」证书，还有机会获得 **NEAR 纪念衫** 等奖品。
+**2024年7月15日~7月26日**我们将推出新一期的课程。完成课程学习并且成功进行项目演示的开发者，将赢得至多价值 **500 USD** 的 **$NEAR** 奖励并且被授予「NEAR 认证开发者」证书，还有机会获得 **NEAR 纪念衫** 等奖品。
 
 本次课程主要面向有1年以上 Web 2.0 或者区块链开发经验的开发者。如果没有任何编程经验，也欢迎报名参加，但需要付出较多的精力才能跟上课程内容。
 
@@ -21,7 +21,7 @@ NEAR 认证开发者课程目前已有数百位开发者积极报名、组队学
 
 ## 课程时间
 
-**7月1日 ~ 7月31日**
+**7月15日 ~ 7月26日**
 
 ## 课程内容
 
@@ -34,8 +34,7 @@ NEAR 认证开发者课程目前已有数百位开发者积极报名、组队学
 
 **NEAR 应用开发实践：**
 
-- Keypom 介绍
-- Pikespeak 介绍
+- 待定
 
 ## **课程安排**
 
@@ -43,32 +42,32 @@ NEAR 认证开发者课程目前已有数百位开发者积极报名、组队学
 
 | 章节 | 时间 | 时长 | 演讲者 |
 | ----- | ----- | ----- | ----- |
-| NEAR 核心概念与应用架构 | 8月14日 | 1.5h | Robert, NEAR 工程师 |
-| NEAR Rust 智能合约开发 | 8月16日 | 1.5h | Marco, NEAR Rust 合约专家 |
-| NEAR JavaScript 智能合约开发 | 8月16日 | 1.5h | Robert, NEAR 工程师 |
-| NEAR DApp 开发与常用工具 | 8月18日 | 1.5h | Daniel, NEAR 工程师 |
-| 在线答疑 Office Hour | 8月18日 | 1h | -- |
-| Keypom 介绍 | 8月28日 | 1h | Marco, NEAR Rust 合约专家  |
-| Pikespeak 介绍 | - | 1h |   |
-| Demo Day | 8月25日 | 1h | -- |
+| NEAR 核心概念与应用架构 | 7月15日 | 1.5h | Robert, NEAR 工程师 |
+| NEAR Rust 智能合约开发 | 7月17日 | 1.5h | Marco, NEAR Rust 合约专家 |
+| NEAR JavaScript 智能合约开发 | 7月17日 | 1.5h | Robert, NEAR 工程师 |
+| NEAR DApp 开发与常用工具 | 7月19日 | 1.5h | Daniel, NEAR 工程师 |
+| 在线答疑 Office Hour | 7月19日 | 1h | -- |
+| TBD | 7月22日 | 1h |   |
+| TBD | 7月24日 | 1h |   |
+| Demo Day | 7月26日 | 1h | -- |
 
 ### 课件与视频
 
 | 章节 | 时间 | 幻灯片 | 视频 |
 | ----- | ----- | ----- | ----- |
-| NEAR 核心概念与应用架构 | 7月1日 | [下载](https://github.com/near-x/ncd-cn/raw/master/cohorts/ncd-cn-6/slides/NEAR%20%E8%AE%A4%E8%AF%81%E5%BC%80%E5%8F%91%E8%80%85%EF%BC%881%EF%BC%89%EF%BC%9ANEAR%20%E6%A0%B8%E5%BF%83%E6%A6%82%E5%BF%B5%E4%B8%8E%E5%BA%94%E7%94%A8%E6%9E%B6%E6%9E%84.pdf) | [播放](https://www.bilibili.com/video/BV1AT4y1S7ms/) |
-| NEAR Rust 智能合约开发 | 7月16日 | [打开](https://shimo.im/presentation/NJkbW7V6XzcEv2AR/) | [播放](https://www.bilibili.com/video/BV1Jq4y1Y74z/) |
-| 用 JavaScript 开发 NEAR 智能合约 | 7月16日 | [下载](https://github.com/near-x/ncd-cn/raw/master/cohorts/ncd-cn-8/slides/NEAR%20%E8%AE%A4%E8%AF%81%E5%BC%80%E5%8F%91%E8%80%85%EF%BC%8826%EF%BC%89%EF%BC%9A%20%E7%94%A8%20JavaScript%20%E5%BC%80%E5%8F%91%20NEAR%20%E6%99%BA%E8%83%BD%E5%90%88%E7%BA%A6.pdf) | [播放](https://www.bilibili.com/video/BV1wS4y1z7oT/) |
-| NEAR DApp 开发与常用工具 | 7月18日 | [下载](https://github.com/near-x/ncd-cn/raw/master/cohorts/ncd-cn-1/slides/NEAR%20%E8%AE%A4%E8%AF%81%E5%BC%80%E5%8F%91%E8%80%85%EF%BC%883%EF%BC%89%EF%BC%9ANEAR%20DApp%20%E5%BC%80%E5%8F%91%E4%B8%8E%E5%B8%B8%E7%94%A8%E5%B7%A5%E5%85%B7.pdf) | [播放](https://www.bilibili.com/video/BV1vu411q7gp/) |
-| 在线答疑 Office Hour | 7月18日 | -- | -- |
-| Keypom 介绍 | 8月28日 | [下载1](https://bit.ly/ncd-cn-keypom-1) / [下载2](https://bit.ly/ncd-cn-keypom-2) | [播放](https://www.bilibili.com/video/BV1Cu4y1D7eP) |
-| Pikespeak 介绍 | 7月23日 |  |
-| Demo Day | 7月25日 | -- | -- |
+| NEAR 核心概念与应用架构 | 7月15日 | [下载](https://github.com/near-x/ncd-cn/raw/master/cohorts/ncd-cn-6/slides/NEAR%20%E8%AE%A4%E8%AF%81%E5%BC%80%E5%8F%91%E8%80%85%EF%BC%881%EF%BC%89%EF%BC%9ANEAR%20%E6%A0%B8%E5%BF%83%E6%A6%82%E5%BF%B5%E4%B8%8E%E5%BA%94%E7%94%A8%E6%9E%B6%E6%9E%84.pdf) | [播放](https://www.bilibili.com/video/BV1AT4y1S7ms/) |
+| NEAR Rust 智能合约开发 | 7月17日 | [打开](https://shimo.im/presentation/NJkbW7V6XzcEv2AR/) | [播放](https://www.bilibili.com/video/BV1Jq4y1Y74z/) |
+| 用 JavaScript 开发 NEAR 智能合约 | 7月17日 | [下载](https://github.com/near-x/ncd-cn/raw/master/cohorts/ncd-cn-8/slides/NEAR%20%E8%AE%A4%E8%AF%81%E5%BC%80%E5%8F%91%E8%80%85%EF%BC%8826%EF%BC%89%EF%BC%9A%20%E7%94%A8%20JavaScript%20%E5%BC%80%E5%8F%91%20NEAR%20%E6%99%BA%E8%83%BD%E5%90%88%E7%BA%A6.pdf) | [播放](https://www.bilibili.com/video/BV1wS4y1z7oT/) |
+| NEAR DApp 开发与常用工具 | 7月19日 | [下载](https://github.com/near-x/ncd-cn/raw/master/cohorts/ncd-cn-1/slides/NEAR%20%E8%AE%A4%E8%AF%81%E5%BC%80%E5%8F%91%E8%80%85%EF%BC%883%EF%BC%89%EF%BC%9ANEAR%20DApp%20%E5%BC%80%E5%8F%91%E4%B8%8E%E5%B8%B8%E7%94%A8%E5%B7%A5%E5%85%B7.pdf) | [播放](https://www.bilibili.com/video/BV1vu411q7gp/) |
+| 在线答疑 Office Hour | 7月19日 | -- | -- |
+| TBD | 7月22日 |  |
+| TBD | 7月24日 |  |
+| Demo Day | 7月26日 | -- | -- |
 
 ## 认证方法
 
 - 完成课程作业：阅读代码等
-- 开发 Demo 项目，参加 7月25日的 Demo Day 进行项目演示
+- 开发 Demo 项目，参加 7月26日的 Demo Day 进行项目演示
 
 ## **课程注册**
 
@@ -78,7 +77,7 @@ NEAR 认证开发者课程目前已有数百位开发者积极报名、组队学
 
 ### **2. 在 LearnNEAR Club 注册**
 
-1. 如果还没有 NEAR 账户，请到[https://wallet.near.org/](https://wallet.near.org/) 创建新账户。；
+1. 如果还没有 NEAR 账户，请到 [Meteor Wallet](https://wallet.meteorwallet.app/add_wallet/create_new) 创建新账户；
 2. 打开[https://learnnear.club/](https://learnnear.club/)，用 NEAR 账户登录（需要是 `alice.near` 这样的可读账户，用64位的长地址不行）；
 3. 浏览[指南](https://learnnear.club/zh/zhinan/)下的2~3篇文章，以获得足够积分用于注册 NCD L1 课程；
 4. 打开 NCD L1 课程页面[中文版](https://learnnear.club/zh/courses/near-ren-zheng-kai-fa-zhe-%ef%bc%88-yi-ji-%ef%bc%89/) ，点击 **Enroll Now** 按钮进行注册；
